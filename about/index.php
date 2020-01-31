@@ -1,9 +1,9 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("О компании");
-?> 
+?>
 <p align="justify" class="last"><img src="/upload/medialibrary/614/map_final_2012_shtrih_02_80.jpg" title="map_final_2012_shtrih_02_80.jpg" border="0" alt="map_final_2012_shtrih_02_80.jpg" width="640" height="480"  /></p>
- Время работы центрального офиса: с 10.00 до 19.00 без обеда, кроме субботы и воскресенья. 
+ Время работы центрального офиса: с 10.00 до 19.00 без обеда, кроме субботы и воскресенья.. 
 <p></p>
  
 <p align="justify"><b>ГРУППА КОМПАНИЙ &laquo;ШТРИХ-М&raquo;</b></p>
