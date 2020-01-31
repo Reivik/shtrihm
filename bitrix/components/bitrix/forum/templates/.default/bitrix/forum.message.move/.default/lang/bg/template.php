@@ -1,0 +1,35 @@
+<?
+$MESS ['F_BUTTON_MOVE'] = "Премести";
+$MESS ['F_TITLE'] = "Преместване на съобщения";
+$MESS ['F_TITLE_ON_FORUM'] = "във форума";
+$MESS ['F_HEAD_TO_EXIST_TOPIC'] = "съществуваща тема";
+$MESS ['F_HEAD_TO_NEW_TOPIC'] = "нова тема";
+$MESS ['F_TOPIC_NAME'] = "Заглавие";
+$MESS ['F_TOPIC_DESCR'] = "Описание";
+$MESS ['F_TOPIC_TAGS'] = "Тагове";
+$MESS ['F_AUTHOR_PROFILE'] = "Профил на автора на съобщението";
+$MESS ['F_NUM_MESS'] = "Общо съобщения:";
+$MESS ['F_DATE_REGISTER'] = "Дата на регистрация:";
+$MESS ['F_TOPIC_NOT_FOUND'] = "темата не е намерена";
+$MESS ['F_TOPIC_SEARCH_TITLE'] = "Въведете ID темата в полето, или използвайте бутона &laquo;...&raquo; за търсене на темата.";
+$MESS ['F_BAD_NEW_TOPIC'] = "Не е избрана тема. Използвайте бутона  &laquo;...&raquo; за търсене на тема.";
+$MESS ['F_TOPIC_ID'] = "ID на темата";
+$MESS ['F_BAD_TOPIC'] = "Темата не е намерена.";
+$MESS ['FORUM_MAIN_WAIT'] = "Моля, почакайте...";
+$MESS ['F_HIDE'] = "Скрий";
+$MESS ['F_SHOW'] = "Покажи";
+$MESS ['F_ANCHOR'] = "Линк на това съобщение";
+$MESS ['F_ATTACH_FILES'] = "Прикачени файлове";
+$MESS ['F_DELETE'] = "Премахни";
+$MESS ['F_DELETE_MESSAGES_CONFIRM'] = "Сигурни ли сте, че искате да изтриете съобщенията? Тази операция не може да бъде възстановена!";
+$MESS ['F_EDIT_HEAD'] = "Редактирано:";
+$MESS ['F_EDIT'] = "Редактирай";
+$MESS ['F_EMAIL_TITLE'] = "Изпрати писмо до автора на съобщението по E-Mail";
+$MESS ['F_POINTS'] = "Оценка:";
+$MESS ['F_PRIVATE_MESSAGE'] = "Съобщение";
+$MESS ['F_PRIVATE_MESSAGE_TITLE'] = "Изпрати лично съобщение на автора";
+$MESS ['F_REAL_IP'] = "/ реален";
+$MESS ['F_MOVE_TO'] = "Премести съобщението в";
+$MESS ['F_USER_ID'] = "ID на посетителя";
+$MESS ['F_USER_ID_USER'] = "ID на потребителя";
+?>

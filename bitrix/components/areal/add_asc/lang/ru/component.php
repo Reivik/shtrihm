@@ -1,0 +1,30 @@
+<?
+$MESS["NOT_AUTH_USER"] = "Чтобы получить доступ в данный раздел необходимо авторизоваться в системе.";
+$MESS["NOT_USER_ACCESS"] = "Недостаточно прав для просмотра данной страницы.";
+$MESS["ASPD_ON_THE_BASIS_OF_KKM"] = "АСПД на основе ККМ";
+$MESS["ASPD_ON_THE_BASIS_OF_THE_FR"] = "АСПД на основе ФР";
+$MESS["POS_SYSTEMS"] = "POS-системы";
+$MESS["SOFTWARE"] = "Программное обеспечение";
+$MESS["COMPLEXES_LABELING"] = "Комплексы этикетирования";
+$MESS["INFORMATION_KIOSKS"] = "Информационные киоски";
+$MESS["PAYMENT_TERMINALS"] = "Платежные терминалы";
+$MESS["BANK_TERMINALS"] = "Банковские терминалы";
+$MESS["NEED_CONTACT_PERSON"] = "Необходимо указать контактные данные руководителя.";
+$MESS["NEED_CONTACT_PERSON_PHONE_EMAIL"] = "Для каждого руководителя необходимо указать телефон или Email.";
+$MESS["NEED_CONTACT_PERSON_EMAIL_ERROR"] = "Email руководителя указан неверно.";
+$MESS["NO_REQUIRED_CONTACT_PERSON_FIELD_NAME"] = "Для каждого руководителя необходимо заполнить поле &laquo;ФИО&raquo;";
+$MESS["NO_REQUIRED_CONTACT_PERSON_FIELD_POSITION"] = "Для каждого руководителя необходимо заполнить поле &laquo;Должность&raquo;";
+$MESS["NEED_DIRECTIONS_OF_ACTIVITY"] = "Необходимо указать направления деятельности авторизованного сервисного центра.";
+$MESS["NEED_REGIONS_OF_ACTIVITY"] = "Необходимо указать регионы осуществления деятельности авторизованного сервисного центра.";
+$MESS["NEED_DIRECTIONS_OF_ACTIVITY_EMPTY"] = "Не указана информация о направлении деятельности авторизованного сервисного центра.";
+$MESS["NEED_REGIONS_OF_ACTIVITY_EMPTY"] = "Не указана информация о регионах осуществления деятельности авторизованного сервисного центра.";
+$MESS["NEED_CONTACT"] = "Необходимо заполнить все поля о лице, оставивщем заявку.";
+$MESS["NEED_CONTACT_EMAIL_ERROR"] = "Поле &laquo;Email&raquo; лица, оставивщего заявку заполнено неверно.";
+$MESS["NEED_COMPANY"] = "Поля &laquo;Название компании&raquo;, &laquo;ИНН&raquo;, &laquo;Регион&raquo;, &laquo;Город&raquo;, &laquo;Адрес (без города)&raquo; должны быть заполнены.";
+$MESS["NEED_COMPANY_EMAIL_PHONE"] = "Необходимо заполнить поле &laquo;Email компании&raquo; или &laquo;Телефон&raquo;.";
+$MESS["NEED_COMPANY_EMAIL_ERROR"] = "Поле &laquo;Email компании&raquo; заполнено неверно.";
+$MESS["CTO_CONTRACT_NUMBER_ERROR"] = "Необходимо заполнить поле &laquo;Номер договора ЦТО&raquo;.";
+$MESS["CTO_CONTRACT_DATE_ERROR"] = "Необходимо заполнить поле &laquo;Дата заключения договора ЦТО&raquo;.";
+$MESS["PARTNER_CONTRACT_NUMBER_ERROR"] = "Необходимо заполнить поле &laquo;Номер партнерского договора&raquo;.";
+$MESS["PARTNER_CONTRACT_DATE_ERROR"] = "Необходимо заполнить поле &laquo;Дата заключения партнерского договора&raquo;.";
+?>

@@ -1,0 +1,32 @@
+<?
+$MESS['BLOG_MENU_BLOGS_LIST'] = 'Blogų sąrašas';
+$MESS['BLOG_MENU_BLOGS_LIST_TITLE'] = 'Pagrindinis tinklaraščių puslapis';
+$MESS['BLOG_MENU_CURRENT_BLOG'] = 'Veikiamasis blogas';
+$MESS['BLOG_MENU_CURRENT_BLOG_TITLE'] = 'Pagrindinis blogo puslapis \"#NAME#\"';
+$MESS['BLOG_MENU_MY_BLOG'] = 'Mano tinklaraštis';
+$MESS['BLOG_MENU_MY_BLOG_TITLE'] = 'Mano tinklaraštis';
+$MESS['BLOG_MENU_PROFILE'] = 'Mano profilis';
+$MESS['BLOG_MENU_PROFILE_TITLE'] = 'Mano profilis';
+$MESS['BLOG_MENU_FRIENDS'] = 'Draugų puslapis';
+$MESS['BLOG_MENU_FRIENDS_TITLE'] = 'Draugų puslapis';
+$MESS['BLOG_MENU_LOGOUT'] = 'Atsijungti';
+$MESS['BLOG_MENU_LOGOUT_TITLE'] = 'Atsijungti';
+$MESS['BLOG_MENU_LOGIN'] = 'Prisijungti';
+$MESS['BLOG_MENU_LOGIN_TITLE'] = 'Prisijungti';
+$MESS['BLOG_MENU_REGISTER'] = 'Registracijos data';
+$MESS['BLOG_MENU_REGISTER_TITLE'] = 'Registracijos data';
+$MESS['BLOG_MENU_ADD_MESSAGE'] = 'Naujas';
+$MESS['BLOG_MENU_ADD_MESSAGE_TITLE'] = 'Pridėti naują pranešimą';
+$MESS['BLOG_MENU_DRAFT_MESSAGES'] = 'Nebaigti pranešimai';
+$MESS['BLOG_MENU_DRAFT_MESSAGES_TITLE'] = 'Nebaigti pranešimai';
+$MESS['BLOG_MENU_USER_SETTINGS'] = 'Naudotojų nuostatos';
+$MESS['BLOG_MENU_USER_SETTINGS_TITLE'] = 'Mano blogo naudotojų nuostata';
+$MESS['BLOG_MENU_GROUP_EDIT'] = 'Grupių nuostata';
+$MESS['BLOG_MENU_GROUP_EDIT_TITLE'] = 'Mano blogo grupių nuostata';
+$MESS['BLOG_MENU_CATEGORY_EDIT'] = 'Gairių nuostata';
+$MESS['BLOG_MENU_CATEGORY_EDIT_TITLE'] = 'Mano blogo gairių nuostata';
+$MESS['BLOG_MENU_BLOG_EDIT'] = 'Blogo nuostata';
+$MESS['BLOG_MENU_BLOG_EDIT_TITLE'] = 'Mano blogo nuostata';
+$MESS['BLOG_MENU_FR_B_F'] = 'Tapti draugu';
+$MESS['BLOG_MENU_FR_A_F'] = 'Pridėti prie draugų';
+?>

@@ -1,0 +1,34 @@
+<?
+$MESS["IBLOCK_DETAIL_URL"] = "URL на страницата с подробно съдържание";
+$MESS["IBLOCK_PRICES"] = "Цени";
+$MESS["IBLOCK_TYPE"] = "Тип на инфоблока";
+$MESS["IBLOCK_IBLOCK"] = "Инфоблок";
+$MESS["IBLOCK_PROPERTY"] = "Свойства";
+$MESS["IBLOCK_SORT_SHOWS"] = "брой на прегледите в средно";
+$MESS["IBLOCK_SORT_SORT"] = "индекс на сортиране";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "датата на промяна";
+$MESS["IBLOCK_SORT_NAME"] = "име";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "активно от";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "активно до";
+$MESS["IBLOCK_SORT_ASC"] = "по възходящ";
+$MESS["IBLOCK_SORT_DESC"] = "по низходящ";
+$MESS["IBLOCK_SECTION_URL"] = "URL на страницата със съдържанието на раздела";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Поле за сортиране на елементите";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Ред за сортиране на елементите";
+$MESS["IBLOCK_PRICE_CODE"] = "Тип цени";
+$MESS["IBLOCK_BASKET_URL"] = "URL,водещ към страницата с кошницата на клиента";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Име на масива със значенията на филтъра за филтрация на елементите";
+$MESS["IBLOCK_CACHE_FILTER"] = "Кешира при поставен филтър";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Брой на елементите на една страница";
+$MESS["IBLOCK_ELEMENT_ID"] = "ID на елемента";
+$MESS["IBLOCK_LINK_PROPERTY_SID"] = "Свойство в което се запазва линка";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "Име на параметъра за \"Действия\"";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "Име на параметъра за \"Кода на продукта\"";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "Име на параметъра за \"Кода на групите\"";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Показва цените с диапазон";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Показва цените за количество";
+$MESS["T_IBLOCK_DESC_PAGER_CATALOG"] = "Продукти";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Включва ДДС в цената";
+$MESS["CP_BCLL_CACHE_GROUPS"] = "С отчитане правата за достъп";
+?>

@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_MODULE_NOT_INSTALL'] = "e-boutique n'est pas installé";
+$MESS ['SALE_BASKET_EMPTY'] = "Votre panier est vide";
+$MESS ['SALE_NO_PERS_TYPE'] = "Type de payeur non choisi.";
+$MESS ['SALE_PERS_TYPE_NOT_FOUND'] = "Le type de payeur pas non trouvé.";
+$MESS ['SALE_EMPTY_FIELD'] = "Ce champ est vide:";
+$MESS ['SALE_DELIVERY_NOT_FOUND'] = "L'expédition de la méthode non trouvée.";
+$MESS ['SALE_NO_PAY_SYS'] = "Méthode de paiement non choisie.";
+$MESS ['SALE_PAY_SYS_NOT_FOUND'] = "Méthode de paiement non trouvée.";
+$MESS ['SALE_ERROR_ADD_ORDER'] = "Erreur sauvant l'ordre.";
+$MESS ['SALE_PROFILE_NAME'] = "Profil";
+$MESS ['SALE_QUANTITY_UNIT'] = "La pièce";
+$MESS ['SALE_DELIV_PERIOD'] = "Expédition de la période";
+$MESS ['SALE_FROM'] = "de";
+$MESS ['SALE_TO'] = "à";
+$MESS ['SALE_PER_DAY'] = "jours";
+$MESS ['SALE_PER_HOUR'] = "heures";
+$MESS ['SALE_PER_MONTH'] = "mois";
+$MESS ['SALE_YES'] = "Oui";
+$MESS ['SALE_NO'] = "Non";
+$MESS ['SALE_TAX_INPRICE'] = "est inclus dans le prix";
+$MESS ['STOF_ERROR_AUTH_LOGIN'] = "Erreur d'authorisation : entrez s'il vous plaît dans votre ouverture de session";
+$MESS ['STOF_ERROR_AUTH'] = "Erreur d'authorisation";
+$MESS ['STOF_ERROR_REG_NAME'] = "Erreur d'enregistrement : introduisez s'il vous plaît votre nom";
+$MESS ['STOF_ERROR_REG_LASTNAME'] = "Erreur d'enregistrement : entrez s'il vous plaît dans votre nom de famille";
+$MESS ['STOF_ERROR_REG_EMAIL'] = "Erreur d'enregistrement : entrez s'il vous plaît dans votre adresse e-mail";
+$MESS ['STOF_ERROR_REG_BAD_EMAIL'] = "Erreur d'enregistrement : vérifiez s'il vous plaît si votre e-mail est tapé correctement";
+$MESS ['STOF_ERROR_REG_FLAG'] = "Erreur d'enregistrement : entrez s'il vous plaît dans l'ouverture de session désirée ou permettez au système de le produire automatiquement";
+$MESS ['STOF_ERROR_REG_FLAG1'] = "Erreur d'enregistrement : entrez s'il vous plaît le mot de passe désiré ou permettez au système de le produire automatiquement";
+$MESS ['STOF_ERROR_REG_PASS'] = "Erreur d'enregistrement : la confirmation de mot de passe ne correspond pas au mot de passe";
+$MESS ['STOF_ERROR_REG'] = "Erreur d'enregistrement";
+$MESS ['STOF_AUTH'] = "Authorisation";
+$MESS ['STOF_MAKING_ORDER'] = "Votre ordre";
+$MESS ['INFO_REQ'] = "Vous avez été avec succès enregistrés.";
+$MESS ['STOF_VAT'] = "TVA";
+?>

@@ -1,0 +1,102 @@
+.introduction_info{width:420px;}
+input[type="text"], input[type="password"], textarea, button{border:1px solid #ABADB3;}
+/* .errortext{background-color:#ED8C1F;color:#FFFFFF;font-weight:bold;} */
+.errortext {background:url(../images/err.png) 11px 10px no-repeat #f1f1f1; padding:2px 25px 3px 32px; margin:0 0px 5px 0}
+
+.techSupportPage {width:100%;}
+.requestFormBtns{margin-top:30px !important;}
+.techSupportPage .sbHolder ul li {background:#FFFFFF;padding:0;}
+.techSupportPage .sbHolder ul {padding:0;width:100%;}
+/* .techSupportPage .sbHolder {width:293px;} */
+/* .techSupportPage .options_box {width:293px;position:absolute;} */
+
+.faq-item-answer {margin-bottom:10px;}
+.FAQ_search {float:left;}  
+.FAQ_Search_input {width:559px !important;height:28px  !important;} 
+.searchPageForm{height:30px;} 
+.searchPageInput{width:559px !important;height:28px  !important;}
+
+
+.FAQ_filter {
+	margin-bottom:20px;
+	height:68px;
+	padding: 10px;
+	background: #EAEAEA;
+	border: 1px solid #DEDEDE;
+	width: 679px;
+	clear: both;
+	float: none;
+}
+
+.FAQ_sections  {position:relative;width: 653px;clear:both;}
+.FAQ_sections .sbHolder ul li {background:#FFFFFF;padding:0;}
+.FAQ_sections .sbHolder ul {padding:0;width:100%;}
+.FAQ_sections .sbHolder {width:100%;}
+
+.download .dload {display:block; width:98px; height:28px; border:1px solid #c6c6c6; background:#f4f4f4; text-decoration:none; color:#353535; line-height:26px; text-align:center; margin:5px 0 5px;float:right;}
+.download .dload:hover {background:#f0782e; border-color:#f0781e; color:#fff; text-shadow:0 -1px 0 #333;font-weight:bold;}
+.download .fsize {width:55px;display:inline-block;padding-top:10px;}
+.download .fsize_th {width:170px;}
+.download .name_th {width:160px;}
+
+.download_filter .section_select {width:310px;position:absolute;}
+.download_filter .product_select {width:350px;position:absolute;right:13px;}
+.download_filter .select_line {height:40px;}
+.download_filter .downloadSearchInput {width:581px !important;height:28px !important;}
+.download_filter .downloadform {height:110px !important;padding:10px !important;}
+
+.searchBtn {background:#f4f4f4; border:1px solid #c6c6c6; color:#353535; float:left !important;clear:none !important; width:auto; cursor:pointer; height:30px; padding-bottom:2px; font:14px/24px ;margin:0 0 20px 28px !important; width:105px}
+.searchBtn:hover {background:#f0781e; border:1px solid #f0782e; color:#fff; text-shadow:0 -1px 0 #8d4712}
+.searchText {width:550px;}
+
+.reg_equipment .regEquip {width:563px;}
+.reg_equipment .search {height:40px;}
+.reg_equipment .commDate {width:243px;height:40px;float:right;}
+.reg_equipment .commDateCalendar {width:428px;height:40px;float:left;} 
+.reg_equipment p {clear:both;} 
+.reg_equipment .regComment {width:510px;max-width:510px;} 
+
+.Myform_select{position:absolute;width:100%;}
+.Myform_select_block{position:relative;height:30px;}
+.myForm_textInput {width:96%;}
+.myForm_textarea {width:96% !important;}
+.formBtn {clear:none !important;margin:0 10px 5px 0px !important;}
+.searchFAQText {width:300px;}
+.serchFAQBtn {float:none;}
+.download_filter .type_select {margin-right:2px;}
+.selectContainer { width:100%;}
+#description>div{width:660px;}
+#section_detail_reg .line {display:block;}
+.archiveTitle{margin-top:20px;}
+.ap_eventsBlock{width:550px !important;}
+.firstTab{border-left:none !important;}
+.firstTabBlock{border-left:1px solid #C6C6C6 !important;}
+.ap_main_items{display: block;float: left;/* height: 246px; */}
+.itroduction_software .photo img{border: 1px solid  #C6C6C6;}
+.itroduction_software .btn{margin-top:30px;}
+.itroduction_software tr td{padding:10px !important;}
+.nomargin{margin:0 !important;}
+.cityNotyfyWindow{
+	position:absolute;
+	width:218px; 
+	border-width:0 1px 1px 1px; 
+	border-style:solid; 
+	border-color:#C6C6C6; 
+	background-color:#FFFFFF; 
+	top:27px; 
+	right:-268px;
+}
+.cityNotyfyWindow .title{width: 219px;padding-left: 12px;height: 49px;background: url(../images/consult.png) no-repeat;position: absolute;top: -1px; right: -1px;text-align: center; font: 16px/44px 'ArialBlack'; color: #353535;text-transform: uppercase;}
+.cityNotyfyWindow .contentBlock{padding-top:60px;text-align: center; font: 15px/22px 'ArialBlack'; color: #F0781E;text-transform: uppercase;}
+/*.cityNotyfyWindow .closeCityWindow{background:#F0781E;width:20px;height:20px;right:-1px;position:absolute;bottom:-10px;}
+.cityNotyfyWindow .closeCityWindow .closeNotify{background:url(../images/close.png) no-repeat 8px 6px; width:20px;height:20px;float:left;border:none;}*/
+.cityNotyfyWindow .closeCityWindow {margin: 11px 0; text-align: left; padding: 0 11px;}
+.cityNotyfyWindow .closeCityWindow .closeNotify {
+	color: #353535;
+	text-decoration: underline;
+	line-height: 20px;
+	border: none;
+	font: 12px/25px 'PT Sans';
+	text-transform: none;
+}
+.cityNotyfyWindow .closeCityWindow .closeNotify:hover {color: #F0781E; text-decoration: underline;}

@@ -1,0 +1,33 @@
+<?
+$MESS["IBLOCK_SORT_SHOWS"] = "średnia oglądalność";
+$MESS["IBLOCK_SORT_SORT"] = "index sortowania";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "data modyfikacji";
+$MESS["IBLOCK_SORT_NAME"] = "nazwa";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "aktywny od";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "aktywny do";
+$MESS["IBLOCK_SORT_ASC"] = "rosnąco";
+$MESS["IBLOCK_SORT_DESC"] = "malejąco";
+$MESS["IBLOCK_TYPE"] = "Typ bloku informacyjnego";
+$MESS["IBLOCK_IBLOCK"] = "Blok informacyjny";
+$MESS["IBLOCK_LINE_ELEMENT_COUNT"] = "Ilość zdjęć w rzędzie tabeli";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Pole sortowania zdjęć";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Kolejność sortowania zdjęć w sekcji";
+$MESS["IBLOCK_CACHE_FILTER"] = "Aktywne cache w filtrze";
+$MESS["IBLOCK_SECTION_ID"] = "ID sekcji";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Nazwa wartości do filtru elementów";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Ilość elementów na stronie";
+$MESS["IBLOCK_DETAIL_URL"] = "URL do strony ze szczegółami zawartości";
+$MESS["IBLOCK_SECTION_URL"] = "URL do strony zawartości sekcji";
+$MESS["IBLOCK_SECTION_CODE"] = "Kod sekcji";
+$MESS["IBLOCK_FIELD"] = "Pola";
+$MESS["IBLOCK_PROPERTY"] = "Właściwości";
+$MESS["T_IBLOCK_DESC_PAGER_PHOTO"] = "Obrazy";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "Dodaj nazwę sekcji do nawigacji";
+$MESS["T_IBLOCK_DESC_KEYWORDS"] = "Umieść słowa kluczowe strony od własności";
+$MESS["T_IBLOCK_DESC_DESCRIPTION"] = "Umieść opis strony od własności";
+$MESS["CP_BPS_SET_STATUS_404"] = "Ustaw status 404 jeżeli brak elementu lub sekcji";
+$MESS["CP_BPS_BROWSER_TITLE"] = "Ustaw tytuł okna przeglądarki z własności wartości";
+$MESS["CP_BPS_CACHE_GROUPS"] = "Respektuj prawa dostępu";
+$MESS["CP_BPS_SECTION_USER_FIELDS"] = "Parametry sekcji";
+?>

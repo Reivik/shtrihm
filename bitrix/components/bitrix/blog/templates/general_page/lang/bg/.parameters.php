@@ -1,0 +1,31 @@
+<?
+$MESS["GENERAL_PAGE_GROUP_ID"] = "Група блогове, за показване";
+$MESS["GENERAL_PAGE_PATH_TO_BLOG"] = "Път към блога на потребителя";
+$MESS["GENERAL_PAGE_PATH_TO_POST"] = "Път към съобщенията в блога на потребителя";
+$MESS["GENERAL_PAGE_PATH_TO_GROUP_BLOG"] = "Път към блог групата";
+$MESS["GENERAL_PAGE_PATH_TO_GROUP_BLOG_POST"] = "Път към съобщенията  в блог групата";
+$MESS["GENERAL_PAGE_PATH_TO_USER"] = "Път към страницата на потребителя";
+$MESS["BLG_THEME"] = "Тема на шаблона";
+$MESS["BLG_THEME_BLUE"] = "Синя";
+$MESS["BLG_THEME_GREEN"] = "Зелена";
+$MESS["BLG_THEME_RED"] = "Червена";
+$MESS["BLG_THEME_RED2"] = "Червена проста";
+$MESS["BLG_THEME_ORANGE"] = "Оранжева";
+$MESS["GENERAL_PAGE_PATH_TO_BLOG_CATEGORY"] = "Път към страницата на блога на потребителя с филтър по тагове";
+$MESS["GENERAL_PAGE_PATH_TO_GROUP_BLOG_CATEGORY"] = "Път към страницата на блога на групи с филтър по тагове";
+$MESS["GENERAL_PAGE_USE_SOCNET"] = "Използва се в рамките на Социалната мрежа";
+$MESS["B_SEO_USER"] = "Забрани индексирането на линкове в профила на потребителя от роботите на търсачките";
+$MESS["BC_NAME_TEMPLATE"] = "Формат на името";
+$MESS["BC_NAME_TEMPLATE_DEFAULT"] = "#NOBR##NAME# #LAST_NAME##/NOBR#";
+$MESS["BC_SHOW_LOGIN"] = "Покажи потребителското име, ако не е посочено Името";
+$MESS["BC_PATH_TO_CONPANY_DEPARTMENT"] = "Шаблон на пътя към страницата на отделите";
+$MESS["BC_PATH_TO_VIDEO_CALL"] = "Страница за видео разговори";
+$MESS["BC_PATH_TO_SONET_USER_PROFILE"] = "Шаблон на пътя към страницата на потребителя на Соц.мрежа";
+$MESS["BC_PATH_TO_MESSAGES_CHAT"] = "Шаблон на пътя към чата с потребителите";
+$MESS["BC_USE_SHARE"] = "Покажи лентата с отметките на Соц. мрежи";
+$MESS["BC_SHARE_HIDE"] = "Скрий лентата с отметките на Соц. мрежи";
+$MESS["BC_SHARE_TEMPLATE"] = "Шаблон на компонента - Лента с отметки на Соц.мрежи";
+$MESS["BC_SHARE_SYSTEM"] = "Използвани Социални мрежи";
+$MESS["BC_SHARE_SHORTEN_URL_LOGIN"] = "Потребителско име за bit.ly";
+$MESS["BC_SHARE_SHORTEN_URL_KEY"] = "Ключ за bit.ly";
+?>

@@ -1,0 +1,36 @@
+<?
+$MESS["F_URL_TEMPLATES"] = "Tinklapių URL administravimas";
+$MESS["F_MESSAGES_PER_PAGE"] = "Pranešimų skaičius viename puslapyje";
+$MESS["F_DEFAULT_TID"] = "Temos ID";
+$MESS["F_DEFAULT_FID"] = "Forumo ID";
+$MESS["F_DEFAULT_MID"] = "Pranešimo ID";
+$MESS["F_DEFAULT_PATH_TO_SMILE"] = "Kelias iki šypsenėlių aplanko svetainės šakninio aplanko atžvilgiu";
+$MESS["F_INDEX_TEMPLATE"] = "Forumų sąrašo puslapis";
+$MESS["F_READ_TEMPLATE"] = "Temų skaitymo puslapis";
+$MESS["F_MESSAGE_TEMPLATE"] = "Temų skaitymo puslapis (su pranešimų ID)";
+$MESS["F_LIST_TEMPLATE"] = "Temų sąrašo puslapis";
+$MESS["F_MESSAGE_MOVE_TEMPLATE"] = "Pranešimų perkėlimo puslapis";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Naudotojo profilio puslapis";
+$MESS["F_TOPIC_NEW_TEMPLATE"] = "Temų skaitymo puslapis";
+$MESS["F_TOPIC_MOVE_TEMPLATE"] = "Temų perkėlimo puslapis";
+$MESS["F_SUBSCR_LIST_TEMPLATE"] = "Prenumeratos puslapis";
+$MESS["F_PM_EDIT_TEMPLATE"] = "Asmeninių žinučių puslapis";
+$MESS["F_MESSAGE_SEND_TEMPLATE"] = "Pranešimų siuntimo puslapis";
+$MESS["F_DATE_FORMAT"] = "Datos atvaizdavimo formatas";
+$MESS["F_DATE_TIME_FORMAT"] = "Datos ir laiko atvaizdavimo formatas";
+$MESS["F_SET_NAVIGATION"] = "Rodyti navigaciją";
+$MESS["F_DISPLAY_PANEL"] = "Atvaizduoti šio komponento valdymo mygtukus";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "Navigacijos grandinės šablono pavadinimas";
+$MESS["F_IMAGE_SIZE"] = "Prisegto paveikslo dydis";
+$MESS["F_PAGEN"] = "PAGEN";
+$MESS["F_PAGE_NAVIGATION_WINDOW"] = "Puslapių skaičius puslapių navigacijoje";
+$MESS["F_RSS_TEMPLATE"] = "RSS puslapis";
+$MESS["F_USER_POST_TEMPLATE"] = "Vartotojo pranešimų puslapis";
+$MESS["F_SHOW_FIRST_POST"] = "Rodyti pradinį pranešimą kiekviename puslapyje";
+$MESS["F_SET_PAGE_PROPERTY"] = "Prie puslapio antraštės žymės pridėti raktažodžius ir temos aprašymą";
+$MESS["F_PAGE_NAVIGATION_SHOW_ALL"] = "Įjungti visų puslapių rodymo parinktį";
+$MESS["F_RATING_SETTINGS"] = "Vertinimo parametrai";
+$MESS["F_SHOW_RATING"] = "Rodyti vertinimą";
+$MESS["F_RATING_ID"] = "Vertinimas";
+$MESS["F_RATING_ROLES"] = "Vartotojų grupės su leidimu balsuoti";
+?>

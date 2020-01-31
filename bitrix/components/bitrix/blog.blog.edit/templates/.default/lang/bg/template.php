@@ -1,0 +1,31 @@
+<?
+$MESS["BLOG_TITLE"] = "Име на блога:";
+$MESS["BLOG_DESCR"] = "Описание на блога:";
+$MESS["BLOG_URL"] = "Име на латиница:";
+$MESS["BLOG_URL_TITLE"] = "Посочете уникално име за блога, с латински букви. То ще се използва при формирането на уеб адреса на блога. Пример: <nobr>http://this-site- bg.com/blog/[името на блога]</nobr>";
+$MESS["BLOG_GRP"] = "Група блогове:";
+$MESS["BLOG_AUTO_MSG"] = "Авто съобщения:";
+$MESS["BLOG_AUTO_MSG_TITLE"] = "Използване на защитата от автоматични съобщения";
+$MESS["BLOG_CAPTHA"] = "Изискване за не авторизираните посетители, при коментарите, въвеждането на символите от картинката";
+$MESS["BLOG_OPENED_GRPS"] = "Отворени групи:";
+$MESS["BLOG_OPENED_TITLE"] = "Посочете групи, в които могат да се запишат всички желаещи, без разрешение";
+$MESS["BLOG_DEF_PERMS"] = "Достъп по подразбиране:";
+$MESS["BLOG_GROUPS"] = "групи";
+$MESS["BLOG_MESSAGES"] = "съобщения";
+$MESS["BLOG_COMMENTS"] = "коментари";
+$MESS["BLOG_ALL_USERS"] = "Всички потребители";
+$MESS["BLOG_REGISTERED"] = "Регист. потребители";
+$MESS["BLOG_GROUP_ADD"] = "Добави >>";
+$MESS["BLOG_SAVE"] = "Запиши";
+$MESS["BLOG_CREATE"] = "Създаване на блог";
+$MESS["BLOG_APPLY"] = "Постави";
+$MESS["BLOG_CANCEL"] = "Отмени";
+$MESS["BLOG_EMAIL_NOTIFY"] = "Уведомления";
+$MESS["BLOG_EMAIL_NOTIFY_TITLE"] = "Изпращане на уведомления по email";
+$MESS["BLOG_EMAIL_NOTIFY_HELP"] = "Ако е включено, на Вашият email ще се изпращат уведомления за нови коментари и съобщения, от блога.";
+$MESS["STOF_REQUIED_FIELDS_NOTE"] = "Със \"звездичка\" (<font color=\"#FF0000\">*</font>) са маркиране задължителните за попълване полета ";
+$MESS["BLOG_NEED_AUTH"] = "Необходимо е отначало да се оторизирате на сайта.";
+$MESS["BLOG_CONFIRM_DELETE"] = "В тази група има потребители. Сигурни ли сте че искате да я премахнете?";
+$MESS["BLOG_GROUP_DELETE"] = "Премахни";
+$MESS["BLOG_NAME_CHANGE"] = "Редактиране";
+?>

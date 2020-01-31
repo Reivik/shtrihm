@@ -1,0 +1,32 @@
+<?
+$MESS ['LEARNING_QUESTION_TITLE'] = "Soru";
+$MESS ['LEARNING_QUESTION_OF'] = "den";
+$MESS ['LEARNING_QUESTION_DESCRIPTION'] = "Açıklama";
+$MESS ['LEARNING_CHOOSE_ANSWER'] = "Cevabı seçiniz";
+$MESS ['LEARNING_BTN_START'] = "Başla";
+$MESS ['LEARNING_BTN_NEXT'] = "İleri";
+$MESS ['LEARNING_BTN_PREVIOUS'] = "Geri";
+$MESS ['LEARNING_BTN_FINISH'] = "Tamamlamak";
+$MESS ['LEARNING_BTN_CONTINUE'] = "Devam etmek";
+$MESS ['LEARNING_BTN_CONFIRM_FINISH'] = "Testi tamamlamak istediğinizden eminmisiniz?";
+$MESS ['LEARNING_COMPLETED'] = "Test tamamlanmıştır.";
+$MESS ['LEARNING_NO_RESPONSE_CONFIRM'] = "Cevabı seçmediniz! ?? - bir sonraki soruya geçiniz. Bu durumda cevap yanlış olarak kabul edilmektedir.  İptal - sorunun cevabını seçiniz.";
+$MESS ['LEARNING_PROFILE'] = "Test sonuçlarını görüntüle";
+$MESS ['LEARNING_QBAR_CURRENT_TITLE'] = "Güncel soru";
+$MESS ['LEARNING_QBAR_ANSWERED_TITLE'] = "Cevaplanan soru";
+$MESS ['LEARNING_QBAR_NOANSWERED_TITLE'] = "Cevaplanmayan soru";
+$MESS ['LEARNING_QBAR_NEXT_TITLE'] = "Sonraki soruya geç";
+$MESS ['LEARNING_QBAR_NEXT_NOANSWER_TITLE'] = "Sonraki cevaplanmayan soruya geç";
+$MESS ['LEARNING_QBAR_PREVIOUS_TITLE'] = "Bir önceki soruya geç";
+$MESS ['LEARNING_QBAR_PREVIOUS_NOANSWER_TITLE'] = "Bir önceki cevaplanmayan soruya geç";
+$MESS ['LEARNING_TEST_NAME'] = "Test adı";
+$MESS ['LEARNING_TEST_ATTEMPT_LIMIT'] = "Deneme sayısı";
+$MESS ['LEARNING_TEST_ATTEMPT_UNLIMITED'] = "sınırsız sayı";
+$MESS ['LEARNING_TEST_TIME_LIMIT'] = "Süre sınırlaması";
+$MESS ['LEARNING_TEST_TIME_LIMIT_UNLIMITED'] = "sınırsız";
+$MESS ['LEARNING_TEST_TIME_LIMIT_MIN'] = "dk.";
+$MESS ['LEARNING_PASSAGE_TYPE'] = "Test geçiş türü";
+$MESS ['LEARNING_PASSAGE_NO_FOLLOW_NO_EDIT'] = "bu soruya cevap vermeksizin sonraki soruya geçiş yasaklanmıştır <b>izin verilmemektedir</b> kendi cevaplarınızı değiştiriniz.";
+$MESS ['LEARNING_PASSAGE_FOLLOW_NO_EDIT'] = "bu soruya cevap vermeksizin sonraki soruya geçiş yasaklanmamıştır  <b>izin verilmemektedir</b> kendi cevaplarınızı değiştiriniz.";
+$MESS ['LEARNING_PASSAGE_FOLLOW_EDIT'] = "bu soruya cevap vermeksizin sonraki soruya geçiş yasaklanmamıştır  <b>izin verildi</b> kendi cevaplarınızı değiştiriniz.";
+?>

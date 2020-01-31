@@ -1,0 +1,29 @@
+<?
+$MESS ['IBLOCK_VAT_INCLUDE'] = "les taxes sont incluses dans les prix";
+$MESS ['IBLOCK_ACTION_VARIABLE'] = "&laquo;&nbsp;Actions&nbsp;&raquo;&nbsp;: nom de paramètre";
+$MESS ['IBLOCK_PRODUCT_ID_VARIABLE'] = "&laquo;&nbsp;Code de prix&nbsp;&raquo;&nbsp;: nom de paramètre";
+$MESS ['IBLOCK_SECTION_ID_VARIABLE'] = "&laquo;&nbsp;Code de section&nbsp;&raquo;&nbsp;: nom de paramètre";
+$MESS ['CP_BCE_ADD_SECTIONS_CHAIN'] = "Ajouter un nom de section aux petits cailoux de navigation";
+$MESS ['IBLOCK_SORT_ASC'] = "ascendant";
+$MESS ['IBLOCK_SORT_DESC'] = "descendant";
+$MESS ['T_IBLOCK_DESC_NEWS_PANEL'] = "Afficher pour ce composant les boutons du panneau ";
+$MESS ['IBLOCK_VAT_SHOW_VALUE'] = "Afficher le taux des taxes";
+$MESS ['IBLOCK_ELEMENT_ID'] = "ID de l'élement";
+$MESS ['IBLOCK_IBLOCK'] = "Bloc d'infos";
+$MESS ['IBLOCK_TYPE'] = "Type de bloc d'infos";
+$MESS ['IBLOCK_LINK_IBLOCK_ID'] = "ID de bloc d'information avec éléments vers l'élément courant";
+$MESS ['IBLOCK_LINK'] = "Options d'éléments liés";
+$MESS ['IBLOCK_PRICE_CODE'] = "Type de prix";
+$MESS ['IBLOCK_PRICES'] = "Prix";
+$MESS ['IBLOCK_PROPERTY'] = "Propriétés";
+$MESS ['IBLOCK_LINK_PROPERTY_SID'] = "Propriété enregistrant le lien";
+$MESS ['IBLOCK_SECTION_ID'] = "ID de section";
+$MESS ['T_IBLOCK_DESC_DESCRIPTION'] = "Extraire de la propriété la description de page";
+$MESS ['T_IBLOCK_DESC_KEYWORDS'] = "Extraire de la propriété les mots-clés de page";
+$MESS ['IBLOCK_SHOW_PRICE_COUNT'] = "Montrer le prix de quantité";
+$MESS ['IBLOCK_LINK_IBLOCK_TYPE'] = "Type du bloc d'informations dont les éléments sont liés à l'élément courant";
+$MESS ['IBLOCK_LINK_ELEMENTS_URL'] = "URL de la page avec liste des éléments liés";
+$MESS ['IBLOCK_BASKET_URL'] = "URL de la page avec le panier de l'acheteur";
+$MESS ['IBLOCK_DETAIL_URL'] = "URL de la page avec contenu détaillé";
+$MESS ['IBLOCK_SECTION_URL'] = "URL de la page avec contenu des section";
+?>

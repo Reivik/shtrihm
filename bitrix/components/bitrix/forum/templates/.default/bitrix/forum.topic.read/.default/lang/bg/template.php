@@ -1,0 +1,36 @@
+<?
+$MESS["F_REPLY"] = "Отговор";
+$MESS["F_HIDE_MESSAGES"] = "Скрий съобщенията";
+$MESS["F_SHOW_MESSAGES"] = "Покажи съобщенията";
+$MESS["F_SHOW"] = "Покажи";
+$MESS["F_VIEW"] = "Преглед на съобщението";
+$MESS["F_DELETE_CONFIRM"] = "Сигурни ли сте, че искате да изтриете съобщението? Тази операция не може да бъде възстановена!";
+$MESS["JQOUTE_AUTHOR_WRITES"] = "пише";
+$MESS["JS_NO_MESSAGES"] = "Не е посочен списъка на съобщенията. Изберете съобщение.";
+$MESS["F_DELETE_MESSAGES_CONFIRM"] = "Сигурни ли сте, че искате да изтриете съобщенията? Тази операция не може да бъде възстановена!";
+$MESS["F_CLOSED"] = "Затворено";
+$MESS["F_ATTACH_FILES"] = "Прикачени файлове";
+$MESS["F_DELETE_MESSAGES"] = "Премахни съобщенията";
+$MESS["F_DELETE_TOPIC"] = "Премахни темата";
+$MESS["F_DELETE_TOPIC_CONFIRM"] = "Сигурни ли сте, че искате да изтриете темата? Тази операция не може да бъде възстановена!";
+$MESS["F_EDIT_TOPIC"] = "Редактирай темата";
+$MESS["F_HIDE_TOPIC"] = "Скрий темата";
+$MESS["F_MOVE_MESSAGES"] = "Премести съобщенията";
+$MESS["F_MOVE_TOPIC"] = "Премести темата";
+$MESS["F_PINN_TOPIC"] = "Прикрепи темата";
+$MESS["F_SHOW_TOPIC"] = "Покажи темата";
+$MESS["F_SUBSCRIBE"] = "Абонамент";
+$MESS["F_UNPINN_TOPIC"] = "От крепи темата";
+$MESS["F_SUBSCRIBE_TITLE"] = "Абонамент за нови съобщения, по E-mail";
+$MESS["F_ANCHOR_TITLE"] = "Копирай връзката URL в клипборда";
+$MESS["F_MANAGE_TOPIC"] = "Управление на темите";
+$MESS["F_MANAGE_MESSAGES"] = "Управление на съобщенията";
+$MESS["JS_NO_ACTION"] = "Не е избрано действие. Изберете действие.";
+$MESS["F_CLOSE_TOPIC"] = "Затвори темата";
+$MESS["F_OPEN_TOPIC"] = "Отвори темата";
+$MESS["F_POSTS"] = "Отговори";
+$MESS["F_COLLAPSE"] = "Скрий";
+$MESS["F_SELECT_ALL"] = "Избери всички";
+$MESS["F_HIDE"] = "Скрий";
+$MESS["F_WAIT"] = "Почакайте...";
+?>

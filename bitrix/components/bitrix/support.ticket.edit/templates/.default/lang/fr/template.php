@@ -1,0 +1,46 @@
+<?
+$MESS ['SUP_ANSWER'] = "Réponse ";
+$MESS ['SUP_TITLE'] = "Sujet";
+$MESS ['SUP_TIMESTAMP'] = "Modifié ";
+$MESS ['SUP_KB'] = "kO";
+$MESS ['SUP_U_ALT'] = "Souligné";
+$MESS ['SUP_MARK'] = "Évaluation de la réponse";
+$MESS ['SUP_APPLY'] = "Appliquer";
+$MESS ['SUP_ATTACH'] = "Joindre des fichiers";
+$MESS ['SUP_B'] = "B";
+$MESS ['SUP_B_ALT'] = "Gras";
+$MESS ['SUP_CATEGORY'] = "Catégorie";
+$MESS ['SUP_CLOSE_TICKET'] = "Fermer le tiquet";
+$MESS ['SUP_CLOSE'] = "Fermé";
+$MESS ['SUP_CODE'] = "Code (alt+c)";
+$MESS ['SUP_CREATE'] = "Créé(e)";
+$MESS ['SUP_CRITICALITY'] = "Urgence";
+$MESS ['SUP_DISCUSSION'] = "Discussion";
+$MESS ['SUP_CODE_ALT'] = "Afficher du texte en tant que code";
+$MESS ['SUP_QUOTE_ALT'] = "Afficher du texte en tant que citation";
+$MESS ['SUP_DOWNLOAD'] = "télécharger";
+$MESS ['SUP_DOWNLOAD_ALT'] = "Télécharger le fichier &quot;#FILE_NAME#&quot;";
+$MESS ['SUP_USERS_ONLINE'] = "Les dernières #TIME#, le tiquet a éét vu par";
+$MESS ['SUP_FROM'] = "de";
+$MESS ['SUP_I'] = "Je";
+$MESS ['SUP_I_ALT'] = "Italique";
+$MESS ['SUP_MESSAGE'] = "Message";
+$MESS ['SUP_MIN'] = "min.";
+$MESS ['SUP_MORE'] = "Plus ";
+$MESS ['SUP_OPEN_TICKET'] = "Ouvrir le tiquet";
+$MESS ['SUP_QUOTE_LINK'] = "Citation";
+$MESS ['SUP_QUOTE'] = "Citation (alt + q)";
+$MESS ['SUP_QUOTE_LINK_DESCR'] = "Citer la partie choisie du message";
+$MESS ['SUP_RESET'] = "Réinitialiser";
+$MESS ['SUP_RESPONSIBLE'] = "Responsable";
+$MESS ['SUP_SAVE'] = "Enregistrer";
+$MESS ['SUP_SOURCE'] = "Source";
+$MESS ['SUP_STATUS'] = "Statut";
+$MESS ['SUP_SLA'] = "Niveau de support";
+$MESS ['SUP_TIME'] = "Temps";
+$MESS ['SUP_TRANSLIT'] = "Translittération (alt + t)";
+$MESS ['SUP_TRANSLIT_ALT'] = "Effectuer une translittération de latin vers cyrillique";
+$MESS ['SUP_TICKET'] = "Tiquet";
+$MESS ['SUP_U'] = "U";
+$MESS ['SUP_VIEW_ALT'] = "Voir le fichier";
+?>

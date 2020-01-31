@@ -1,0 +1,32 @@
+<?
+$MESS["IBLOCK_CACHE_FILTER"] = "Кешира при поставен филтър";
+$MESS["T_IBLOCK_DESC_ASC"] = "По възходящ";
+$MESS["T_IBLOCK_DESC_DESC"] = "По низходящ";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "Име";
+$MESS["T_IBLOCK_DESC_FACT"] = "Активно от дата";
+$MESS["T_IBLOCK_DESC_FSORT"] = "Сортиране";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Дата на последните промени";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "Поле за първо сортиране на новините";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "Посока за първо сортиране на новините";
+$MESS["T_IBLOCK_DESC_IBORD2"] = "Поле за второ сортиране на новините";
+$MESS["T_IBLOCK_DESC_IBBY2"] = "Посока за второ сортиране на новините";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "Код на информационният блок";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "Тип на информационният блок (използва се само за проверка)";
+$MESS["T_IBLOCK_DESC_LIST_CONT"] = "Брой на новините на една страница";
+$MESS["T_IBLOCK_DESC_DETAIL_PAGE_URL"] = "URL на страницата за подробен преглед  (по подразбиране - от настройките на инфоблока)";
+$MESS["T_IBLOCK_DESC_INCLUDE_IBLOCK_INTO_CHAIN"] = "Включване на информационният блок в нишката на навигацията";
+$MESS["T_IBLOCK_PROPERTY"] = "Свойства";
+$MESS["T_IBLOCK_FILTER"] = "Филтър";
+$MESS["IBLOCK_FIELD"] = "Полета";
+$MESS["T_IBLOCK_DESC_ACTIVE_DATE_FORMAT"] = "Формат на датата";
+$MESS["T_IBLOCK_DESC_PAGER_NEWS"] = "Новини";
+$MESS["T_IBLOCK_DESC_PREVIEW_TRUNCATE_LEN"] = "Максимална дължина на анонса за въвеждане (само за тип текст)";
+$MESS["T_IBLOCK_DESC_HIDE_LINK_WHEN_NO_DETAIL"] = "Скрива линка, ако няма подробно описание";
+$MESS["IBLOCK_SECTION_ID"] = "ID на раздела";
+$MESS["IBLOCK_SECTION_CODE"] = "Код на раздела";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "Включва раздела в нишката за навигация";
+$MESS["T_IBLOCK_DESC_CHECK_DATES"] = "Показване на само активните до този момент елементи";
+$MESS["CP_BNL_SET_STATUS_404"] = "Посочвай статус 404, ако не е намерен елемент или раздел";
+$MESS["CP_BNL_CACHE_GROUPS"] = "С отчитане правата за достъп";
+?>

@@ -1,0 +1,23 @@
+.pageCont a.pay {
+	width: 125px;
+	font-size: 14px;
+}
+.pageCont .list_item_tabs li.list_item_tab a {
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 14px;
+}
+.im_input input{
+	height: 17px;
+	padding: 6px 8px;
+}
+.im_button{
+	/*display: block;
+	float: none;*/
+	zoom: 1;
+	height: 26px;
+}
+.im_input {
+	margin-right: 28px;
+	display: inline-block;
+}

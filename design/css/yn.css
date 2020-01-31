@@ -1,0 +1,32 @@
+xmp{font-family:courier; font-size:12px; font-weight:bold;}
+
+
+.headBott{height:110px;}
+.navMenu li.selected a{color:#f0781e;}
+.navMenu li{position:relative;}
+ul li a.current {color:#f0781e;}
+
+.tags_cloud{margin-bottom:10px; border:1px solid #cccccc; border-radius:10px; padding:10px;}
+
+.news_list .articlesList {padding:0 0 2px; overflow:hidden; position:relative; *zoom:1}
+.news_list .articlesList li {font-size:13px; padding:0 0 15px 69px; line-height:20px; position:relative; display:block; *zoom:1; vertical-align:top; *display:inline}
+.news_list .articlesList li .photo {float:left; width:59px; margin:0 -69px 0 0; left:-69px; position:relative; top:2px}
+.news_list .articlesList li .photo img {border:2px solid #e5e5e5}
+.news_list .articlesList li a {color:#4b4e50; text-decoration:none; /*display:block*/}
+.news_list .articlesList li a:hover {color:#f0781e; text-decoration:underline}
+.news_list .articlesList li .date, .news_detail .date {font-size:14px}
+.news_list .articlesList li .date strong, .news_detail .date strong {font:14px 'pt_sansbold'; text-transform:uppercase}
+.news_list .articlesList li a:hover {text-decoration:underline}
+
+.bottom_links{float:left;}
+.bottom_links .articlesList {padding:0 0 2px; overflow:hidden; position:relative; *zoom:1}
+.bottom_links .articlesList li {height:100px; font-size:13px; padding:0 0 15px 80px; line-height:20px; position:relative; display:block; *zoom:1; vertical-align:top; *display:inline}
+.bottom_links .articlesList li .photo {float:left; width:100px; margin:0 -69px 0 0; left:-80px; position:relative; top:2px}
+.bottom_links .articlesList li .photo img {border:2px solid #e5e5e5}
+.bottom_links .articlesList li a {color:#4b4e50; text-decoration:none; /*display:block*/}
+.bottom_links .articlesList li a:hover {color:#f0781e; text-decoration:underline}
+.bottom_links .articlesList li .date, .news_detail .date {font-size:14px}
+.bottom_links .articlesList li .date strong, .news_detail .date strong {font:14px 'pt_sansbold'; text-transform:uppercase}
+.bottom_links .articlesList li a:hover {text-decoration:underline}
+
+.miniSpecial ul li h3{display:inline;	}

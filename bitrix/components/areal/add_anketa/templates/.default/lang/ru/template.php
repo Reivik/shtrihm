@@ -1,0 +1,30 @@
+<?
+$MESS["SUCCESS_SAVE"] = "Спасибо! Ваша заявка отправлена ответственному сотруднику.";
+$MESS["STEP_1"] = "Шаг 1";
+$MESS["STEP_2"] = "Шаг 2";
+$MESS["STEP_3"] = "Шаг 3";
+$MESS["DOGOVOR"] = "Номер договора";
+$MESS["REGION"] = "Регион";
+$MESS["TOWN"] = "Город";
+$MESS["ADDRESS"] = "Адрес";
+$MESS["PHONE"] = "Телефон";
+$MESS["EMAIL"] = "Email";
+$MESS["NAME"] = "ФИО";
+$MESS["HEAD_CONTACTS"] = "Контактные данные руководителей";
+$MESS["GENERAL_DIRECTOR"] = "Генеральный директор";
+$MESS["TECHNICAL_DIRECTOR"] = "Технический директор (начальник ЦТО)";
+$MESS["HEAD_INTRODUCTION"] = "Руководитель отдела внедрения (автоматизации)";
+$MESS["DIRECTIONS"] = "Сферы деятельности предприятия";
+$MESS["CONTINUE"] = "Продолжить";
+$MESS["BACK"] = "Вернуться";
+$MESS["KKT_QUANTITY"] = "Количество реализованной и обслуживаемой ККТ";
+$MESS["ADD"] = "Добавить";
+$MESS["INN"] = "ИНН";
+$MESS["DATE_LEARNING"] = "Дата обучения";
+$MESS["PLACE_LEARNING"] = "Место обучения";
+$MESS["DOCUMENTS"] = "Наличие необходимой документации";
+$MESS["SOFTWARE"] = "Наличие необходимого специализированного оборудования";
+$MESS["POSTAVSCHIKI"] = "Ваши поставщики продукции &laquo;ШТРИХ-М&raquo; (в порядке приоритетности)";
+$MESS["NAME_COMPANY"] = "Название компании";
+$MESS["STAFFS"] = "Список мастеров";
+?>

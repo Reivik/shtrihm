@@ -1,0 +1,6 @@
+<?
+$MESS ['LEARNING_COURSE_COMPLEX_NAME'] = "Eğitim kursu";
+$MESS ['LEARNING_COURSE_COMPLEX_DESC'] = "Eğitim kursu";
+$MESS ['LEARNING_SERVICE'] = "Eğitim";
+$MESS ['LEARNING_COURSE_SERVICE'] = "Kurslar";
+?>

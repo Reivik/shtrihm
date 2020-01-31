@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Аккредитация";
+$arDirProperties = array(
+
+);
+?>

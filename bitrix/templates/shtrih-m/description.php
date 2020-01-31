@@ -1,0 +1,1 @@
+<?$arTemplate = array("NAME"=>"shtrih-m", "DESCRIPTION"=>"Основной шаблон сайта shtrih-m.ru");?>

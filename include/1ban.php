@@ -1,0 +1,1 @@
+<a href="/press_center/news/informatsionnye-pisma-dlya-partnerov/otkryta-elektronnaya-torgovaya-ploshchadka/"><img src="/images/super_baner_2016_11_02_01.png"></a>

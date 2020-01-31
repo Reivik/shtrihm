@@ -1,0 +1,34 @@
+<?
+$MESS["IBLOCK_DETAIL_URL"] = "URL do strony szczegółów zawartości";
+$MESS["IBLOCK_PRICES"] = "Ceny";
+$MESS["IBLOCK_TYPE"] = "Info-blok typ";
+$MESS["IBLOCK_IBLOCK"] = "Info-blok";
+$MESS["IBLOCK_PROPERTY"] = "Własności";
+$MESS["IBLOCK_SORT_SHOWS"] = "pokaż average";
+$MESS["IBLOCK_SORT_SORT"] = "indeks sortowania";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "data modyfikacji";
+$MESS["IBLOCK_SORT_NAME"] = "nazwa ";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "aktywny od";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "aktywny do";
+$MESS["IBLOCK_SORT_ASC"] = "rosnąco";
+$MESS["IBLOCK_SORT_DESC"] = "malejąco";
+$MESS["IBLOCK_SECTION_URL"] = "URL do strony zawarości sekcji";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Pole sortowania elementów";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Kolejność sortowania elementów";
+$MESS["IBLOCK_PRICE_CODE"] = "Typ ceny";
+$MESS["IBLOCK_BASKET_URL"] = "URL do strony koszyka klienta";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Nazwa wyboru z wartościami używania filtrowania elementów";
+$MESS["IBLOCK_CACHE_FILTER"] = "Aktywne cache w filtrze";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Elementów na stronie";
+$MESS["IBLOCK_ELEMENT_ID"] = "ID elementu";
+$MESS["IBLOCK_LINK_PROPERTY_SID"] = "Link do własności";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "Nazwa parametru \"Akcja\"";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "Nazwa parametru \"kod produktu\"";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "Nazwa parametru \"kod sekcji\"";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Pokaż range cen do ilości";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Pokaż cenę dla ilości";
+$MESS["T_IBLOCK_DESC_PAGER_CATALOG"] = "Produkty ";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Podatek zawarty w cenie";
+$MESS["CP_BCLL_CACHE_GROUPS"] = "Poważaj uprawnienia dostępu";
+?>

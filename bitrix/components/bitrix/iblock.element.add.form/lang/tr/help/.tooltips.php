@@ -1,0 +1,30 @@
+<?
+$MESS ['SEF_MODE_TIP'] = "SET modunu ve URL ayar alanlarını aktive etmek için bu seçeneği seçin.";
+$MESS ['IBLOCK_TYPE_TIP'] = "Açılan listeden sistemde oluşturulan bilgi bloğu tiplerinden birisi seçilir. ?? tuşuna basıldığında seçilen tip için oluşturulan bilgi blokları yüklenecektir. (??????)-> seçeneği seçildiğinde Bilgi bloğu tür kimliğinin yandaki alana girilmesi gerekir.";
+$MESS ['IBLOCK_ID_TIP'] = "Bilgi bloklarından biri seçilir <i>diğer</i> seçeneği seçildiğinde Bilgi bloğunun kimliğinin yandaki alana girilmesi gerekir.";
+$MESS ['PROPERTY_CODES_TIP'] = "Öğe ekleme şeklinde düzenlemede gösterilecek bilgi bloğu öğe alanları ve özellikleri seçilir.";
+$MESS ['PROPERTY_CODES_REQUIRED_TIP'] = "Bu alan ve özelliklerden doldurulması zorunlu olanlar seçilebilir.";
+$MESS ['GROUPS_TIP'] = "Öğeleri düzenleyebilecek veya ekleyebilecek kullanıcı grupları seçilir.";
+$MESS ['STATUS_NEW_TIP'] = "İş akışı olmadığı durumda kayıt sonrası düzenleme veya değişiklik yapılıp yapılmayacağı seçilebilir.<br />İş akışı olması durumunda listeden öğelerin aktarılacağı veya kullanıcılar tarafından düzenlenebilecekler seçilebilir. ";
+$MESS ['STATUS_TIP'] = "İş akışı olmadığı durumda herhangi bir öğe ile veya sadece aktif olmayanlarla çalışılıp çalışmayacağı seçilir.<br />İş akışı olmaıs durumunda kullanıcının görebileceği öğeler seçilebilir.";
+$MESS ['LIST_URL_TIP'] = "<i>Kendi öğe listesi</i> bileşeni yardımıyla oluşturulabilen kullanıcının kişisel öğelerinin bulunduğu .sayfaya giden yolun belirtilmesi.";
+$MESS ['ELEMENT_ASSOC_TIP'] = "all elements will be available to all users";
+$MESS ['MAX_USER_ENTRIES_TIP'] = "Bu alan bir kullanıcı tarafından eklenecek öğe sayısını kısıtlar";
+$MESS ['MAX_LEVELS_TIP'] = "Buradaki rakam bilgi bloğunun bölümlerinin sayısını kısıtlar";
+$MESS ['LEVEL_LAST_TIP'] = "n seçilmesi durumunda kullanıcılar alt seviyede bilgi bloğuna öğe ekleyebilir.";
+$MESS ['USE_CAPTCHA_TIP'] = "Bu seçeneğin seçilmesi durumunda görüntü ve CAPTCHA giriş alanı gösterilir.";
+$MESS ['USER_MESSAGE_EDIT_TIP'] = "Bu bölümdeki mesaj kullanıcıya düzenlenen öğeyi kaydederken gösterilecek.";
+$MESS ['USER_MESSAGE_ADD_TIP'] = "Buradaki mesaj kullanıcıya ekleme yaptıktan sonra gösterilir.";
+$MESS ['MAX_FILE_SIZE_TIP'] = "Bu alan yüklenecek dosya boyutunu sınırlandırmayı sağlar.";
+$MESS ['CUSTOM_TITLE_NAME_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_DATE_ACTIVE_FROM_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_DATE_ACTIVE_TO_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_IBLOCK_SECTION_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_PREVIEW_TEXT_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_PREVIEW_PICTURE_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_DETAIL_TEXT_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['CUSTOM_TITLE_DETAIL_PICTURE_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['SEF_FOLDER_TIP'] = "Bileşenin çalıştığı klasöre giden yol. Bu yol fiziksel yol ile eşleşebilir veya eşleşmeye de bilir.";
+$MESS ['CUSTOM_TITLE_TAGS_TIP'] = "Kullanıcılara gösterilecek alan adı belirtilir.";
+$MESS ['DEFAULT_INPUT_SIZE_TIP'] = "Veri giriş alanı boyutu";
+?>

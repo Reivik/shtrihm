@@ -1,0 +1,36 @@
+<?
+$MESS ['SPOD_RECORDS_LIST'] = "Lista de órdenes ";
+$MESS ['P_ORDER_PRICE'] = "Precio de la orden ";
+$MESS ['P_ORDER_CANCELED'] = "Cancelado ";
+$MESS ['P_ORDER_PERS_TYPE'] = "Tipo de pagador ";
+$MESS ['P_ORDER_USER'] = "Preferencias de la orden";
+$MESS ['P_ORDER_PAYMENT'] = "Pago y envío ";
+$MESS ['P_ORDER_PAY_SYSTEM'] = "Sistema del pago ";
+$MESS ['P_ORDER_PAYED'] = "Pagado";
+$MESS ['P_ORDER_DELIVERY'] = "Servicio de entrega ";
+$MESS ['P_ORDER_USER_COMMENT'] = "Comentarios del usuario ";
+$MESS ['P_ORDER_BASKET'] = "Carro de compras ";
+$MESS ['SALE_YES'] = "Si";
+$MESS ['SALE_NO'] = "No";
+$MESS ['SALE_CANCEL_ORDER'] = "Cancelar";
+$MESS ['SALE_REPEAT_PAY'] = "Repetir el pago ";
+$MESS ['SPOD_ORDER_NO'] = "Order no.";
+$MESS ['SPOD_FROM'] = "&nbsp;&nbsp;de";
+$MESS ['SPOD_ORDER_STATUS'] = "Estado actual de la orden: ";
+$MESS ['SPOD_ORDER_FROM'] = " (de ";
+$MESS ['SPOD_ACCOUNT_DATA'] = "Tu información de la cuenta ";
+$MESS ['SPOD_ACCOUNT'] = "Cuenta ";
+$MESS ['SPOD_LOGIN'] = "Conexión ";
+$MESS ['SPOD_EMAIL'] = "dirección del E-mail: ";
+$MESS ['SPOD_NONE'] = "Ninguno ";
+$MESS ['SPOD_NAME'] = "Nombre ";
+$MESS ['SPOD_PROPS'] = "Características ";
+$MESS ['SPOD_PRICETYPE'] = "Tipo de precio ";
+$MESS ['SPOD_QUANTITY'] = "Cantidad ";
+$MESS ['SPOD_PRICE'] = "Precio ";
+$MESS ['SPOD_DISCOUNT'] = "Descuento ";
+$MESS ['SPOD_TAX'] = "Cantidad del impuesto ";
+$MESS ['SPOD_DELIVERY'] = "Costo de la entrega ";
+$MESS ['SPOD_ITOG'] = "Total";
+$MESS ['SPOD_ALREADY_PAID'] = "(<b> ya pagado ";
+?>

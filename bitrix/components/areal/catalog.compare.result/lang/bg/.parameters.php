@@ -1,0 +1,33 @@
+<?
+$MESS["IBLOCK_PRICES"] = "Цени";
+$MESS["T_IBLOCK_DESC_ELEMENT_BOX"] = "Показва списъка на елементите от инфоблока";
+$MESS["IBLOCK_TYPE"] = "Тип на инфоблока";
+$MESS["IBLOCK_IBLOCK"] = "Инфоблок";
+$MESS["IBLOCK_PROPERTY"] = "Свойства";
+$MESS["IBLOCK_SORT_SHOWS"] = "брой на посещенията в средно";
+$MESS["IBLOCK_SORT_SORT"] = "индекс на сортиране";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "дата на промените";
+$MESS["IBLOCK_SORT_NAME"] = "име";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "активно от";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "активно до";
+$MESS["IBLOCK_SORT_ASC"] = "по възходящ";
+$MESS["IBLOCK_SORT_DESC"] = "по низходящ";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Поле за сортиране на елементите";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Ред за сортиране на елементите";
+$MESS["IBLOCK_PRICE_CODE"] = "Тип цена";
+$MESS["IBLOCK_BASKET_URL"] = "URL,водещ на страницата с кошницата на клиента";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "\"Действия\" параметър име";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "\"Код на продукта\" параметър име";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "\"Код на раздела\" име на параметъра ";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Използване показване на цените по диапазони";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Показване на цените за количество";
+$MESS["IBLOCK_DETAIL_URL"] = "URL,водещ на страницата със съществуващите елементи в раздела";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD_BOX"] = "Поле за сортиране на списъка на елементите";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER_BOX"] = "Ред за сортиране списъка на елементите";
+$MESS["IBLOCK_COMPARE_NAME"] = "Уникално име за списъка на сравненията";
+$MESS["IBLOCK_FIELD"] = "Поле";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Включване на ДДС в цената";
+$MESS["CP_BCCR_OFFERS_FIELD_CODE"] = "Поле за предложения";
+$MESS["CP_BCCR_OFFERS_PROPERTY_CODE"] = "Свойства на предложенията";
+?>

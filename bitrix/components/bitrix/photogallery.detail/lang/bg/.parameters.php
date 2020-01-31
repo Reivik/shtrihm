@@ -1,0 +1,37 @@
+<?
+$MESS ['IBLOCK_TYPE'] = "Тип на информационният блок";
+$MESS ['IBLOCK_IBLOCK'] = "Информационен блок";
+$MESS ['IBLOCK_SECTION_URL'] = "Албум";
+$MESS ['IBLOCK_DETAIL_URL'] = "Фото";
+$MESS ['IBLOCK_DETAIL_EDIT_URL'] = "Фото (редактиране)";
+$MESS ['IBLOCK_ELEMENT_ID'] = "ID на елемента";
+$MESS ['IBLOCK_SECTION_ID'] = "ID на раздела";
+$MESS ['T_IBLOCK_DESC_NEWS_PANEL'] = "Показване в админ.панела бутони за този компонент";
+$MESS ['IBLOCK_ELEMENT_SORT_FIELD'] = "Поле за сортиране на фотографиите";
+$MESS ['IBLOCK_ELEMENT_SORT_FIELD1'] = "Второ поле за сортиране на фотографиите";
+$MESS ['IBLOCK_ELEMENT_SORT_ORDER'] = "Реда за сортиране на фотографиите в раздела";
+$MESS ['IBLOCK_SORT_ASC'] = "по възходящ";
+$MESS ['IBLOCK_SORT_DESC'] = "по низходящ";
+$MESS ['IBLOCK_SORT_ID'] = "ID";
+$MESS ['IBLOCK_SORT_SHOWS'] = "брой на прегледите в средно";
+$MESS ['IBLOCK_SORT_SORT'] = "индекс на сортиране";
+$MESS ['IBLOCK_SORT_TIMESTAMP'] = "дата на промяна";
+$MESS ['IBLOCK_SORT_NAME'] = "име";
+$MESS ['IBLOCK_SORT_RATING'] = "популярност";
+$MESS ['IBLOCK_SORT_COMMENTS_BLOG'] = "коментари от блоговете";
+$MESS ['IBLOCK_SORT_COMMENTS_FORUM'] = "коментари от форумите";
+$MESS ['T_DATE_TIME_FORMAT'] = "Формат на датата";
+$MESS ['IBLOCK_BEHAVIOUR'] = "Режим за работа на галерията";
+$MESS ['IBLOCK_BEHAVIOUR_SIMPLE'] = "опростен";
+$MESS ['IBLOCK_BEHAVIOUR_USER'] = "многопотребителски";
+$MESS ['IBLOCK_USER_ALIAS'] = "Код на галерията";
+$MESS ['IBLOCK_SEARCH_URL'] = "Страница за търсенето";
+$MESS ['T_IBLOCK_DESC_USE_PERMISSIONS'] = "Използване на допълнително ограничение за достъп";
+$MESS ['T_IBLOCK_DESC_GROUP_PERMISSIONS'] = "Групи потребители,имащи достъп към подробна информация";
+$MESS ['P_SHOW_TAGS'] = "Показване на таговете";
+$MESS ['IBLOCK_DETAIL_SLIDE_SHOW_URL'] = "Страница на слайдшоуто";
+$MESS ['IBLOCK_GALLERY_URL'] = "Съдържание на галерията";
+$MESS ['T_IBLOCK_PROPERTY'] = "Свойства";
+$MESS ['IBLOCK_UPLOAD_URL'] = "Качване на фотографии";
+$MESS ['P_SET_STATUS_404'] = "Поставяй статус 404, ако не е намерен елемент или раздел";
+?>

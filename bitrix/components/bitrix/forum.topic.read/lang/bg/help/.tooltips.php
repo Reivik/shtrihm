@@ -1,0 +1,36 @@
+<?
+$MESS["FID_TIP"] = "ID на форума";
+$MESS["TID_TIP"] = "ID на темата";
+$MESS["MID_TIP"] = "ID на съобщението";
+$MESS["URL_TEMPLATES_READ_TIP"] = "Страница за прочитане на темите";
+$MESS["URL_TEMPLATES_MESSAGE_TIP"] = "Страница за четене на темата (с ID на съобщението)";
+$MESS["URL_TEMPLATES_LIST_TIP"] = "Страница със списъка на темите";
+$MESS["URL_TEMPLATES_MESSAGE_MOVE_TIP"] = "Страница за пренос на съобщения";
+$MESS["URL_TEMPLATES_PROFILE_VIEW_TIP"] = "Страница на профила на ползващия";
+$MESS["URL_TEMPLATES_TOPIC_NEW_TIP"] = "Страница за създаване на нова тема";
+$MESS["URL_TEMPLATES_SUBSCR_LIST_TIP"] = "Страница за абонаменти";
+$MESS["URL_TEMPLATES_TOPIC_MOVE_TIP"] = "Страница за пренос на теми";
+$MESS["URL_TEMPLATES_INDEX_TIP"] = "Страница със списък на форумите";
+$MESS["URL_TEMPLATES_PM_EDIT_TIP"] = "Страница за лични съобщения";
+$MESS["URL_TEMPLATES_MESSAGE_SEND_TIP"] = "Страница за изпращане на съобщения";
+$MESS["URL_TEMPLATES_RSS_TIP"] = "Страница на RSS";
+$MESS["URL_TEMPLATES_USER_POST_TIP"] = "Страница със съобщения на ползващия";
+$MESS["PAGEN_TIP"] = "Пореден номер на постраничната навигация";
+$MESS["PATH_TO_SMILE_TIP"] = "Път относително корена на сайта към папката с емотиконите";
+$MESS["MESSAGES_PER_PAGE_TIP"] = "Количество съобщения на една страница";
+$MESS["DATE_FORMAT_TIP"] = "Формат на датата";
+$MESS["DATE_TIME_FORMAT_TIP"] = "Формат на датата и времето";
+$MESS["PAGE_NAVIGATION_TEMPLATE_TIP"] = "Име на шаблона за показване на постраничната навигация";
+$MESS["PAGE_NAVIGATION_WINDOW_TIP"] = "Количество страници в постраничната навигация";
+$MESS["PAGE_NAVIGATION_SHOW_ALL_TIP"] = "Разреши показването на всички страници на форума";
+$MESS["WORD_LENGTH_TIP"] = "Дължина на думата";
+$MESS["IMAGE_SIZE_TIP"] = "Размер на прикрепената рисунка (px)";
+$MESS["SHOW_FIRST_POST_TIP"] = "Показвай първото съобщение на темата на всяка страница";
+$MESS["SET_NAVIGATION_TIP"] = "Показвай навигация (хлебни трохи)";
+$MESS["AJAX_TYPE_TIP"] = "Използвай AJAX";
+$MESS["SET_PAGE_PROPERTY_TIP"] = "Включи тагове и описание на темата в свойствата на страницата";
+$MESS["SET_TITLE_TIP"] = "Постави заглавие на страницата";
+$MESS["CACHE_TYPE_TIP"] = "Тип на кеширане";
+$MESS["CACHE_TIME_TIP"] = "Време на кеширане (sec.)";
+$MESS["SHOW_RATING_TIP"] = "Покажи рейтинга";
+?>

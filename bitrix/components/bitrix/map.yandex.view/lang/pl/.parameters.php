@@ -1,0 +1,30 @@
+<?
+$MESS["MYMS_PARAM_KEY"] = "Klucz dostępu";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE"] = "Początkowy typ mapy";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_MAP"] = "Mapa";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_SATELLITE"] = "Satelita";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_HYBRID"] = "Hybryda";
+$MESS["MYMS_PARAM_OPTIONS"] = "Ustawienia";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_SCROLL_ZOOM"] = "Użyj kółka myszy do skalowania";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_DBLCLICK_ZOOM"] = "Podwójne kliknięcie powoduje skalowanie";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_DRAGGING"] = "Zezwól na przesuwanie mapy";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_HOTKEYS"] = "Zezwól na skróty klawiszowe";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_RULER"] = "Użyj narzędzia";
+$MESS["MYMS_PARAM_CONTROLS"] = "Kontrol";
+$MESS["MYMS_PARAM_CONTROLS_TOOLBAR"] = "Pasek narzędziowy";
+$MESS["MYMS_PARAM_CONTROLS_ZOOM"] = "Zoom Slider";
+$MESS["MYMS_PARAM_CONTROLS_SMALLZOOM"] = "Przycisk skalowania";
+$MESS["MYMS_PARAM_CONTROLS_MINIMAP"] = "Mini mapa";
+$MESS["MYMS_PARAM_CONTROLS_TYPECONTROL"] = "Typ mapy";
+$MESS["MYMS_PARAM_CONTROLS_SCALELINE"] = "Zoom skalowanie";
+$MESS["MYMS_PARAM_DATA"] = "Pokazane dane";
+$MESS["MYMS_PARAM_DATA_DEFAULT_LAT"] = "-73.9869";
+$MESS["MYMS_PARAM_DATA_DEFAULT_LON"] = "40.7561";
+$MESS["MYMS_PARAM_DATA_SET"] = "Zmień";
+$MESS["MYMS_PARAM_DATA_NO_KEY"] = "Klawisz dostępu nie jest wyszczególniony dla mapy.";
+$MESS["MYMS_PARAM_DATA_GET_KEY"] = "Pobierz Access Key";
+$MESS["MYMS_PARAM_DATA_GET_KEY_URL"] = "http://api.yandex.ru/maps/form.xml";
+$MESS["MYMS_PARAM_MAP_HEIGHT"] = "Wysokość mapy";
+$MESS["MYMS_PARAM_MAP_WIDTH"] = "Szerokość mapy";
+$MESS["MYMS_PARAM_MAP_ID"] = "Id mapy";
+?>

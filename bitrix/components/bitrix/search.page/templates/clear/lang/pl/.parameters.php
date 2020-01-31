@@ -1,0 +1,31 @@
+<?
+$MESS["TP_BSP_USE_SUGGEST"] = "Pokaż monity wyrażenia wyszukiwania";
+$MESS["TP_BSP_SHOW_ITEM_TAGS"] = "Pokaż tagi dokumentu";
+$MESS["TP_BSP_TAGS_INHERIT"] = "Wąski obszar wyszukiwania";
+$MESS["TP_BSP_SHOW_ITEM_DATE_CHANGE"] = "Pokaż datę modyfikacji";
+$MESS["TP_BSP_SHOW_ORDER_BY"] = "Pokaż kolejność sortowania";
+$MESS["TP_BSP_SHOW_TAGS_CLOUD"] = "Pokaż tagi";
+$MESS["TP_BSP_FONT_MAX"] = "Rozmiar dużych liter (px)";
+$MESS["TP_BSP_FONT_MIN"] = "Rozmiar małych liter (px)";
+$MESS["TP_BSP_COLOR_OLD"] = "Kolor nowych tagów (ex. \"FEFEFE\")";
+$MESS["TP_BSP_COLOR_NEW"] = "Kolor tagów poczatkowych (ex. \"C0C0C0\")";
+$MESS["TP_BSP_CNT"] = "Według częstotliwości";
+$MESS["TP_BSP_COLOR_TYPE"] = "Użyj grenadieru kolorów";
+$MESS["TP_BSP_NAME"] = "Według nazwy";
+$MESS["TP_BSP_PAGE_ELEMENTS"] = "Ilość tagów";
+$MESS["TP_BSP_PERIOD"] = "Szukaj tagi w ciągu (dni)";
+$MESS["TP_BSP_PERIOD_NEW_TAGS"] = "Wazność tagów (dni)";
+$MESS["TP_BSP_WIDTH"] = "Szerokość tagów (ex. \"100%\", \"100px\", \"100pt\" lub \"100in\")";
+$MESS["TP_BSP_URL_SEARCH"] = "Ścieżka do strony wyszukiwania (relatywnie do głównej)";
+$MESS["TP_BSP_SHOW_CHAIN"] = "Pokaż nawigację";
+$MESS["TP_BSP_SORT"] = "Ranking tagów";
+$MESS["TP_BSP_SHOW_RATING"] = "Pokaż oceny";
+$MESS["TP_BSP_PATH_TO_USER_PROFILE"] = "Ścieżka do szablonu profilu użytkownika";
+$MESS["TP_BSP_SHOW_RATING_CONFIG"] = "domyślny";
+$MESS["TP_BSP_RATING_TYPE"] = "Wzór przycisków oceny";
+$MESS["TP_BSP_RATING_TYPE_CONFIG"] = "domyślny";
+$MESS["TP_BSP_RATING_TYPE_STANDART_TEXT"] = "Lubię/nie lubię (tekst)";
+$MESS["TP_BSP_RATING_TYPE_STANDART_GRAPHIC"] = "Lubię/nie lubię (obraz)";
+$MESS["TP_BSP_RATING_TYPE_LIKE_TEXT"] = "Lubię (tekst)";
+$MESS["TP_BSP_RATING_TYPE_LIKE_GRAPHIC"] = "Lubię (obraz)";
+?>

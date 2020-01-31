@@ -1,0 +1,33 @@
+<?
+$MESS["IBLOCK_SORT_SHOWS"] = "брой на прегледите в средно";
+$MESS["IBLOCK_SORT_SORT"] = "индекс на сортиране";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "дата на промените";
+$MESS["IBLOCK_SORT_NAME"] = "име";
+$MESS["IBLOCK_SORT_ID"] = "ID дата на активиране";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "дата на активиране";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "активно до";
+$MESS["IBLOCK_SORT_ASC"] = "по възходящ";
+$MESS["IBLOCK_SORT_DESC"] = "по низходящ";
+$MESS["IBLOCK_TYPE"] = "Тип на информационният блок ";
+$MESS["IBLOCK_IBLOCK"] = "Информационнен блок";
+$MESS["IBLOCK_LINE_ELEMENT_COUNT"] = "Брой на фотографийте,показвани на един ред в таблицата ";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Поле за сортиране на снимките";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Реда за сортиране на снимките в раздела";
+$MESS["IBLOCK_CACHE_FILTER"] = "Кешира при поставен филтър";
+$MESS["IBLOCK_SECTION_ID"] = "ID на раздела";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Име на масива със значенията на филтъра,за филтрация на елементите";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Брой на елементите на една страница";
+$MESS["IBLOCK_DETAIL_URL"] = "URL,на страницата със съдържанието на елементите в раздела";
+$MESS["IBLOCK_SECTION_URL"] = "URL,на страницата със съдържанието на раздела";
+$MESS["IBLOCK_SECTION_CODE"] = "Код на раздела";
+$MESS["IBLOCK_FIELD"] = "Полета";
+$MESS["IBLOCK_PROPERTY"] = "Свойства";
+$MESS["T_IBLOCK_DESC_PAGER_PHOTO"] = "Фотографий";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "Включва раздела в нишката за навигация";
+$MESS["T_IBLOCK_DESC_KEYWORDS"] = "Напишете ключови думи за страницата от свойствата";
+$MESS["T_IBLOCK_DESC_DESCRIPTION"] = "Напишете описание за страницата от свойствата";
+$MESS["CP_BPS_SET_STATUS_404"] = "Посочвай статус 404, ако не е намерен елемент или раздел";
+$MESS["CP_BPS_BROWSER_TITLE"] = "Поставете заглавие за прозореца на браузъра от свойствата";
+$MESS["CP_BPS_CACHE_GROUPS"] = "С отчитане правата за достъп";
+$MESS["CP_BPS_SECTION_USER_FIELDS"] = "Свойства на раздела";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS ['SPOL_T_F_FILTER'] = "Filtro";
+$MESS ['SPOL_T_F_ID'] = "ID del pedido";
+$MESS ['SPOL_T_F_DATE'] = "Fecha del pedido";
+$MESS ['SPOL_T_F_STATUS'] = "Estado del pedido";
+$MESS ['SPOL_T_F_ALL'] = "< Todo >";
+$MESS ['SPOL_T_F_SUBMIT'] = "fijar";
+$MESS ['SPOL_T_F_DEL'] = "Quitar";
+$MESS ['SPOL_T_ID'] = "ID del pedido";
+$MESS ['SPOL_T_PRICE'] = "Precio";
+$MESS ['SPOL_T_STATUS'] = "Estado";
+$MESS ['SPOL_T_PAYED'] = "Pagado";
+$MESS ['SPOL_T_CANCELED'] = "Anulado";
+$MESS ['SPOL_T_ACTION'] = "Acciones";
+$MESS ['SPOL_T_F_PAYED'] = "Pagado";
+$MESS ['SPOL_T_F_CANCELED'] = "Anulado";
+$MESS ['SPOL_T_F_HISTORY'] = "entregados incluídos";
+$MESS ['SPOL_T_PAY_SYS'] = "Métodos de pago y envio";
+$MESS ['SPOL_T_BASKET'] = "Carrito";
+$MESS ['SPOL_T_DELETE'] = "Anular";
+$MESS ['SPOL_T_COPY_ORDER'] = "Re-ordenar";
+$MESS ['SPOL_T_DETAIL'] = "Detalles";
+$MESS ['SPOL_T_YES'] = "Si";
+$MESS ['SPOL_T_NO'] = "No";
+$MESS ['SPOL_T_FROM'] = "desde";
+$MESS ['SPOL_T_DETAIL_DESCR'] = "Ver detalle de pedidos";
+$MESS ['SPOL_T_COPY_ORDER_DESCR'] = "Repetir este pedido";
+$MESS ['SPOL_T_DELETE_DESCR'] = "Anular este pedido";
+$MESS ['STPOL_SHT'] = "psc.";
+?>

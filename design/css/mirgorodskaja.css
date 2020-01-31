@@ -1,0 +1,3565 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    list-style-type:none; 
+}
+strong {font-weight:bold}
+i {font-style:italic}
+code {
+	letter-spacing:5px;
+	color:gray;
+}
+ol > li {list-style:decimal;}
+a {color:#353535; text-decoration:underline}
+a:hover {color:#f0781e}
+.clear {clear:both; height:0; overflow:hidden; position:relative; zoom:1}
+html {background:#ebebeb}
+/*.page {width:1600px; height:3152px; opacity:0.5; position:absolute; left:50%; margin:0 0 0 -800px; background:url(https://www.shtrih-m.ru/design/1.png) no-repeat; z-index:999}*/
+html, body, #page {
+/*height: 100%;*/
+}
+body {
+	font-family: 'PT Sans', 'Arial', sans-serif;
+	font-weight: normal;
+	line-height: 23px;
+	font-size: 14px;	
+	color: #4b4e50;
+}
+
+body #page {
+	height: auto; 
+	min-height: 100%;
+	width: 1000px; 
+	margin: 0 auto; 
+	background: #ffffff; 
+	position: relative;
+	background: #ffffff;
+/*padding-bottom: 280px;*/
+	clear:both;
+}
+img.photo {
+	border: 1px solid #c6c6c6;
+}
+.content {
+	/*padding-bottom: 242px; */
+	background: transparent;
+	display: block;
+	line-height: 25px;
+}
+footer {
+/*position: absolute;*/
+    clear:both;
+	bottom: 0px;
+}
+footer .rights {
+	background: #EBEBEB; 
+}
+* html .content { height: 1%;}
+ h1{
+	font-family: "ArialBlack", "ArialBold", "Gadget", sans-serif;
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	color:#353535; 
+	text-transform:uppercase;
+}
+ h2{
+	font-family: "ArialBlack", "ArialBold", "Gadget", sans-serif;
+	font-size: 16px;
+	line-height: 16px;
+	/* font-weight: bold; */
+	margin-bottom: 16px;
+	text-transform: uppercase;
+}	
+h2.marginTop {
+	margin-top: 16px;
+}
+ h3{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+	line-height: 16px;
+	margin-bottom: 16px;
+}
+ h4{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 23px;
+	margin-bottom: 6px;
+}
+ h5{
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 23px;
+}
+b, strong {
+	font: bold 13px Verdana, Geneva, sans-serif
+}
+.pageCont { 
+	line-height: 25px;
+}
+.pageCont  p {
+	margin-bottom: 20px;
+}
+input:-webkit-autofill {
+	-webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+.pageCont table td.photo a, .pageCont table td.photo a img {
+	display: block;
+	margin: 0 auto;
+} 
+.pageCont table.photo {
+	margin: 0;
+}
+.pageCont .inputContainer, .subscribe_form .inputContainer, .inputContainer {
+	border: 1px solid #C6C6C6;
+	height: 28px;
+	margin: 0px 0px 10px;
+	padding: 0px 8px;
+	clear: both;
+	background: #FFFFFF;
+}
+.pageCont .inputContainer:hover, .subscribe_form .inputContainer:hover, .inputContainer:hover {
+	border: 1px solid #353535;
+}
+.pageCont .inputContainerText {
+	border: 1px solid #C6C6C6;
+	/*height: 28px;*/
+	margin: 0px 0px 10px;
+	padding: 0px 8px;
+	clear: both;
+	background: #FFFFFF;
+}
+.pageCont .left_main {
+	float: left;
+	width: 220px;
+	margin-right: 10px;		
+	*zoom: 1;
+	position: relative;
+}
+.pageCont .right_main {
+	float: left;
+	width: 710px;
+	margin-right: 0px;
+	*zoom: 1;
+	position: relative;
+}
+.pageCont .inputContainerText span {
+	color: #333333;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100%;
+	margin: 2px 0; 
+	padding: 0; 
+	border: 0;
+	display: block;
+	line-height: 25px;
+}
+.pageCont input[type="submit"], .pageCont input[type="reset"] {
+	/* display:block;  */
+	width:auto; 
+	padding: 0 8px 3px;
+	border:1px solid #c6c6c6; 
+	background:#f4f4f4; 
+	text-decoration:none; 
+	color:#353535; 
+	line-height:26px; 
+	text-align:center; 
+	margin: 0;
+	margin-bottom: 10px;
+}
+.pageCont input[type="submit"]:hover, .pageCont input[type="reset"]:hover {
+	background:#f0782e; 
+	border:1px solid #f0781e; 
+	color:#fff; 
+	text-shadow:0 -1px 0 #333; 
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.pageCont .inputContainer.count_staff {
+	width: 100px;
+	float: left;
+	clear: none;
+	margin-left: 20px;
+}
+.pageCont .field_label.count_staff {
+	float: left;
+	font-size: 14px;
+}
+.pageCont .inputContainer input, .subscribe_form .inputContainer input, .inputContainer input {
+	color: #333333;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100%;
+	margin: 0; 
+	padding: 0; 
+	border: 0;
+	display: block;
+}
+.pageCont label.field_label {
+	clear: both;
+	font-size: 12px;
+}
+.pageCont .textareaContainer {
+	border: 1px solid #C6C6C6;
+	margin: 0px 0px 10px;
+	padding: 8px;
+	clear: both;
+	background: #FFFFFF;
+}
+.pageCont .textareaContainer:hover {
+	border: 1px solid #353535;
+}
+.pageCont .textareaContainerText {
+	border: 1px solid #C6C6C6;
+	margin: 0px 0px 10px;
+	padding: 8px;
+	clear: both;
+	background: #FFFFFF;
+}
+.pageCont .textareaContainerText span {
+	color: #333333;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100%;
+	margin: 2px 0; 
+	padding: 0; 
+	border: 0;
+	display: block;
+	overflow: auto;
+	line-height: 25px;
+}
+.pageCont .textareaContainer.focus, .pageCont .inputContainer.focus, .inputContainer.focus {
+	border-color: #F0781E;
+}
+.pageCont .textareaContainer textarea {
+	color: #333333;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100%;
+	margin: 0; 
+	padding: 0; 
+	border: 0;
+	display: block;
+	overflow: auto;
+}
+.pageCont .inputContainer.required, .pageCont .textareaContainer.required {
+	border-color: #F0781E;
+}
+/*Filter*/
+.productPhoto img, .miniSliderCont li a img {width: auto}
+.productPhoto {border: 1px solid #C6C6C6}
+.productPhoto img{border: 0px; width: auto}
+.filter .inpText {width: 40px; box-sizing: border-box;}
+.filter dl dd input.inpText{ position: static; float:left; margin-right: 10px; clear: none; margin-top: 8px;}
+.filter dl dt {
+    font: 15px Verdana;
+	font-weight: bold;
+    padding: 13px 0 8px;
+}
+.filter dl dd label.num{ float:left; margin-right: 5px; margin-top: 6px; padding: 10px 0px 10px;}
+.filter .inpBtn { 
+	position: static;
+	clear: none;
+	width: 80px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.filter .modef {
+	background: #F4F4F4;
+	border: 1px solid #C6C6C6;
+	color: #F0781E;
+	padding: 5px 8px 5px 8px;
+	position: absolute;
+	left: 210px;
+	white-space: nowrap;
+	z-index: 20;
+	font-size:12px
+}
+/* radio/check */
+.pageCont table.photo tr td {
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+.pageCont table.photo tr td a, .pageCont table.photo tr td a img {
+	display: block;
+	margin: 0 auto;
+}
+.label_check, .label_radio    { position:relative; cursor:pointer; display: block;}
+.people_col .label_check {display: inline;}
+.label_radio    { background: url(https://www.shtrih-m.ru/design/images/radio-off.png) 0 7px no-repeat; }
+.label_check    { background: url(https://www.shtrih-m.ru/design/images/check-off.png) 0 6px no-repeat; }
+.label_check.c_on      { background: url(https://www.shtrih-m.ru/design/images/check-on.png) 0 6px no-repeat; }
+.filter .label_check    { background: url(https://www.shtrih-m.ru/design/images/check-off.png) 0 2px no-repeat; }
+ label.label_check, label.label_radio { padding: 0px 3px 3px 17px; }
+.filter label.c_on      { background: url(https://www.shtrih-m.ru/design/images/check-on.png) 0 2px no-repeat; }
+label.r_on      { background: url(https://www.shtrih-m.ru/design/images/radio-on.png) 0 7px no-repeat; }
+.label_check input, .label_radio input  { position: absolute; left: -9999px; }
+.label_check_disabled {color: #afafaf; cursor: default;}
+/* radio/check */
+
+/*List*/
+.pageCont {position:relative;}
+.pageCont  ul {/*padding:0 40px 0px 0;*/ padding: 0; /*float:left;*/ width:auto}
+.pageCont ul > li {background:url(https://www.shtrih-m.ru/design/images/li.png) 1px 6px no-repeat; padding:0 0 5px 22px; color: #4B4E50;}
+.pageCont .comment ul li {background:url(https://www.shtrih-m.ru/design/images/li.png) 1px 3px no-repeat;}
+
+.pageCont ol {
+	list-style: none; /* убираем дефорлтные цифры */
+	counter-reset: point; /* задаем переменную для счетчика */
+	color:#4B4E50;
+	padding-bottom:12px;
+}
+.pageCont ol > li {
+	margin-bottom: 10px;
+	padding-left: 17px;
+	position: relative;
+	list-style: none;
+}
+.pageCont ol > li:before {
+	content: counter(point)"."; /* выводим значение переменной */
+	counter-increment: point 1; /* увеличваем счетчик на 1 */
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	color:#f0781e;
+}
+
+.pageCont ol.vote-items-list > li {
+	padding-left: 0px;
+}
+.pageCont ol.vote-items-list span {
+	left: 0px;
+}
+.pageCont ol.vote-items-list > li:before {
+	position: relative;
+	color: #4B4E50;
+	content: none;
+	counter-increment: none;
+}
+
+
+.pageCont ol span {font-size:14px;  color:#4b4e50; position:relative; left:-4px}
+.pageCont ol p {font-size:14px;  color:#4b4e50; position:relative; left:-4px}
+/*Table*/
+.pageCont table {border-collapse:collapse; clear:both; width:100%; border-width:0 1px 1px 0; border-style:solid; border-color:#eaeaea; margin-bottom:16px}
+.pageCont table th {font:bold 12px/16px Verdana, Geneva, sans-serif; background:#eaeaea; text-align:left; vertical-align:top; padding:10px 22px 12px}
+.pageCont table td {padding:4px 22px; line-height:25px; vertical-align:top; border-width:1px 0 0 1px; border-style:solid; border-color:#eaeaea}
+/*pagination*/
+.pageCont ul.pages {overflow:hidden; position:relative; *zoom:1; clear:both; float: none;}
+.pageCont ul.pages li {float:left; width:auto; font-family: 'PT Sans', sans-serif; font-weight: bold; font-size: 16px; padding:0 9px 0 0; background:none; position:relative; *zoom:1; }
+.pageCont ul.pages li a {float:left; height:28px; border:1px solid #c6c6c6; padding:0 10px; text-decoration:none; color:#353535; line-height:27px; position:relative; *zoom:1; }
+.pageCont ul.pages li.active a {cursor:default}
+.pageCont ul.pages li a:hover, ul.pages li.active a  {background:#f0781e; border-color:#f0782e; color:#fff; text-shadow:0 -1px 0 #333}
+.pageCont ul.pages li a.prevLi {width:28px; overflow:hidden; position:relative; *zoom:1; text-indent:-500px; padding:0; background:url(https://www.shtrih-m.ru/design/images/pointer2.png) center no-repeat #ebebeb}
+.pageCont ul.pages li a.nextLi {width:28px; overflow:hidden; position:relative; *zoom:1; text-indent:-500px; padding:0; background:url(https://www.shtrih-m.ru/design/images/pointer.png) center no-repeat #ebebeb}
+.pageCont table {border-collapse:collapse; clear:both; width:100%; border-width:0 1px 1px 0; border-style:solid; border-color:#eaeaea; margin-bottom:16px}
+.pageCont table th {font:bold 12px/16px Verdana, Geneva, sans-serif; background:#eaeaea; text-align:left; vertical-align:top; padding:10px 22px 12px}
+.pageCont table th.FIELD_OF_ACTIVITY {font:bold 10px/14px Verdana, Geneva, sans-serif; }
+.pageCont table td {padding:4px 22px; line-height:25px; vertical-align:top; border-width:1px 0 0 1px; border-style:solid; border-color:#eaeaea}
+.pageCont table tr:nth-child(2n+1) td {background:#f1f1f1}
+.pageCont table td.photo {vertical-align: middle; text-align: center;}
+.pageCont table td.photo img {display: block; margin: 0 auto;}
+.pageCont table td.photo img.photo {display: block; margin: 0 auto;}
+/*ol>li{display:block;}
+ol>li:before{content:counters(item,".") ". ";counter-increment:item;}
+ol{counter-reset:item;}*/
+/*Header*/
+header {    
+    /*background-image: url(https://shtrih-m.ru/design/images/ng.png);
+    background-repeat: no-repeat;*/background:#fff; padding:0 30px; width:940px; margin:0 auto; z-index:2; *zoom:1; position:relative}
+header a {text-decoration:none;}
+.headTop {background:#000; height:60px; overflow:hidden; position:relative; *zoom:1; margin:0 -30px}
+
+
+/*слайдер картинок в шапке сайта*/
+.headSlider {padding:17px 0 0 30px; width:879px; float:left}
+.headSlider .prev, .headSlider .next {float:left; width:24px; height:24px; overflow:hidden; position:relative; text-indent:-500px; border:0; cursor:pointer}
+.headSlider .prev {background:url(https://www.shtrih-m.ru/design/images/prev.png) no-repeat}
+.headSlider .next {background:url(https://www.shtrih-m.ru/design/images/next.png) no-repeat}
+.headSlider .prev.disabled, .headSlider .next.disabled {opacity: 0.5;}
+.headSlider .prev.disabled.no_dark, .headSlider .next.disabled.no_dark {opacity: 1;}
+.headSliderCont {
+	float: left;
+	height: 28px;
+	margin-top: -2px;
+	overflow: hidden;
+	position: relative;
+	*zoom: 1;
+	width: 831px;
+}
+.flsGalleryInner {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.headSliderCont ul li {float:left; padding:0;/*padding:0 0 0 31px;*/ }
+.headSliderCont ul li a {color:#fff; display: block; width: auto; text-align: center;/*float:left;*width:auto;*/ position:relative; padding:0 31px 0 30px; line-height:25px; border:0; white-space:nowrap}
+.headSliderCont ul li a span {color:#fff; text-decoration:none; border-bottom:1px solid #333}
+.headSliderCont ul li a:hover span {border-color:#fff}
+.headSliderCont ul li img {padding:0 15px 0 0}
+.headSliderContIn {/*width:851px;*/margin: 0 auto; overflow:hidden; position:relative; *zoom:1; /*padding: 0px 13px;*/}
+
+
+/*#slider .overview { list-style: none; position: absolute; padding: 0; margin: 0; width: 240px; left: 0 top: 0; }*/
+/*слайдер*/
+
+
+.headTop .lang {float:right; width:76px; padding:17px 0 0}
+.headTop .lang a {position:relative; margin:0 0 0 24px; color:#fff}
+.headTop .lang a img {position:absolute; left:-24px; top:5px; padding:0 15px 0 0}
+
+.headBott {/*border-bottom:4px solid #000; padding:24px 0 11px; */ padding: 24px 0 19px; position:relative; *zoom:1; z-index:3;/*background:url('https://www.shtrih-m.ru/design/css/images/fon-v-shapku.jpg') no-repeat scroll bottom center;*/padding-bottom: 0;margin-bottom: 0px;}
+.headBott .logo {float:left; width:111px; margin-top: 0px;}
+.headBott .logo a {border:0}
+
+.headBott .phone {float:right; width:auto; color:#353535; letter-spacing:-1px; padding:0; position: absolute; right:0;}
+.headBott .phone strong {font-family: Arial, Helvetica, sans-serif; font-size:27px;}
+
+/*.headBottRight > div:nth-child(2) {
+    float: right;
+    margin-right: 345px!important;
+    border: 1px solid #c6c6c6;
+}*/
+
+.phone a,
+.phone a:hover {
+	color:#000000;
+}
+
+a.support_phone {
+	display:block;
+}
+
+a.support_phone:hover,
+a.support_phone,
+.support_label {
+	color: #eaa90b;
+    font-size: 24px;
+    float: right;
+    display: initial;
+    font-family: 'Roboto Light';
+}
+
+.support_label {
+    /* font-family: 'Arial'; */
+    font-size: 16px;
+    /* text-transform: uppercase; */
+    letter-spacing: 2px;
+    font-family: 'Roboto Regular';
+    float: initial;
+    /* top: 33px; */
+    line-height: 30px;
+}
+
+.headBott .menu {/*margin-right: 345px;*/ float:right; width:auto; padding:0; clear:both; position:relative; *zoom:1; z-index:3;line-height: 25px;height: 25px;}
+.headBott .menu li {float:left; width:auto; /*padding:0 0 27px 16px;*/padding:0 0 0px 16px; position:relative}
+.headBott .menu li a {color:#353535; border:0; text-decoration:underline;    font-family: 'Roboto Light';}
+.headBott .menu li a:hover {text-decoration:none}
+.headBott .menu li a.location {color:#555; text-decoration:none; background:url(https://www.shtrih-m.ru/design/images/location.png) 100% 8px no-repeat; padding:0 7px 0 0}
+.headBott .menu li a.location span {/*background:url(https://www.shtrih-m.ru/design/images/locationLine.png) 0 100% repeat-x*/}
+.headBott .menu li a.location:hover {color:#f0791e}
+.headBott .menu li a.location:hover span {/*background:url(https://www.shtrih-m.ru/design/images/locationLineH.png) 0 100% repeat-x*/}
+
+
+.pageCont .btn {
+	background-color: #f4f4f4;
+	display: block;
+	width: 98px;
+	height: 28px;
+	line-height: 28px;
+	vertical-align: middle;
+	border: 1px solid #c6c6c6;
+	text-align: center;
+	text-decoration: none;	
+	font-size: 14px;
+	color: #353535;
+}
+.pageCont .default_forms .href, .default_forms button[type="submit"].href {
+	background-color: #f4f4f4;
+	display: block;
+	width: auto;
+	height: 28px;
+	line-height: 28px;
+	vertical-align: middle;
+	border: 1px solid #c6c6c6;
+	text-align: center;
+	text-decoration: none;	
+	font-size: 15px;
+	color: #353535;
+	float: left;
+	margin-right: 10px;
+	padding: 0 25px;
+	cursor: pointer;
+}
+.pageCont .default_forms .href:hover, .default_forms button[type="submit"].href:hover {
+	width: auto;
+	border-color: #f0781e;
+	background-color: #f0781e;
+	color: #ffffff;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+	cursor: pointer;
+
+}
+.pageCont .btn:hover {
+	border-color: #f0781e;
+	/*width: 100px;*/
+	/*font-weight: bold;*/
+	background-color: #f0781e;
+	color: #ffffff;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+}
+.pageCont .btn i {
+	vertical-align: middle;
+	width: 12px;
+	height: 12px;
+	line-height: 12px;
+	margin: -3px 10px 0 0;
+	display: inline-block;
+}
+.pageCont .btn.learning {
+	width: 199px;
+	/*border-color: #f0781e;
+	background-color: #f0781e;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+	color: #ffffff;
+	font-weight: bold;*/
+}
+.clients .blockCont .bwWrapper, 
+.clients .blockCont .bwWrapper2
+{
+	position:relative;
+	display:block;
+	width:95px;
+}
+
+.clients .blockCont .bwWrapper img,
+.clients .blockCont .bwWrapper2 img{
+	margin:0 auto;
+}
+
+/*Общие формы*/
+.content input[type="text"], .content input[type="password"], .content textarea {
+	/*border:1px solid #c6c6c6; 
+	padding: 0px 8px;*/
+	font-family: 'PT Sans', sans-serif;
+	font-weight: normal;
+	font-size: 14px;
+	height: 28px;
+	color:#333;
+	/*margin:0 0 10px;
+	clear: both;*/
+}
+.content textarea {	
+	padding: 8px;
+	width: 880px;
+	resize: none;
+	min-height: 159px;
+}
+.content input:focus, .content textarea:focus {
+	border-color:#f0781e;
+}
+.filter_form.system input[type="submit"] {
+	background: #F4F4F4;
+    border: 1px solid #C6C6C6;
+    color: #353535;
+    display: block;
+    height: 28px;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 12px 3px;
+    text-align: center;
+    text-decoration: none;
+    width: 98px;
+	cursor: pointer;
+}
+.filter_form.system input[type="submit"]:hover {
+	background: #F0782E;
+	border-color: #F0781E;
+	color: #FFFFFF;
+	font-weight: 700;
+	text-shadow:0 -1px 0 #333;
+	padding: 0 8px 3px;
+}
+/*Форма регистрации*/
+.pageCont form[name="regform"] .info_block_form, .pageCont .info_block_form {
+	background-color: #EAEAEA;
+	border: 1px solid #DEDEDE;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+.pageCont form[name="regform"] .small_block {
+	width: 465px;
+	float: left;
+	margin-right: 10px;
+}
+.pageCont form[name="regform"] h2 {
+	margin: 0 0 10px 0;
+}
+.pageCont .small_input_two .field {
+	width: 442px;
+	margin-right: 14px;
+	float: left;
+	clear: none;
+}
+.pageCont .small_input_three .field {
+	width: 289px;
+	margin-right: 14px;
+	float: left;
+	clear: none;
+}
+.pageCont .contact_phone_mail .field {
+	width: 206px;
+	margin-right: 10px;
+	float: left;
+	clear: none;
+}
+.pageCont .date_field .field {
+	width: 106px;
+	margin-right: 10px;
+	float: left;
+	clear: none;
+}
+.product_introduction {margin-bottom: 20px;}
+.pageCont form[name="regform"] .filials, .pageCont form[name="regform"] .people {
+	margin: 0px 0px 10px 0px;
+	padding: 0;
+	position: relative;
+	border-bottom: 1px dotted #C6C6C6;
+}
+.pageCont form[name="regform"] .filials {
+	padding: 25px 0;
+}
+.pageCont form[name="regform"] button.add_filial {
+	cursor:pointer;
+	border: 1px solid #c6c6c6;
+	display: block;
+	/*height: 28px;
+	padding-left: 24px;
+	padding-right: 6px;*/
+	padding: 3px 6px 3px 24px;
+	background: url(https://www.shtrih-m.ru/design/images/pluss_add.png) 6px 50% no-repeat #f4f4f4;
+}
+.pageCont form[name="regform"] button.del_filial {
+	cursor:pointer;
+	border: none;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: none;
+}
+.pageCont form[name="regform"] .people .checkBlock {
+	float: left;
+	width: 159px;
+	padding-top: 2px;
+}
+.pageCont form[name="regform"] .people button.del_filial {top: 6px;}
+.pageCont form[name="regform"] label.label_radio {margin-bottom: 11px;}
+.pageCont form[name="regform"] .label_check {margin-bottom: 5px;}
+.pageCont form[name="regform"] .conatact_person input.contact_phone_mail.last {margin-right: 0;}
+.pageCont form[name="regform"] input#reg_form_submit, .pageCont input.orange_submit, .orange_submit {
+	background: #F4F4F4;
+	border: 1px solid #C6C6C6;
+	color: #353535;
+	display: inline-block;
+	height: 28px;
+	line-height: 26px;
+	margin: 29px 0px 35px;
+	text-align: center;
+	text-decoration: none;
+	padding: 0 12px 3px;
+	cursor: pointer;
+}
+a.orange_submit, a.orange_submit:hover, .pageCont form[name="regform"] input#reg_form_submit:hover, .pageCont input.orange_submit:hover, .orange_submit:hover, .orange_submit.active {
+	background: #F0782E;
+	border-color: #F0781E;
+	color: #FFFFFF;
+	font-weight: 700;
+	text-shadow:0 -1px 0 #333;
+}
+.orange_submit:disabled, .orange_submit:disabled:hover {
+	background: #F4F4F4;
+	border: 1px solid #C6C6C6;
+	color: #aaa;
+	font-weight: 500;
+	text-shadow: none;
+}
+.pageCont .system input.orange_submit {
+	margin: 0px;
+	/*width: auto;
+	padding: 0px 20px 2px 20px;*/
+}
+
+
+.pageCont form[name="regform"] .last, .pageCont form[name="regform"] input.last {
+	margin-right: 0;
+}
+/**/
+/*------------------------------------File Field---------------------------------*/
+.pageCont .input-files {
+	margin:0 0 10px;
+	overflow: hidden;
+	width: auto;
+	height: 31px;
+	position:relative;
+	overflow: hidden;
+	cursor:pointer;
+}
+.pageCont .input-files input[type="file"] {
+	position:absolute;
+	opacity: 0;
+	filter:alpha(opacity:0);
+	cursor:pointer;
+	padding:0px;
+	border:none;
+	position:absolute;
+	left: 0;
+	cursor:pointer;
+}
+.pageCont .input-files input[type="file"] {
+	width: 898px;
+}
+.pageCont .input-files input[type="text"] {
+	float: left;
+	width: 572px;
+	cursor:pointer;
+	margin-right: 10px;
+	padding-left: 8px;
+}
+.pageCont .input-files input[type="text"].full.small {
+	width: 571px;
+}.pageCont .input-files input[type="text"].full {
+	width: 791px;
+}
+.pageCont .reg .input-files input[type="text"] {
+	width: 791px;	
+}
+.pageCont .input-files a {
+	cursor:pointer;
+	border: 1px solid #c6c6c6;
+	background-color: #f4f4f4;
+	display: block;
+	float: right;
+	width: 77px;
+	padding: 2px 0 1px 0;
+	vertical-align: middle;
+	text-decoration: none;
+	text-align:center;
+}
+.pageCont .input-files input:hover + a {
+	text-decoration: none;
+}
+
+.select_box .options_box .options_scroll {float: right;}
+.select_box ul li a {padding-right: 27px;}
+.clients_list .listItems li td.photo {text-align: center; vertical-align: middle;}
+.clients_list .listItems li td.photo a {display: block;}
+
+.introduction {color:#4b4e50;}
+.introduction ul.articlesList {padding:0 0 2px; overflow:hidden; position:relative; *zoom:1}
+.introduction ul.articlesList li {font-size:13px; padding:0 0 15px 69px; width:258px; line-height:20px; position:relative; display:inline-block; *zoom:1; vertical-align:top; *display:inline}
+.introduction ul.articlesList li .photo {float:left; width:59px; margin:0 -69px 0 0; left:-69px; position:relative; top:2px}
+.introduction ul.articlesList li .photo img {border:2px solid #e5e5e5}
+.introduction ul.articlesList li a {color:#4b4e50; text-decoration:none; display:block}
+.introduction ul.articlesList li a:hover {color:#f0781e; text-decoration:underline}
+.introduction ul.articlesList li .date {font-size:14px}
+.introduction ul.articlesList li .date strong {font-size:14px; font-weight: bold; text-transform:uppercase}
+.introduction ul.articlesList li a:hover {text-decoration:underline}
+li#regions:hover ul#ul_regions {display: block;}
+li#towns:hover ul#ul_towns {display: block;}
+ul#ul_regions, ul#ul_towns {
+	display: none;
+	top: 25px;
+	left: 15px;
+	position: absolute;
+	border:1px solid #ccc; 
+	background:url(https://www.shtrih-m.ru/design/images/sub.png) transparent;
+	width: 200px;
+	padding-bottom: 20px;
+	max-height: 393px;
+	overflow-y: auto;
+}
+ul#ul_regions li, ul#ul_towns li {
+	float: none;
+	padding-bottom: 0px;
+}	
+ul#ul_regions li a, ul#ul_towns li a {
+	color: #353535; 
+	text-decoration: none;
+	padding: 0 7px 0 0
+}
+ul#ul_regions li a span, ul#ul_towns li a span {
+	background: url(https://www.shtrih-m.ru/design/images/locationLine.png) 0 100% repeat-x;
+}
+ul#ul_regions li a:hover, ul#ul_towns li a:hover {
+	color: #f0791e;
+	text-decoration: none; 
+}
+ul#ul_regions li a:hover span, ul#ul_towns li a:hover span {
+	background: url(https://www.shtrih-m.ru/design/images/locationLineH.png) 0 100% repeat-x;
+}
+
+/*Формы*/
+.default_forms {
+	padding: 10px;
+	background: #EAEAEA;
+	border: 1px solid #DEDEDE;
+	width: auto;
+	clear: both;
+	float: none;
+}
+form h3 {
+	margin-bottom: 15px;
+}
+div.default_forms {
+	margin-bottom: 20px;
+}
+form.default_forms {
+	margin-bottom: 20px;
+}
+form.default_forms.introductions {
+	width: 638px;
+	margin-bottom: 31px;
+}
+form.default_forms div.select_all_width {
+	width: 100%;
+	margin-bottom: 10px;
+}
+form.default_forms div.select_location {
+	width: 334px;
+	margin-right: 10px;
+	float: left;
+	margin-bottom: 10px;
+}
+form.default_forms div.select_location.tree {
+	width: 219px;
+}
+form.default_forms.introductions div.select_location {
+	width: 314px;
+}
+form.default_forms div.without_search {
+	width: 597px;
+}
+form.default_forms.introductions div.without_search {
+	width: 557px;
+}
+form.default_forms div.select_location.marginRight0 {
+	margin-right: 0px;
+}
+form.default_forms div.select_directions {
+	width: 100%;
+	float: none;
+	margin: 10px 0;  
+}
+form.default_forms .search_input {
+	width: 100%;
+}
+form.default_forms .search_input input {
+	clear: none;
+}
+form.default_forms .search_text_input, .inpText {
+	border:1px solid #c6c6c6; 
+	padding:0 8px; 
+	height:30px; 
+	font:14px/28px; 
+	color:#333; 
+	float:left;
+	clear:both;
+	width: 580px;
+	margin:0 0 10px;
+}
+form.default_forms.introductions .search_text_input {
+	width: 539px;
+}
+form.default_forms input[type="submit"] {
+	border:1px solid #c6c6c6; 
+	border-left: none;
+	padding: 0px 8px 0px 29px;
+	height:30px; 
+	font:14px/28px; 
+	color:#333; 
+	float:left;
+	width:81px;
+	margin:0 0 10px;
+	background: url(https://www.shtrih-m.ru/design/images/search.png) #F4F4F4 13% 50% no-repeat;
+	outline: none;
+	cursor: pointer;
+}
+input[type="submit"]:focus {
+	outline: none;
+	border: none;
+}
+/*form.default_forms .search_text_input:hover {border-color:#353535;}*/
+form.default_forms .search_text_input:focus, .inpText:focus {border-color:#f0781e;}
+
+
+.default_forms .search {
+	display: block;
+}
+.default_forms .search input {
+	float: left;
+	width: 599px;
+	height: 30px;
+	clear: none;
+	border-right: none;
+}
+.default_forms .search input[type="text"]:hover {
+	border: 1px solid #353535;
+} 
+.default_forms .search input.partner {
+	width: 558px;
+}
+.default_forms .search .search_select {
+	float: left;
+	width: 599px;
+}
+.filter_form .search_select_two .field {
+	float: left;
+	width: 299px;
+}
+.default_forms .search button {
+	float: right;
+	height: 30px;
+	width: 80px;
+	cursor: pointer;
+	display: block;
+	text-align: left;
+	padding-left: 9px;
+}
+.default_forms .search button:hover {
+	width: 80px;
+}
+.default_forms .search button i {
+	width: 13px;
+	height: 13px;
+	margin-right: 3px;
+	background: url("https://www.shtrih-m.ru/design/images/search.png") no-repeat left top;
+}
+
+.paddingLeft20 {
+	padding-left: 20px;
+}
+.inpBtn {background:#f4f4f4; border:1px solid #c6c6c6; color:#353535; float:left; width:auto; cursor:pointer; padding: 1px 15px; clear:both; margin:0 0 20px; width:auto; text-align: center; text-decoration: none;}
+.inpBtn:hover {background:#f0781e; border:1px solid #f0782e; color:#fff; text-shadow:0 -1px 0 #8d4712; text-decoration: none; font-weight: bold;}
+.subscribe_form .inpBtn { font-size: 14px; margin-bottom: 2px;}
+form[name="send_application"] .inpBtn {
+	float: right;
+}
+.test_detail .inpBtn {
+	float: left;
+	margin-left: 10px;
+	clear: none;
+}
+/*табы*/
+.pageCont .list_item_tabs {
+	/*border: 1px solid #C6C6C6;*/
+	padding: 0;
+	position: relative;
+	border-radius: 0;
+	background: none;
+	display: block;
+	margin-top: -1px;
+	padding-top: 41px;
+}
+.pageCont .list_item_tabs#product_detail {
+	margin: 0;
+	padding: 0;
+}
+.textDecor {
+	margin-bottom: 10px;
+	display: block;
+}
+.pageCont .list_item_tabs .list_last {
+	clear: both;
+	padding: 0 10px 20px 10px;
+}
+.pageCont .list_item_tabs > ul {
+	overflow:hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border-radius: 0;
+	background: none;
+	border: none;
+	position: absolute;
+	top: 1px;
+	left: 0;
+}
+.pageCont .list_item_tabs > ul.FloatAuto {
+	float: left;
+	width: auto;
+	*float: none;
+	*display: inline;
+	*zoom: 1;
+	position: relative;
+}
+.pageCont .list_item_tabs ul li.list_item_tab {
+	float: left;
+	margin: 0 -1px 0 0;
+	width: auto;
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+.pageCont .list_item_tabs li.list_item_tab.ui-state-active {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+.pageCont .list_item_tabs li.list_item_tab.ui-state-active a {
+	color:#f0781e; 
+	background:#fff; 
+	height:30px; 
+	border-bottom: 1px solid #FFFFFF;
+	padding-bottom: 3px;
+}
+.pageCont .list_item_tabs li.list_item_tab a {
+	background: url("https://www.shtrih-m.ru/design/images/nav_a.png") repeat-x scroll 0 0 transparent;
+	border: 1px solid #C6C6C6;
+	color: #353535;
+	float: left;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	height: 29px;
+	padding: 6px 15px 4px;
+	text-decoration: none;
+	width: auto;
+}
+.manager {
+	margin-bottom: 20px;
+}
+.pageCont a.pay {
+	color:#fff;
+	display: block;
+	float: left;
+	text-shadow:0 -1px 0 #555; 
+	text-decoration:none;
+	background:#f0781e;
+	height: 32px;
+	padding: 7px 0px 1px;
+	width: 112px;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 17px;
+	margin-top: 1px;
+}
+@-moz-document url-prefix() {
+   .pageCont a.pay {width: 119px;}
+}
+.pageCont .list_item_tabs div.ui-tabs-panel {
+	padding: 20px 20px 22px 20px;
+	background: none;
+	border: none;
+	border: 1px solid #C6C6C6;
+}
+/*.pageCont .list_item_tabs div.ui-tabs-panel#description {
+	white-space: pre-wrap;
+}*/
+.pageCont .right_main .list_item_tabs div.ui-tabs-panel {
+	height: 271px; 
+}
+.pageCont .partners_block {
+	border: 1px solid #c6c6c6;
+	padding: 10px;
+	margin-bottom: 21px;		
+}	
+.pageCont .partners_block table {border: none; margin: 0; padding: 0;}
+.pageCont .partners_block table td {		
+	background: none !important;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.pageCont .partners_block table td.image_block  {
+	background: none;
+	border: 1px solid #c6c6c6;
+	width: 171px;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+.pageCont .partners_block .image_block a {
+	display: block;	
+}
+.pageCont .partners_block .image_block a img {
+	display: block;
+	margin: 0px auto;
+}
+.pageCont .partners_block .info_block {
+	padding-left: 20px;
+}
+.pageCont .partners_block .info_block p {
+	line-height: 20px; 
+	margin-bottom: 10px;
+}
+.pageCont .partners_block .info_block p.addintional_info {
+	font-size: 12px;
+}
+.pageCont .partners_block .info_block img.img_status {
+	cursor: pointer;
+}
+.pageCont table.introduction_table td {
+	padding: 15px 10px;
+}
+.pageCont .filial {
+	margin-bottom: 30px;
+	margin-right: 29px;
+	width: 293px;
+	float: left;	
+	border-right: 1px solid #c6c6c6;
+}
+.pageCont .filial.last {
+	margin-right: 0;
+	border: none;
+}
+/*strong, b {font-weight:normal; font-family:'pt_sansbold'}*/
+.partnersDetailCompany {padding:12px 0 8px; overflow:hidden; position:relative; *zoom:1}
+.partnersDetailLogo {float:left; width:auto; margin:0 21px 0 0; position:relative; top:-5px}
+.partnersDetailLogo img {border:1px solid #d0d0d0; display:block; padding:5px; width:128px}
+
+.event_detail .description_event {float: left;}
+.solution_detail_text {float: right;}
+/*Отображение каталога продуктов, решений, внедрений*/
+.item_list_catalog {
+	border: 1px solid #c6c6c6;
+	margin: 0 0 19px 0;
+}
+.item_list_catalog div.photo {
+	padding: 9px 13px 9px 9px;
+	width: 105px;
+	float: left;
+	text-align: center;
+}
+.item_list_catalog .text p, .partners_block .info_block p {
+	text-align: justify;
+}
+.pageCont table.photo tr td {
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+.pageCont table.photo tr td a, .pageCont table.photo tr td a img {
+	display: block;
+	margin: 0 auto;
+}
+.pageCont .item_list_catalog table.photo td {
+	border: 1px solid #c6c6c6;
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+	width: 102px;
+	height: 102px;
+}
+.pageCont .item_list_catalog table.photo td img {
+	display: block;
+	margin: 0 auto;
+}
+/*.item_list_catalog .photo a, .item_list_catalog .photo a img {display: block; margin: 0 auto;}
+.item_list_catalog .photo a img {
+	border: 1px solid #d0d0d0;
+}*/
+.item_list_catalog .text {
+	float: left;
+	padding: 15px 9px 14px 0px;
+	width: 441px;
+}
+.item_list_catalog .text p {
+	padding: 0;
+	margin: 0;
+}
+.item_list_catalog .text ul.additional_properties {
+	margin: 0;
+	padding: 0;
+	margin-top: 11px;
+}
+.item_list_catalog .text ul.additional_properties li {
+	font-size: 12px;
+	line-height: 19px;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	background: none;
+}
+.item_list_catalog .show {
+	float: left;
+	padding: 15px 9px 14px 0px;
+	width: 113px;
+	position: relative;
+}
+.item_list_catalog h2 {
+	text-transform:uppercase;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	padding:0 0 7px;
+	margin: 0;
+}
+.item_list_catalog h2 a {color:#353535; text-decoration:none; display: block;}
+.item_list_catalog h2 a:hover {color:#f0781e; text-decoration:underline}
+.show {padding-left: 11px;}
+.show .view {display:block; width:98px; height:28px; border:1px solid #c6c6c6; background:#f4f4f4; text-decoration:none; color:#353535; line-height:26px; text-align:center; margin:29px 0 35px 0px;}
+.show .view:hover {background:#f0782e; border-color:#f0781e; color:#fff; text-shadow:0 -1px 0 #333; font-weight:bold;}
+.show .view.perehod {width:134px; float:right; }
+.show .compare {position:relative; float:right}
+.show .compare label {float:left}
+.show .compare.left {position:relative; float:left}
+.show .compare input {position:absolute; left:0; top:3px}
+.show .compareLink {border:1px solid #fff; background:#ffffff; cursor:pointer; padding:0 11px}
+.show .compareLink:hover {border-color:#c6c6c6; background:#f4f4f4; padding:0 11px}
+.show a.in_compare {border:1px solid #c6c6c6; background:#f4f4f4; padding:0 11px 1px 11px; margin-left: -7px; float: left; text-decoration: none; line-height: 18px; margin-top: 2px;}
+@-moz-document url-prefix() {	
+	.show a.in_compare {border:1px solid #c6c6c6; background:#f4f4f4; padding:0 11px 3px 11px; margin-left: -7px; float: left; text-decoration: none; line-height: 18px; margin-top: 1px;}
+}
+.show .compare .label_check input {left:-999px; display: none;}
+.pageCont table.tex_characteristic, .pageCont table.tex_characteristic td {
+	border: none;
+}
+.pageCont #description p {line-height:25px}
+div.introduction_solution {
+	float: left;
+	width: 434px;
+	zoom: 1;
+	position: relative;
+	border: 1px solid #c6c6c6; 
+	padding: 9px;
+	margin:0 16px 20px 0;
+}
+div.introduction_solution h3 {text-transform:uppercase;}
+
+.pageCont div.introduction_solution table, .pageCont div.introduction_solution table tr td {
+	border: none;
+	background: none;
+	padding: 0;
+	margin: 0;
+} 
+.pageCont div.introduction_solution table tr td {
+	width: 117px;
+	height: 117px;
+	border: 1px solid #c6c6c6;
+	text-align: center;
+	vertical-align: middle;
+}
+.pageCont div.introduction_solution .photo {
+	float: left;
+	width: 119px;
+	margin-right: 20px
+}
+.pageCont div.introduction_solution table td a img, .pageCont div.introduction_solution table td a  {display: block; margin: 0 auto; }
+
+div.introduction_solution .text {
+	float: left;
+	width: 286px;
+	padding: 0;
+	margin: 0;
+}
+div.introduction_solution .text h3 {
+	height: 46px;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+div.introduction_solution .text p {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 6px;
+	height: 37px;
+	overflow: hidden;
+}
+div.introduction_solution .text p span {
+	text-decoration: underline;
+}
+div.introduction_solution .text .inpBtn {
+	margin: 0;
+}
+.leftPicture {
+	border:1px solid #d0d0d0; 
+	display:block; 
+	padding:5px; 
+	float:left; 
+	margin:0 21px 0 0;
+}
+.carousel.main {
+	float: left;
+	position: relative;
+	width: 350px;
+	zoom: 1;
+	height: 92px;
+	margin-bottom: 20px;
+}
+.carousel.main.no_margin {
+	margin-top: 0px;
+}
+.carousel.main .pPrev {
+	background: url(https://www.shtrih-m.ru/design/images/prev2.png) 2px 50% no-repeat #F4F4F4;
+	border: 1px solid #C6C6C6;
+	cursor: pointer;
+	float: left;
+	height: 90px;
+	overflow: hidden;
+	position: relative;
+	text-indent: -500px;
+	width: 15px;
+}
+.carousel.main .pNext {
+	background: url(https://www.shtrih-m.ru/design/images/next2.png) 4px 50% no-repeat #F4F4F4;
+	border: 1px solid #C6C6C6;
+	cursor: pointer;
+	float: left;
+	height: 90px;
+	overflow: hidden;
+	position: relative;
+	text-indent: -500px;
+	width: 15px;
+}
+.carousel.main .pNext.disabled, .carousel.main .pPrev.disabled {
+	opacity: 0.5;
+	cursor: default;
+}
+.carousel.main .jCarouselLite {
+	position: relative;
+	float: left;
+	overflow: hidden;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 5px;
+	position: relative;
+	visibility: hidden;
+}
+.carousel.main .jCarouselLite ul li {
+	background: none;
+	float: left;
+	left: 0px;
+	right: 0px;	
+	margin: 0 5px;
+	padding: 0px;
+	/*padding-right: 10px;*/
+	position: relative;
+	border: 1px solid #c6c6c6;
+	text-align: center;
+	*width: 90px !important;
+}
+.carousel.main .jCarouselLite .carousel_img, .carousel.main .jCarouselLite .carousel_img tr td {background: none; border: none; margin: 0; padding: 0;}
+.carousel.main .jCarouselLite .carousel_img tr td { text-align: center; vertical-align: middle; height: 90px; width: 90px; }
+.carousel.main .jCarouselLite ul li a, .carousel.main .jCarouselLite ul li a img {display: block;}
+.carousel.main .jCarouselLite ul li a img {margin: 0 auto;}
+.pageCont .productPhotosInfo {
+	float: left;
+	width: 330px;
+	position: relative;
+	zoom: 1;
+}
+.pageCont .productPhotosInfo.right {
+	float: right;
+	width: 349px;
+	padding-left: 20px;
+}
+.pageCont .productPreview {
+	float: left;
+	width: 351px;
+	position: relative;
+	zoom: 1;
+}
+.pageCont .event_detail .productPhotosInfo {
+	width: 351px;
+	position: relative;
+	zoom: 1;
+}
+.pageCont .event_detail .productPreview {
+	width: 351px;
+	position: relative;
+	zoom: 1;
+}
+.pageCont .event_detail {
+	width: 351px;
+	float: left;
+	margin-right: 10px;
+}
+.pageCont .description_event {
+	float: left;
+}
+.productPhotosInfo {margin-right: 20px;}
+.productPhotosInfo.right {margin-right: 0px;}
+.pageCont .productPhotosInfo table, .pageCont .productPhotosInfo table tr td {
+	background: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+.pageCont .productPhotosInfo table {
+	margin-bottom: 10px;
+}
+.pageCont .event_detail .productPhotosInfo table tr td {
+	border: 1px solid #c6c6c6; 
+	width: 351px;
+	height: 351px;
+	text-align: center;
+	vertical-align: middle;
+	position:relative;
+}
+.pageCont .productPhotosInfo table tr td {
+	border: 1px solid #c6c6c6; 
+	width: 330px;
+	height: 330px;
+	text-align: center;
+	vertical-align: middle;
+	position:relative;
+}
+.pageCont .productPhotosInfo.right table tr td {
+	width: 349px;
+	height: 349px;
+}
+.pageCont .productPhotosInfo a.main_image {
+	display: block;
+	margin: 0px;
+	max-height: 330px;
+	padding: 0px;
+	position: relative;
+}
+.pageCont .productPhotosInfo a.main_image {
+	max-height: 349px;
+	margin-bottom: 10px;
+}
+.pageCont .product .description_text_products {
+/*height: 194px;*/
+height:auto;
+	margin: 0px;
+	overflow: hidden;
+	text-align: justify;
+}
+.pageCont .compare_detail {
+	width: 350px;
+	float: left;
+	margin-top: 3px;
+}
+.pageCont .event_detail  .productPhotosInfo a.main_image {
+	max-height: 351px;
+}
+.pageCont .event_description {
+	height: 239px;
+}
+.pageCont .productPhotosInfo img.zoom {
+	position:absolute; 
+	z-index:4; 
+	right: 0px; 
+	bottom: 0px; 
+	cursor:pointer
+}
+.pageCont .productPhotosInfo a.main_image img {margin: 0 auto; z-index: 2;}
+.productPreview #preview_text {
+	min-height: 219px;
+}
+.pageCont .block {
+    /*background: url("https://www.shtrih-m.ru/design/images/shadow.png") repeat-x scroll 0 100% transparent;*/
+    padding: 0 0 10px;
+	position: relative;
+	zoom: 1;
+	*display: inline;
+	*float: none;
+}
+
+.block articles modern .main_block {
+	height: 340px;
+	position: relative;
+	background: url(/design/images/new-story-2020.jpg)  0% 0% / cover;
+}
+.pageCont .main_block{
+	padding: 20px 20px 22px 20px;
+	/*border: 1px solid #C6C6C6;*/
+}
+.pageCont .main_block .ap_main_items .all{
+	position:absolute;
+	top:-12px;
+	left:510px;
+	width:200px;
+	text-align:right;
+	height:2px;
+}
+
+.pageCont .main_block .ap_main_items .all span{
+	display:block;
+	width:10px;
+	height:30px;
+	background-color:#F7881E;
+	float:right;
+	margin-left:10px;
+	margin-top:-1px;
+}
+.pageCont .info_main{ padding: 0; margin: 0;}
+.pageCont .info_main li {background: none; padding: 0px 0px 7px; margin: 0; }
+.pageCont .blockCont {/*border: 1px solid #C6C6C6;*/ padding: 0!important; position: relative;height:auto;}
+.pageCont .miniSpecial {display: block; zoom: 1; position: relative; margin-bottom: 20px; margin-top: 30px;}
+.pageCont .main_offer .miniSpecial {margin-top: 0px;}
+/*.pageCont .special {
+	clear: both;
+	zoom: 1;
+	position: relative;
+	margin: 28px 0 20px;
+}*/
+
+div.div_title_h3{
+	height:35px;
+	overflow:hidden;
+}
+
+.pageCont .special .blockCont {
+	border: 1px solid #f0781e; 
+	background:#fdfdfd; 
+	position: relative;
+	display: block;
+	*zoom: 1;
+	padding: 9px;
+}
+.pageCont .special h2 {
+	color:#fff; 
+	font: 16px 'ArialBlack'; 
+	text-shadow:0 -1px 0 #555;
+	text-transform:uppercase; 
+	background:#f0781e;
+	position:absolute;
+	left:-1px; 
+	top:-16px; 
+	padding:4px 27px 6px 20px;
+}
+.pageCont .special ul {
+	clear:both; 
+	width:993px; 
+	overflow:hidden;
+	position:relative; 
+	*zoom:1; 
+	margin:23px 0 0; 
+	height:80px;
+}
+.pageCont .special ul li {
+	width:224px; 
+	font-size:13px; 
+	padding:0 0 20px 81px; 
+	line-height:16px; 
+	display:inline-block; 
+	position:relative; 
+	*zoom:1;
+	vertical-align:top; 
+	*display:inline; 
+	background: none;
+}
+.pageCont .special ul li .photo {
+	float:left; 
+	width:68px;
+	height:68px; 
+	margin:0 0 0 -81px;
+}
+.pageCont .special ul li h3 {
+	font-size:14px;
+	font-weight: bold;	
+	text-transform:uppercase;
+	margin:0 0 5px;
+	clear: none;
+}
+.pageCont .special ul li h3 a {
+	color:#353535; 
+	text-decoration:none
+}
+.pageCont .special ul li h3 a:hover {
+	color:#f0781e;
+	text-decoration:underline;
+}
+.pageCont .special ul li p {
+	clear: none;
+}
+.pageCont .special .showMore {position:absolute; right:-1px; bottom:-21px; padding:0 0 10px; background:url(https://www.shtrih-m.ru/design/images/shadow.png) 0 100% repeat-x}
+.pageCont .special .showMore a {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color:#fff; 
+	text-shadow:0 -1px 0 #555; 
+	text-decoration:none; 
+	background:#f0781e; 
+	padding:4px 11px 7px 12px; 
+	cursor:pointer; 
+	display:block;
+}
+.pageCont .special .showMore a.hideMoreLink {background:url(https://www.shtrih-m.ru/design/images/close.png) 100% center no-repeat #f0781e; padding:4px 34px 7px 21px}
+/*.pageCont .miniSpecial {margin-bottom:36px}
+.pageCont .miniSpecial ul {width:680px}
+.pageCont .miniSpecial ul li {width:255px; background: none;}*/
+
+/*Слайдер картинок*/
+.blockContSlider {position: relative; zoom: 1; padding:9px; border:1px solid #c6c6c6;}
+.pageCont .solutionLogo .sliderNav {position:absolute; right:16px; top:16px; padding: 0; margin:0;z-index: 106;}
+.pageCont .sliderNav {position:absolute; right:22px; top:22px; padding: 0; margin:0;z-index: 6;}
+.pageCont .sliderNav li {float:left; width:14px; height:14px; margin:0 0 0 3px; background: none; padding: 0;}
+.pageCont .sliderNav li a {float:left; width:14px; height:14px; background:url(https://www.shtrih-m.ru/design/images/item.png) 0 -14px no-repeat; text-indent:-500px; overflow:hidden; position:relative; *zoom:1}
+.pageCont .sliderNav li.activeSlide a {background-position:0 0}
+
+.pageCont .slider {width:701px; float:left; margin:0 0 33px; position:relative; z-index:1; /*padding: 0; background: none; display: inline;*/ }
+.pageCont .solutionLogo .slider {
+	width: 326px;
+}
+.rightCol .pageCont .slider {float:none; margin-bottom: 20px;}
+.rightCol .pageCont .solutionLogo .slider {float:none; margin-bottom: 0px;}
+.pageCont .sliderItems {width:690px; height:320px; overflow:hidden; position:relative; *zoom:1; padding: 0;}
+.pageCont .solutionLogo .sliderItems {width:307px; height:307px; overflow:hidden; position:relative; *zoom:1; padding: 0;}
+.pageCont .sliderItems > li {position:absolute;background: none; padding: 0;}
+.pageCont .slideText {position:absolute; left:0; bottom:0; width:337px; background:url(https://www.shtrih-m.ru/design/images/slideText.png) 0 0 no-repeat; padding:10px 0 22px 344px; overflow:hidden; *zoom:1; line-height:16px; font-size:13px; height:70px;}
+.pageCont .slideText h2 {font:24px/22px 'ArialBlack'; color:#353535; text-transform:uppercase; width:320px; margin:0 0 0 -344px; float:left; padding:0 15px 0 9px; max-height:73px; overflow:hidden}
+.pageCont .slideText h2 table{background:none; border:none;padding:0;}
+.pageCont .slideText h2 table tr td{height:73px; overflow:hidden; background: none; border:none; padding:0; vertical-align:middle;}
+.pageCont .slideText .comment{padding-left:15px; padding-right:7px;}
+/*мероприятия*/
+.event_section {
+	background: #FFFFFF;		
+	width: 679px;
+	position: relative;
+	margin-bottom: 10px;
+}
+.event_section #name_section {
+	height: 25px;
+	padding-left: 10px;
+	padding-top: 3px;
+	position: relative;
+	cursor: pointer;
+	border: 1px solid #C6C6C6;
+}
+.event_section #name_section.active {
+	border-bottom: none;
+	height: 26px;
+}
+.event_section #name_section img {
+	position: absolute;
+	right: -1px;
+	top: -1px;
+}
+.event_section #section_detail {
+	padding: 10px 10px 20px 10px;
+	display: none;
+	position: absolute;
+	top: 30px;
+	left: 0;
+	width: 657px;
+	background: #FFFFFF;
+	border: 1px solid #C6C6C6;
+	border-top: none;
+	z-index: 30;
+	zoom: 1;
+}	
+.event_section #section_detail .label_check {
+	float: left;
+	margin-right: 10px;
+	padding-left: 20px;
+	width: 184px;
+}
+.event_section #section_detail .label_check.last {
+	margin-right: 0;
+}
+.dates label {
+	float: left;
+	margin-right: 10px;
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+}
+.dates .date div {
+	float: left;
+}
+/*.dates .date.to {
+	float: right;
+}*/
+.dates .date div {
+	margin-right: 8px;
+}
+.dates .date .day {
+	width: 60px;
+}
+.dates .date .month {
+	width: 93px;
+}
+form.filter_form .dates .date .month {
+	width: 122px;
+}
+.dates .date .year {
+	width: 77px;
+	margin-right: 0px;
+}
+form.filter_form .dates .date .year {
+	width: 93px;
+}
+.dates .date.from .year {
+	margin-right: 10px;
+}
+.dates .date {float: left;}
+form.default_forms .dates input[type="submit"] {float: none; width: 91px;}
+.pageCont .btn {
+	background-color: #f4f4f4;
+	display: block;
+	width: 98px;
+	height: 28px;
+	line-height: 28px;
+	vertical-align: middle;
+	border: 1px solid #c6c6c6;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14px;
+	color: #353535;
+	cursor: pointer;
+}
+.pageCont .activity {
+	overflow: hidden;
+	color: #4B4E50;
+}
+.pageCont .activity table.article {
+	border-bottom: #FFF;
+}
+.pageCont .activity table.article, .activity table.article tr td {
+	border: none;
+	background: none;
+	padding: 0;
+	margin: 0;
+	/*border-collapse: 0;*/
+    border-spacing: 0;
+}
+.pageCont .activity article {
+	float: left;
+	font-size: 14px;
+	border: 1px solid #c6c6c6;
+	margin: 0 17px 20px 0;
+}
+.pageCont .activity article.right {
+	margin-right: 0;
+}
+.pageCont .activity article a {
+	display: block;
+	width: 320px;
+	min-height: 157px;
+	padding: 10px;
+	text-decoration: none;	
+	color: #4B4E50;
+}
+.pageCont .activity article a:hover {
+	color: inherit;
+}
+.pageCont .activity article a:hover .btn {
+	border: none;
+	width: 100px;
+	height: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	background-color: #f0781e;
+	color: #ffffff;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+}
+.pageCont .activity article h3{
+	text-transform: uppercase;
+	line-height: 17px;
+	margin: 7px 0 12px 0;
+	height: 50px;
+}
+.pageCont .activity article .img {
+	border: 1px solid #c6c6c6;
+	padding: 5px;
+	width: 108px;
+	margin: 3px 10px 0 0;	
+	text-align: center;
+	vertical-align: middle;
+}
+.pageCont .activity article .details {
+	overflow: hidden;
+	padding: 0 10px;
+}
+.pageCont .activity article .detail {
+	line-height: 18px;
+	margin-bottom: 5px;
+	float: none;
+}
+.pageCont .activity article .detail label {
+	display: block;
+	font-size: 12px;
+	font-weight: bold;
+}
+.pageCont .activity article .detail span {
+	font-size: 14px;
+}
+.pageCont .activity article .detail span.place {
+	height: 57px;
+	display: block;
+	overflow: hidden;
+}
+/*Календарь мероприятий*/
+.calendar {}
+.calendar > .title {
+	font-size: 15px;
+}
+.calendar .current-date {
+	font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 14px;
+}
+.datapicker {}
+.datapicker .ui-datepicker-header {
+	border: 1px solid #c6c6c6;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.datapicker .ui-datepicker-header .ui-datepicker-prev {
+	float: left;
+	width: 28px;
+	height: 28px;
+	cursor: pointer;
+	text-indent: -9000px;
+	border-right: 1px solid #c6c6c6;
+	background:#f4f4f4 url("https://www.shtrih-m.ru/design/images/datapicker-arrow-prev.png") no-repeat center center;
+}
+.datapicker .ui-datepicker-header .ui-datepicker-next {
+	float: right;
+	width: 28px;
+	height: 28px;
+	cursor: pointer;
+	text-indent: -9000px;
+	border-left: 1px solid #c6c6c6;
+	background:#f4f4f4 url("https://www.shtrih-m.ru/design/images/datapicker-arrow-next.png") no-repeat center center;
+}
+.datapicker .ui-datepicker-header .ui-datepicker-title {
+	float: left;
+	height: 28px;
+	width: 134px;
+	text-align: center;
+	font-size: 14px;
+	line-height: 28px;
+	vertical-align: middle;
+}
+.datapicker table {
+	border-spacing: 0;
+	width: 100%;
+	margin-bottom: 13px;
+}
+.datapicker table thead {
+	display: none;
+}
+.datapicker table tr {}
+.datapicker table tr td {
+	padding: 0;
+	width: 26px;
+	height: 26px;
+	border: 1px solid #c6c6c6;
+	vertical-align: middle;
+}
+.datapicker table tr td a {
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	text-align: center;
+	text-decoration: none;
+	background: none;
+	border: none;
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.datapicker table tr td a.ui-state-active {
+	background-color: #f0781e;
+	color: #ffffff;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+	font-weight: bold;
+}
+.datapicker table tr td a.ui-state-active:hover {
+	color: #ffffff !important;
+}
+.content {
+	position: relative;
+}
+.content .aside {
+	position: absolute;
+	width: 220px;
+	top: 17px;
+	right: -240px;
+	display: none;
+}
+.content .aside.special_offers  .block-title > .title {
+	background: #F0781E;
+	color: #FFFFFF;
+}
+.content .aside.news_subscribe .block-title {
+	padding-top: 37px;
+}
+.content .aside.news_subscribe .block-title > .title {
+	background:url(https://www.shtrih-m.ru/design/images/consult.png) no-repeat;
+	top:-1px;
+	width:231px; 
+	height:37px;
+	right: -1px;
+	border: none;
+	position: absolute;
+}
+.content .aside .block-title:after {
+	background: url("https://www.shtrih-m.ru/design/images/shadow2.png") repeat-x left top;
+}
+.content .aside .block-title .block-content {
+	background-color: #ffffff;
+}
+.block-title {
+	position: relative;
+	border: 1px solid #c6c6c6;
+	font-size: 12px;
+	margin-bottom: 28px;
+}
+.block-title.special_offers {
+	border: 1px solid #F0781E;
+}
+.block-title .block-content article time {
+	color: #000000;
+	font-weight: bold;
+}
+.block-title .block-content article a {
+	line-height: 20px;
+}
+.block-title .block-content .all_list {
+	margin-top: 10px;
+}
+.block-title:after {
+	display: block;
+	position: absolute;
+	bottom: -11px;
+	left: -1px;
+	width: 220px;
+	height: 10px;
+	background: url("https://www.shtrih-m.ru/design/images/shadow.png") repeat-x left top;
+	content: "";
+}
+.block-title > .title {
+	background: #ffffff; /* Old browsers */
+	filter: none;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlMGUwZTAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #ffffff 0%, #e0e0e0 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e0e0e0)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffffff 0%,#e0e0e0 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffffff 0%,#e0e0e0 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffffff 0%,#e0e0e0 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffffff 0%,#e0e0e0 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e0e0e0',GradientType=0 ); /* IE6-8 */
+	height: 35px;
+	border-bottom: 1px solid #c6c6c6;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "ArialBlack", "ArialBold", Gadget, sans-serif;
+	font-weight: 900;
+	font-size: 16px;
+	padding-top: 12px;
+	margin-bottom: 0;
+}
+.block-title.special_offers > .title {
+	background: #F0781E;
+	color: #FFFFFF;
+}
+.block-title .block-content {
+	padding: 11px;
+}
+.block-title a:hover {
+	color: #F0781E !important;
+}
+.block-content {}
+.block-content article {
+	margin-bottom: 18px;
+}
+.block-content article time {
+	font-weight: bold;
+	color: #000000;
+}
+.block-content article h2 {
+	font-size: 100%;
+	font-family: 'PT Sans', sans-serif;
+	line-height: 16px;
+	margin: 0;
+	text-transform: none;
+	font-weight: normal;
+}
+.block-content article h2 a {
+	color: #4b4e50;
+}
+.block-content .all {}
+.block-content .all a {
+	color: #4b4e50;
+}
+ul.catalog {
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+/*---------------------------------congratulations*/
+.congratulations-list {}
+.congratulations-list article {
+	position: relative;
+	width: 210px;
+	height: 301px;
+	margin: 0 35px 20px 0;
+	float: left;
+}
+.congratulations-list article .normal-state {
+	width: 194px;
+	height: 242px;
+	padding: 30px 13px 29px;
+	background: url("https://www.shtrih-m.ru/design/images/congratulation2.png") no-repeat left top;
+}
+.aside .congratulations-list article .normal-state {
+background: url("https://www.shtrih-m.ru/design/images/congratulation-new3.png") no-repeat 0px top;
+position:absolute;
+width:230px;}
+.congratulations-list article.last {
+	margin-right: 0;
+}
+.congratulations-list article a {
+	display: block;
+	text-decoration: none;
+}
+.congratulations-list article.active .img-wrap {border: 1px solid #c6c6c6;padding:0 0 11px 0px; overflow: hidden;}
+.congratulations-list article .img-wrap {
+	width: 164px;
+	height: 158px;
+	margin: 0 0 0 8px;
+	border: none;
+	padding:1px 0;
+}
+.congratulations-list article .img-wrap .img {
+	width: 164px;
+	height: 158px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+.congratulations-list article .img-wrap .img img {
+	display: block;
+	margin: 0 auto;
+}
+.congratulations-list article .ctext {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #353535;
+	font-family: "ArialBlack", "ArialBold", Gadget, sans-serif;
+	font-weight: 900;
+	position: absolute;
+	bottom: 30px;
+	width: 184px;
+	text-align: center;
+}
+.congratulations-list article .ctext span {
+	display: block;
+	font-size: 16px;
+	color: #f0781e;
+}
+.congratulations-list article.active .normal-state {
+	display: none;
+}
+.congratulations-list article .active-state {
+	display: none;
+}
+.congratulations-list article.active .active-state {
+	display: block;
+	position: absolute;
+	right: 10px;
+	width: 429px;
+	height: 301px;
+	background: url("https://www.shtrih-m.ru/design/images/congratulation-active.png");
+	z-index: 10;
+}
+.aside .congratulations-list article.active .active-state {
+background: url("https://www.shtrih-m.ru/design/images/congratulation-active-new2.png");
+right:-10px;
+width:455px;
+z-index:100;}
+.congratulations-list article.active .left {
+	float: left;
+	text-align: center;
+	width: 199px;
+	padding: 29px 10px 0 20px;
+	color:#353535;
+}
+.congratulations-list article.active .left h2 {
+	font-family: "ArialBlack", "ArialBold", Gadget, sans-serif;
+	font-weight: 900;
+	font-size: 23px;
+	text-transform: uppercase;
+	color: #f0781e;
+	margin: 0 0 17px;
+}
+.congratulations-list article.active .left h2 span {
+	display: block;
+	font-size: 16px;
+	color: #353535;
+	line-height: 20px;
+	margin: 5px 0 0;
+}
+.congratulations-list article.active .left p {
+	font-size: 12px;
+	color: #353535;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.aside .congratulations-list article.active .img-wrap {width:183px;padding:1px 0;}
+.aside .congratulations-list article.active .right {
+	background:none;
+	border:0;
+	width:192px;
+}
+.congratulations-list article.active .right {
+	background: #FFFFFF;
+	float: right;
+	height: 232px;
+	margin-top: 10px;
+	padding: 19px 16px 29px 10px;
+	position: relative;
+	width: 171px;
+	border: 1px solid #c6c6c6;
+}
+.congratulations-list article.active .right .details {
+	text-align: center;
+	position: absolute;
+	bottom: 30px;
+	width: 44px;
+	padding-right: 14px;
+	left: 50%;
+	margin-left: -22px;
+	line-height: 20px;
+	background: url("https://www.shtrih-m.ru/design/images/err2.png") no-repeat right 7px;
+}
+.congratulations-list article.active .right .details span {
+	font-size: 12px;
+	color: #4b4e50;
+	text-decoration: underline;
+}
+.congratulations-list article.active a:hover .right .details span {
+	text-decoration: none;
+}
+
+.congratulations-list article  .all{position:absolute;top:240px;z-index:200;left:50px;}
+.congratulations-list article  .all a{z-index:300;text-decoration:underline;}
+.congratulations-list article  {z-index:50;}
+
+.item_top {
+	padding-top: 20px;
+}
+.item_top .img {
+	float: left;
+	margin: 0px 10px 10px 0px;
+	width: 150px;
+	text-align: center;
+}
+.top_description {
+	float: left;
+	width: 499px;
+}
+.pageCont .event_list {
+	float: left;
+	width: 460px;
+	margin-right: 20px;
+	
+}
+.pageCont .event_list.last {
+	margin-right: 0px;
+}
+.pageCont .event_list time {
+	font-weight: bold;
+}
+/*-----------------------------------------implantations-page*/
+.pageCont .implantations {
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+.pageCont .implantations article {
+	float: left;
+	font-size: 12px;
+	font-family: 'PT Sans', sans-serif;
+	border: 1px solid #c6c6c6;
+	margin: 0 13px 20px 0;
+	width: 203px;
+	min-height: 356px;
+	padding: 10px;
+}
+.pageCont .implantations article h2 {
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 17px;
+	margin-bottom: 7px;
+	font-size: 12px;
+	height: 55px;
+}
+.pageCont .implantations article table.photo td {
+	width: 201px;
+	height: 160px;
+	border: 1px solid #c6c6c6;
+}
+.pageCont .implantations article h2 a, .pageCont .implantations article a {
+	text-decoration: none;
+}
+.pageCont .implantations article.last {
+	margin-right: 0;
+}
+.pageCont .implantations article .img {
+	margin-bottom: 5px;
+	height: 162px;
+	text-align: center;
+}
+.pageCont .implantations article .detail {
+	line-height: 18px;
+	margin-bottom: 5px;
+	float: none;
+	height: 96px;
+	overflow: hidden;
+	font-size: 14px;
+}
+.pageCont .implantations article .detail label {
+	display: block;
+}
+.pageCont .implantations article .detail span {
+	font-size: 14px;
+	display: block;
+	margin-bottom: 5px;
+}
+.pageCont .implantations article .detail span.company {
+	text-decoration: underline;
+}
+.pageCont .implantations article .btn:hover {font-weight:bold;}
+.pageCont .implantations article .btn {
+	margin: 15px auto 0 auto;
+}
+.pageCont .implantations .pages {
+	float: left;
+	margin-right: 30px;
+}
+.pageCont .implantations .add-implantations {
+	float: left;
+	clear: none;
+	padding-left: 25px;
+	text-align: left;
+	width: 140px;
+}
+.pageCont .implantations .add-implantations i {
+	background: url("https://www.shtrih-m.ru/design/images/add.png") no-repeat left top;
+}
+.pageCont p.back_to_list {
+	margin-top: 20px;
+}
+.default_forms .type_clients {
+	width: 299px;
+	float: left;
+}
+/*-------------------------slider-inner-2*/
+.sliderInner2 {
+	width: 701px;
+	float: none;
+	margin-bottom: 19px;
+	margin-top: 20px;
+}
+.sliderInner2 .blockCont {
+	background: #F6F6F6;
+}
+.sliderInner2 .title {
+	font-family: "ArialBlack", "ArialBold", Gadget, sans-serif;
+	font-weight: 900;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-bottom: 6px;
+}
+.sliderInner2 .sliderItemsBest {
+	height: 175px;
+	padding: 0;
+	margin: 0;
+}
+.sliderInner2 .sliderItemsBest li {
+	background: none;
+	margin: 0;
+	padding: 0;
+}
+.sliderInner2 .sliderItemsBest li .slide-items {
+	width: 661px;
+	border: 1px solid #c6c6c6;
+	overflow: hidden;
+	padding: 9px;
+	background: #FFF;
+}
+.sliderInner2 .sliderItemsBest li .slide-items .item {
+	display: table;
+	float: left;
+	margin-left: 15px;
+	height: 118px;
+	border: 1px solid #c6c6c6;
+}
+.sliderInner2 .sliderItemsBest li .slide-items .item:first-child {
+	margin-left: 0;
+}
+.sliderInner2 .sliderItemsBest li .slide-items .item span {
+	display: table-cell;
+	width: 118px;
+	height: 118px;
+	vertical-align: middle;
+	text-align: center;
+}
+.sliderInner2 .sliderItemsBest li .slide-items .item img {
+	display: block;
+	margin: 0 auto;
+}
+.sliderInner2 .sliderNav {
+	top: 12px;
+	right: 7px;
+}
+.sliderInner2 .sliderNav a {
+	background-position: 0 -28px;
+}
+.register {
+	width: 100%;
+}
+.register input {
+	width: 900px;
+}
+.pageCont .special_offer {
+	float: left;
+	width: 330px;
+	padding: 16px 10px 16px 0px;
+	overflow: hidden;
+	*zoom: 1;
+	position: relative;
+	height: 75px;
+	/**display: inline; 
+	*float: none;*/
+}
+.pageCont .special_offer.count_3 { 
+	width: 296px;
+}
+.pageCont .special_offer.right {
+	float: right;
+}
+.pageCont .special_offer table {
+	float: left;
+	border: none;
+	background: none;
+	margin: 0px 10px 0px 0px;
+}
+.pageCont .special_offer table tr td {
+	border: none;
+	background: none;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.pageCont .special_offer > div {
+	float: left;
+	width: 213px;
+}
+.pageCont .special_offer > div h3 {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase; 
+	margin: 0 0 5px;
+}
+.pageCont .special_offer > div h3 a {
+	color:#353535; 
+	text-decoration:none;
+}
+.pageCont .special_offer > div h3 a:hover {
+	color:#f0781e; 
+	text-decoration:underline;
+}
+.pageCont .special_offer > div p {
+	font-size:13px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0;
+}
+.pageCont .more_special {
+	display: none;
+}
+.pageCont .logo_company {
+	float: left;
+	width: 184px;
+	height: 186px;
+	overflow: hidden;
+	margin-right: 10px;
+	border: 1px solid #C6C6C6;
+	background: #FFF;
+}
+.pageCont .logo_company table, .pageCont .logo_company table tr td {
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+.pageCont .logo_company table tr td {
+	vertical-align: middle;
+	width: 186px;
+	height: 187px;
+}
+.pageCont .description_fields {
+	float: left;
+	width: 462px;
+}
+.pageCont .description_fields .input-files input[type="text"] {
+	width: 355px;
+}
+div.field.last {
+	margin-right: 0px !important;
+}
+div.field {position: relative;}
+.pageCont .three_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 213px;
+}
+.pageCont .two_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 324px;
+}
+.pageCont .tree_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 219px;
+}
+.pageCont .specialities_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 319px;
+}
+.pageCont .specialities_input_container div.field.button.last {
+	margin-right: 0px;
+	margin-top: 25px;
+	width: 20px;
+}
+.pageCont form.filter_form .two_input_container div.field {
+	width: 334px;
+}
+.pageCont form.filter_form .tree_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 219px;
+}
+.pageCont form.filter_form.introduction .two_input_container div.field {
+	width: 313px;
+}
+.pageCont .five_input_container div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 155px;
+}
+.pageCont div.field.button.last {
+	text-align: right;
+	width: 17px;
+	float: right;
+	padding-top: 5px;
+}
+.pageCont div.field.button.right {
+	text-align: right;
+	width: 17px;
+	float: right;
+	padding-top: 5px;
+}
+.activity_directions .field {
+	width: 528px;
+	clear: none;
+	float: left;
+	margin-right: 10px;
+}
+.regions_quantity .field {
+	width: 259px;
+	clear: none;
+	float: left;
+	margin-right: 10px;
+}
+.field.quantity {
+	width: 111px;
+	float: right;
+}
+.pageCont .email_phone div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 214px;
+}
+.pageCont .delete_button {
+	width: 20px;
+	text-align: center;
+	float: right;
+}
+.pageCont .delete_button button, .delete {
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+td.filial_description div.field {
+	clear: none;
+	float: left;
+	margin-right: 10px;
+	width: 268px;
+}
+td.filial_description.view div.field {
+	width: 300px;
+}
+td.filial_description.view div.field.all_width {
+	width: 100%;
+}
+.pageCont  .orange_button, .orange_button:hover {
+	text-transform:uppercase;
+	background: #F0781E;
+	border: 1px solid #F0782E;
+	color: #FFFFFF;
+	text-shadow: 0px -1px 0px #8D4712;
+	clear: both;
+	cursor: pointer;
+	font: 16px "ArialBlack";
+	height: 40px;
+	margin: 0px 0px 20px;
+	/*padding-bottom: 2px;*/
+	width: 190px;
+	text-decoration: none;
+}
+
+.pageCont button[name="changeCompany"] {
+	padding:0 5px;
+	height:28px; 
+	border:1px solid #c6c6c6; 
+	background:#f4f4f4; 
+	text-decoration:none; 
+	color:#353535; 
+	line-height:26px; 
+	text-align:center; 
+	margin:29px 0 35px 0px;
+}
+
+.pageCont button[name="changeCompany"]:hover {
+	background:#f0782e; 
+	border-color:#f0781e; 
+	color:#fff; 
+	text-shadow:0 -1px 0 #333; 
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.orange_button, .orange_button:hover {
+	padding: 12px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+#add_filial, #add_peoples, #add_filial_personal, #add_peoples_personal, .add, #add_vebinar {
+	cursor:pointer;
+	border: 1px solid #c6c6c6;
+	display: block;
+	/*height: 28px;*/
+	padding: 3px 6px 3px 24px;
+	background: url(https://www.shtrih-m.ru/design/images/pluss_add.png) 6px 50% no-repeat #f4f4f4;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+#add_vebinar {
+	width: 106px;
+}
+.add#add_intro_partner {
+	background: #F4F4F4;
+	padding: 3px 6px;
+}
+.add:hover {
+	color: #353535;
+}
+span.level {
+	font-size: 16px;
+}
+div.levels {
+	margin-top: 20px;
+}
+.pageCont table th.partner_level {
+	font-weight: normal;
+	font-size: 10px;
+	padding: 0;
+	text-align: center;
+}
+.pageCont .people_col {
+	width: 20px;
+}
+.pageCont .solutionLogo {
+	border:1px solid #d0d0d0; 
+	display:block; 
+	padding:5px; 
+	float:right; 
+	margin:0 0 0 21px; 
+	padding: 5px;
+	position: relative;
+}
+
+.pageCont .solutionLogo.left {
+	float: left;
+	margin:0 21px 21px 0; 
+}
+.pageCont .solutionLogo.slid {
+	border: none; 
+}
+.pageCont .solutionLogo.slid table.photo td {
+	width: 307px;
+	height: 307px;
+	border: none;
+}
+.pageCont .solutionLogo a, .pageCont .solutionLogo img {
+	display: block;
+}
+.pageCont .solutionLogo a span.zoom {
+	position:absolute; 
+	width: 33px; 
+	height: 34px;
+	right: -6px;
+	bottom: -6px;	
+	background:url(https://www.shtrih-m.ru/design/images/zoom.png) 100% 100% no-repeat; 
+	z-index:2; 
+	cursor:pointer;	
+}
+.checkBlock h3 {
+	margin: 0;
+	margin-top: 4px;
+}
+/*Направления*/
+.section_registration {
+	background: #FFFFFF;		
+	width: 100%;
+	position: relative;
+	margin-bottom: 10px;
+}
+.section_registration #name_section_reg {
+	height: 25px;
+	padding-left: 10px;
+	padding-top: 3px;
+	position: relative;
+	cursor: pointer;
+	border: 1px solid #C6C6C6;
+}
+.section_registration.required #name_section_reg {
+	height: 25px;
+	padding-left: 10px;
+	padding-top: 3px;
+	position: relative;
+	cursor: pointer;
+	border: 1px solid #F0781E;
+}
+.section_registration #name_section_reg.active {
+	border: 1px solid #C6C6C6;
+	border-bottom: none;
+	height: 26px;
+}
+.section_registration #name_section_reg img {
+	position: absolute;
+	right: -1px;
+	top: -1px;
+}
+.section_registration #section_detail_reg {
+	padding: 10px 10px 20px 10px;
+	display: none;
+	position: absolute;
+	top: 30px;
+	left: 0;
+	width: 876px;
+	background: #FFFFFF;
+	border: 1px solid #C6C6C6;
+	border-top: none;
+	z-index: 30;
+	zoom: 1;
+	max-height: 205px;
+	overflow-y: auto;
+}
+.profile .section_registration #section_detail_reg {
+	width: 637px;
+}
+.section_registration #section_detail_reg.event {
+	width: 657px;
+}
+.section_registration #section_detail_reg.event label.label_check {
+	display: inline-block;
+	width: 187px;
+}
+.section_registration #section_detail_reg.event label.label_check.last {	
+	margin-right: 0px;
+}
+.section_registration #section_detail_reg.personal_office {
+	width: 637px;
+}
+.section_registration #section_detail_reg.personal_office label.label_check {
+	display: inline-block;
+	margin-right: 10px;
+	width: auto;
+}
+.section_registration #section_detail_reg.personal_office label.label_check.last {	
+	margin-right: 0px;
+}
+.section_registration #section_detail_reg .second_section {
+	float: left;
+	/* margin-right: 10px; */
+	padding-left: 20px;
+	/* width: 293px; */
+	width: 350px;
+}
+.section_registration #section_detail_reg .second_section.last {
+	margin-right: 0;
+}
+.section_registration .third_section {
+	padding-left: 20px;
+}
+
+.special_offer a, .special_offer a img {display: block;}
+.special_offer table.photo {
+	width: 62px;
+	height: 62px;
+	border: 1px solid #C6C6C6;
+}
+form.filter_form {
+	background: #EAEAEA;
+	border: 1px solid #DEDEDE;
+	clear: both;
+	float: none;
+	padding: 10px;
+	margin-bottom: 10px;
+	width: auto;
+}
+form.filter_form .search {
+	display: block;
+}
+form.filter_form .search .inputContainer {	
+	width: 564px;
+	float: left;
+	border-right: none;
+}
+form.filter_form .search .inputContainer:hover {
+	border-right: 1px solid #000;
+}
+form.filter_form .search.search_page .inputContainer {	
+	width: 803px;
+}
+form.filter_form.introduction .search .inputContainer {	
+	width: 522px;
+	float: left;
+	border-right: none;
+}
+form.filter_form .search button, form.filter_form .search input[type="submit"] { 
+	cursor: pointer;
+	display: block;
+	float: right;
+	padding-left: 9px;
+	background-color: #F4F4F4;
+	border: 1px solid #C6C6C6;
+	color: #353535;
+	height: 30px;
+	line-height: 0px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	width: 98px;
+}
+form.filter_form .search button i { 
+	background: url("https://www.shtrih-m.ru/design/images/search.png") no-repeat transparent;
+	height: 13px;
+	width: 13px;
+	display: inline-block;
+	margin: -3px 10px 0px 0px;
+	vertical-align: middle;
+	line-height: 12px;
+}
+form.filter_form .search button:hover, form.filter_form .search input[type="submit"]:hover {
+	width: 98px;
+	border-color: #f0781e;
+	font-weight: bold;
+	background-color: #f0781e;
+	color: #ffffff;
+	text-shadow: 0 -1px rgba(0, 0, 0, 0.41);
+}
+a.img, a.img img {display: block;}
+a.img {border: 1px solid #c6c6c6;}
+span.moreInfo {display: none;}
+.news {
+	width: 329px;
+	margin-right: 10px;
+	float: left;
+}
+.news a{text-decoration:none;color:#000;}
+.news.last {
+	margin-right: 0px;
+}
+.news time {
+	text-transform:uppercase;
+	/* font-weight: bold; */
+    font-family: "Roboto Light";
+    font-size: 16px;
+}
+.news time span {
+    font-family: "Roboto Regular";
+}
+.news p {
+    font-family: "Roboto Light";
+    font-size: 12px;
+}
+.news .photo {
+	width: 66px;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.news .photo img {
+	border: 1px solid #c6c6c6;
+}
+.news .descr {
+	width: 253px;
+	float: left;
+	line-height: 20px;
+}
+.answer_faq {
+	margin-bottom: 10px;
+}
+#partners_list {
+	max-height: 152px;
+	overflow-y: auto;
+}
+.content .partner_form {
+	background: #F4F4F4;
+	border: 1px solid #DEDEDE;
+	clear: both;
+	float: none;
+	padding: 10px;
+	width: auto;
+	margin-bottom: 20px;
+}
+.content .partner_form .partner {
+	width: 210px;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	height: 63px;
+}
+.content .partner_form .partner.count_4 {
+	width: 216px;
+	height: 79px;
+	overflow: hidden;
+}
+.content .partner_form .partner.last {
+	margin-right: 0px;
+}
+.content .partner_form .partner table {float: left;}
+.content .partner_form .partner table, .content .partner_form .partner table td {
+	background: none;
+	cursor: pointer;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+.content .partner_form .partner table td {
+	width: 129px;
+	height: 60px; 
+	vertical-align: middle;
+	overflow: hidden;
+}
+.content .partner_form .partner table td.img {
+	background: #FFFFFF;
+	width: 60px;
+	border: 1px solid #c6c6c6;
+	vertical-align: middle;
+	padding: 0;
+}
+.content .partner_form .partner table td.img img {
+	display: block;
+	margin: 0 auto;
+}
+.content .partner_form .partner table td {
+	vertical-align: middle;
+	padding-left: 15px;
+}
+.content .partner_form .partner table td span {
+	text-transform:uppercase;
+	font-weight: bold;
+}
+.content .partner_form .partner table:hover td span {
+	color: #F0781E;
+}
+/*.content .partner_form .partner.active table td span {
+	color: #F0781E;
+}*/
+.content .partner_form .partner.active table td.img {
+	width: 59px;
+	height: 59px;
+	border: 2px solid #F0781E;
+}
+.content .partner_form .partner.active span {
+	font-weight: bold;
+	color: #F0781E;
+}
+.pageCont .partner_form .descr {
+	width: auto;
+	padding-right: 10px;
+	float: left;
+}
+.pageCont .partner_form .search .inputContainer {
+	float: left;
+	width: 363px;
+	clear: none;
+	border-right: none;
+}
+.pageCont .partner_form .search button {
+	float: right;
+	height: 30px;
+	width: 80px;
+	cursor: pointer;
+	display: block;
+	text-align: left;
+	padding-left: 9px;
+}
+.pageCont .partner_form .search button:hover {
+	width: 80px;
+}
+.pageCont .partner_form .search button i {
+	width: 13px;
+	height: 13px;
+	margin-right: 3px;
+	background: url("https://www.shtrih-m.ru/design/images/search.png") no-repeat left top;
+}
+.pageCont .partner_form .partner {
+	cursor: pointer;
+}
+.products .prods {
+	margin-left: 20px;
+	display: none;
+}
+.products .item {
+	margin-left: 40px;
+	display: none;
+}
+.services_intro {
+	margin-bottom: 20px;
+}
+div.compare_result {
+	width: 940px;
+	overflow-x: auto;
+	margin-bottom: 40px;
+}
+table.compare_table {
+	width: auto;
+	margin: 0;
+	padding: 0;
+}
+table.compare_table td.prop_name {
+	width: 165px;
+}
+table.compare_table td, table.compare_table th {
+	width: 120px;
+}
+.pageCont table.show_info {
+	width: auto;
+}
+.pageCont table.show_info td.photo {
+	vertical-align: top;
+}
+.pageCont table.show_info td.photo, .pageCont table.show_info td.name {
+	width: 102px;
+}
+.departmentEmployees{
+	padding-top:10px;
+	padding-bottom:5px;
+}
+.vacancy {
+	margin-left:20px;
+	margin-bottom: 20px;
+}
+#form_vac #button .inpBtn {
+	float: left;
+	margin-right: 10px;
+	clear: none;
+}
+.content form[name="admin_partner_filter"] .field {
+	width: 296px;
+	margin-right: 14px;
+	float: left;
+	clear: none;
+}
+.content form[name="admin_partner_filter"] .field.last {
+	margin-right: 0px;
+}
+.content form[name="admin_partner_filter"] .field .inputContainer {
+	width: 181px;
+	float: left;
+}
+.scrollTop{  
+    background:url(https://www.shtrih-m.ru/design/images/top-scroll.png) 0 0 no-repeat;  
+    display:block; width:84px; height:59px;  
+    position:fixed; bottom:10px; left:10px;  
+    z-index:2000;  
+}  
+.scrollTop:hover{ /*background-position:0 -58px;*/ }  
+.subscribe_form {padding: 10px;}
+p.all_tags {margin: 0;padding:0;}
+.news_subscribe .rss_link {display: block; float: right; margin: 0; padding: 0;}
+.news_subscribe .rss_link img {border: none; margin: 0; padding: 0;}
+.pageCont table.main_seo_table, .pageCont table.main_seo_table tr td{
+	background: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+.pageCont table.main_seo_table tr td p {
+	margin-left: 10px;
+	line-height: 25px;
+}
+.pageCont table.main_seo_table tr td p.last {
+	margin-bottom: 9px;
+}
+.pageCont table.main_seo_table tr td.left {
+	vertical-align: bottom;
+}
+.pageCont .page_nav_solution ul.pages {
+	float: left;
+}
+.pageCont .print_article {
+	float: left;
+	width: auto;
+}
+.pageCont .print_article .add {
+	padding: 1px 6px 2px 30px;
+	background: url(https://www.shtrih-m.ru/design/images/print.png) 6px 50% no-repeat #f4f4f4;
+}
+ul.programs {display: none;}
+.itroduction_software .show_more {
+	width: 91px;
+}
+.list_item_product {display: none;}
+.list_item_product.active {display: block; border: 1px solid #C6C6C6; padding: 20px 20px 22px;}
+.vebinars_list .item {
+	float: left;
+	width: 205px;
+	margin-right: 10px;
+	border: 1px solid #c6c6c6;
+	padding: 0 10px;
+	margin-bottom: 20px;
+}
+.vebinars_list .item.last {
+	margin-right: 0px;
+}
+.vebinars_list .item span, .vebinars_list .item p.creator {
+	font-size: 12px;
+	height: 27px;
+	overflow: hidden;
+}
+.pageCont .vebinars_list .item table, .pageCont .vebinars_list .item table td {
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+.pageCont .vebinars_list .item table td {
+	background: none;
+	vertical-align: middle;
+	position: relative;
+	width: 200px;
+	height: 110px;
+	display: block;
+}
+.pageCont .vebinars_list .item table td img {
+	display: block;
+	margin: 0 auto;
+}
+.pageCont .vebinars_list .item table td .duration {
+	position: absolute;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0 5px;
+	right: 5px;
+	bottom: 5px;
+	background: #000;
+	opacity: 0.7;
+	filter: alpha(Opacity=70);
+	color: #fff;
+}
+.vebinars_list .item small > div {
+	margin: 0 auto;
+	margin-bottom: 10px;
+	border: 1px solid #c6c6c6;
+}
+.vebinars_list .item p {
+	margin: 0;
+}
+.vebinars_list .item p.name {
+	text-transform:uppercase;
+	font-weight: bold;
+	height: 75px;
+	overflow: hidden;
+}
+.vebinars_list .item a {text-decoration: none; }
+.vebinars_list .item a span {
+	font-size: 14px;
+	margin: 15px auto 10px; 
+	display: block;
+}
+.vebinar .block-content article h2 {	
+	margin-bottom: 5px;
+}
+.vebinar_info {
+	line-height: 20px;
+}
+.vebinar_info img {
+	float: left;
+	margin-right: 10px;
+	border: 1px solid #c6c6c6;
+}
+.block-title.special_offers.vebinar > .title {
+	padding-top: 0px;
+	height: 50px;
+}
+.webinar_detail img {
+	border: 1px solid #c6c6c6;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.pageCont form[name="add_vebinar"] .img_picture {
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+.pageCont form[name="add_vebinar"] .img_picture table, .pageCont form[name="add_vebinar"] .img_picture table td {
+	background: none;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.pageCont form[name="add_vebinar"] .img_picture table td {
+	border: 1px solid #c6c6c6;
+	vertical-align: middle;
+	width: 185px;
+	height: 185px;
+	background: #FFFFFF;
+}
+.pageCont form[name="add_vebinar"] .img_picture table img {
+	display: block;
+	margin: 0 auto;
+}
+form[name="add_vebinar"] .field_img {
+	width: 678px;
+	float: left;
+	margin-right: 0px;
+}
+
+.pageCont .consult {position:absolute; left:50%; top:225px; z-index:1; width:220px; margin-left:520px; display:none}
+.pageCont .consult {  top: -48px; right: -270px; left: auto; }
+.pageCont .consult.news_subscribe {display:block; top: 0}
+.pageCont .consult .block {background:url(https://www.shtrih-m.ru/design/images/consBott.png) 0 100% repeat-x}
+.pageCont .consult .blockCont {background:#fff; padding:47px 0 0; line-height:16px}
+.pageCont .consult .title {width:231px; height:49px; background:url(https://www.shtrih-m.ru/design/images/consult.png) no-repeat; position:absolute; top:-1px; /*right:-1px;*/right: 0px; text-align:center}
+.pageCont .consult .title h2 {font:16px/44px 'ArialBlack'; color:#353535; text-transform:uppercase; padding-left:12px}
+.pageCont .consult .subtitle {display:block; background:#f6f6f6; border-width:1px 0; border-style:solid; border-color:#c6c6c6; color:#353535; text-align:center; padding:6px 5px 9px}
+.pageCont .consult table {border-collapse:collapse; margin: 0; border: none;}
+.pageCont .consult table tr td {vertical-align:top; padding:12px 9px; background: none; border: none;}
+.pageCont .consult table tr td.statusBl img {float:left; /*width:49px; height:49px;*/ border:1px solid #c6c6c6; margin:-3px -70px 0 0; position:relative; left:-61px; }
+.pageCont .consult table tr td.statusBl {padding:15px 9px 0 70px; text-transform:uppercase; font-weight: bold;}
+.pageCont .consult table tr td .status {text-transform:none; padding-left:10px}
+.pageCont .consult table tr td .onLine {background:url(https://www.shtrih-m.ru/design/images/online.png) 0 4px no-repeat}
+.pageCont .consult img {display:block; border:1px solid #c6c6c6}
+.pageCont .onLine {background:url(https://www.shtrih-m.ru/design/images/online.png) no-repeat}
+.pageCont .consult dl {position:relative; top:-3px; margin-bottom:-16px}
+.pageCont .consult dl span {color:#868686}
+.pageCont .consult dl dt {padding:0 0 14px}
+.pageCont .consult dl dd {padding-bottom:6px}
+.pageCont .consult dl dd a {color:#353553}
+.pageCont .consult dl dd a:hover {color:#f0781e}
+.pageCont .consult a.optionBtn {display:block; background:#f6f6f6; border:1px solid #c6c6c6; color:#353535; text-decoration:none; text-align:center; padding:6px}
+.pageCont .consBtns {border-top:1px solid #c6c6c6; margin:-5px 0 -1px; position:relative}
+.pageCont .consBtns li {padding:4px 0 0}
+.pageCont .consBtns li a {display:block; background:#f6f6f6; border-width:1px 0; border-style:solid; border-color:#c6c6c6; color:#353535; text-decoration:none; text-align:center; padding:16px}
+.pageCont .consBtns li a:hover, .pageCont .consult a.optionBtn:hover {color:#fff; background:#f0781e; text-shadow:0 -1px 0 #666}
+.pageCont .consult h3 {
+	margin-bottom: 0px;
+}
+.pageCont .consult table {
+	display: none;
+}
+.pageCont .consult .theme_consult {
+	padding: 4px 0px 0px;
+	cursor: pointer;
+}
+.pageCont .consult .theme_consult .subtitle {
+	background: #F6F6F6;
+	border-top: 1px solid #C6C6C6;
+	border-bottom: 1px solid #C6C6C6;
+	color: #353535;
+	display: block;
+	padding: 16px;
+	text-align: center;
+	text-decoration: none;
+}
+.search_form input[type="text"] {
+	width: 109px;
+	height: 19px;
+	padding: 0px 8px;
+	float: left;
+	color: #333333;
+	border: 1px solid #FFFFFF;
+}
+.search_form input[type="submit"] {
+	background: url(https://www.shtrih-m.ru/design/css/images/lupa.svg) #FFFFFF;
+	float: left;
+	height: 21px;
+	width: 21px;
+	float: left;
+	border: none;
+	cursor: pointer;
+        background-size: 100%;
+}
+.search_form input[type="submit"]:focus {outline: none;}
+
+a.showMorePreview {
+	display: block;
+	text-align: right;
+}
+a.hideMorePreview {
+	display: none;
+	text-align: right;
+}
+div.preview_news {
+	text-align: justify;
+}
+div.preview_news.full {
+	height: 77px;
+	overflow: hidden;
+}
+div.preview_news p.site {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.other_href{
+	display:none;
+}
+#share42 {display: block; margin-top: 2px;}
+#share42 a {text-decoration: none; border-bottom: none;}
+#share42:hover a {text-decoration: none; border-bottom: none;}
+#share42 a:hover {text-decoration: none; border-bottom: none;}
+form[name="regform"] #user_form, form[name="regform"] #partner_form {
+	display: none;
+}
+.footerTop a.author, .footerTop a.author:hover {
+	text-decoration: none;
+	border: none; 
+}
+
+.footerTop a.mail_counter img {display: block;}
+.footerTop a.mail_counter, .footerTop a.mail_counter:hover {
+	text-decoration: none;
+	border: none;
+	display: block;
+	margin-top: 18px;
+	/*margin-top: 7px;*/
+}
+
+/*input[type="file"]*/
+.im_input{
+	float: left;
+    margin-bottom: 10px;
+    width: 791px;
+	position: relative;
+	zoom: 1;
+}
+.im_input input{
+    border: 1px solid #C6C6C6;
+	font-size: 14px;
+	font-weight: 400;
+	height: 28px;
+	width: 100%;
+	padding: 0 8px;
+}
+.im_input input:hover {
+	border: 1px solid #353535;
+}
+.im_input input:focus {
+	border-color:#f0781e;
+}
+.im_button{
+    background-color: #F4F4F4;
+	border: 1px solid #C6C6C6;
+	cursor: pointer;
+	display: block;
+	float: right;
+	zoom: 1;
+	padding: 2px 0px 1px;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	width: 77px;
+	height: 25px;
+	position: relative;
+}
+.im_button:hover {
+	background: #F0782E;
+	border-color: #F0781E;	
+	color: #FFFFFF;
+	text-shadow: 0px -1px 0px #333333;
+	font-weight: bold;
+	cursor: pointer;
+}
+.im_button.act{
+    background:#bfbfbf;
+}
+.inptext{
+    position:absolute;
+	right: 0px;
+	left: 0px;
+	cursor: pointer;
+}
+#imulated{
+  	border: none;
+    left: 0;
+    margin: -3px 0 0;
+	padding:0px;
+    position: absolute;
+    right: 0;
+    width: 78px;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+ul.map-level-0 > li {
+	width: 269px;
+	float: left;
+	padding-right: 22px;
+}
+.pageCont table.sertified_spec td {padding: 4px 9px; }
+.productCountInfo{margin: 0 0 20px 10px;}
+
+.table-index .info-company{
+	position:absolute; top:1px; left:-230px;
+}
+
+.table-index tr td{
+	display:block;
+	position:relative;
+}
+
+.pageCont .block.news_block .main_block{
+	height:278px;
+}
+#download .section_block a.title {
+	font-family: "ArialBlack", "ArialBold", "Gadget", sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+	margin-bottom: 14px;
+	/*text-transform: uppercase;*/
+	text-decoration: none;
+	display: inline-block;
+	color: #4b4e50;
+	padding: 0 15px 0 0;
+	background: url('https://www.shtrih-m.ru/design/images/arrow_top.png') right 3px no-repeat;
+}
+#download .section_block .table-file {
+	display: none;
+}/*
+#download .section_block.active .table-file {
+	display: block;
+}*/
+#download .section_block.active a.title {
+	background: url('https://www.shtrih-m.ru/design/images/arrow_bottom.png') right 3px no-repeat;
+}
+#videos {
+	display:inline-block;
+}
+.video_block_detail {
+	width:30%;
+	float:left;
+	margin:0 1.5%;
+	display:inline-block;
+	margin-bottom:30px;
+	cursor:pointer;
+}
+.video_block_detail:hover {
+	opacity:0.8;
+}
+.video_block_detail .video_title {
+	height:75px;
+	overflow:hidden;
+	width:100%;
+	display:table;
+	margin-top:10px;
+}
+.video_block_detail .video_title p {
+	display:table-cell;
+	margin:0;
+	vertical-align:top;
+}
+
+.video_modal {
+	background:rgba(255,255,255,0.8);
+	position:fixed;
+	width:100%;
+	height:100vh;
+	top:0;
+	left:0;
+	overflow:auto;
+	display:none;
+	z-index:15;
+}
+.video_modal.active {
+	display:block;
+}
+.video_modal_inner {
+	width:900px;
+	height:506.25px;
+	margin:80px auto;
+	position:relative;
+}
+.video_modal_close {
+	position:absolute;
+	width:25px;
+	height:25px;
+	top:-30px;
+	right:-30px;
+	background:url(https://www.shtrih-m.ru/design/css/images/closepp.png) no-repeat scroll center;
+}
+.index-news {
+  margin-top: 10px;
+  margin-bottom: 50px; }
+  .index-news__wrap {
+    /*margin-left: -15px;*/
+    margin-right: -15px; }
+    .index-news__wrap:before, .index-news__wrap:after {
+      content: " ";
+      display: table; }
+    .index-news__wrap:after {
+      clear: both; }
+  .index-news__col {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px; }
+    @media (min-width: 768px) {
+      .index-news__col {
+            float: left;
+    width: 28%;
+    background-color: #f2f4f7;
+    border-color: #ebebeb;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 6px;
+    margin-bottom: 6px;} }
+  .index-news__item {
+    background: #FFFFFF; }
+  .index-news__title {
+    margin-bottom: 15px;
+    font-style: 18px; }
+  .index-news__caption {
+    padding: 10px 15px;
+    background: #f2f4f7;
+    font-size: 14px;
+    font-weight: 400; }
+  .index-news__info {
+    margin-top: 6px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    color: gray;
+    font-size: 12px;
+    font-weight: 400; }
+  .index-news__info li {
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 0; }
+  .index-news__info a {
+    color: gray; }
+  .index-news__small-item {
+    margin-bottom: 15px;
+    background: #FFFFFF; }
+  .index-news__small-teaser {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    width: 160px;
+    vertical-align: middle; }
+  .index-news__small-link {
+    display: inline-block;
+    box-sizing: border-box;
+    width: calc(100% - 170px);
+    padding: 0 6px;
+    vertical-align: middle;
+    font-weight: 400; }
+
+@media (max-width: 768px) {
+  .index-news__item {
+    margin-bottom: 20px; } }
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .index-news__caption {
+    font-size: 13px;
+    font-weight: 400; } }
+.index-news__teaser img {
+        max-width: 230px;
+    height: auto;
+    /* box-sizing: border-box; */
+    vertical-align: middle;
+}
+.index-news__teaser {
+    width: 100%;
+    /* padding: 0px 0px 0px 0px; */
+    margin-left: -15px;
+}
+.index-news__caption a {
+    color: #15527E;
+    text-decoration: none;
+} 
+/*
+     FILE ARCHIVED ON 07:49:31 Aug 09, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:46:21 Aug 26, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 295.309 (3)
+  esindex: 0.006
+  captures_list: 312.233
+  CDXLines.iter: 11.283 (3)
+  PetaboxLoader3.datanode: 159.52 (5)
+  exclusion.robots: 0.198
+  exclusion.robots.policy: 0.178
+  RedisCDXSource: 1.658
+  PetaboxLoader3.resolve: 389.111 (5)
+  load_resource: 324.008
+*/
+
+.reglament {
+	background: #af9660;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 7px 10px 7px 10px;
+}
+.reglament:hover {
+	background: #ad8e4c;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 7px 10px 7px 10px;
+}

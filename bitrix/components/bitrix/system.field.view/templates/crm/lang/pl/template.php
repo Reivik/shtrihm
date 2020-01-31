@@ -1,0 +1,6 @@
+<?
+$MESS["CRM_ENTITY_TYPE_LEAD"] = "Kanał";
+$MESS["CRM_ENTITY_TYPE_CONTACT"] = "Kontakt";
+$MESS["CRM_ENTITY_TYPE_COMPANY"] = "Firma";
+$MESS["CRM_ENTITY_TYPE_DEAL"] = "Sprawa";
+?>

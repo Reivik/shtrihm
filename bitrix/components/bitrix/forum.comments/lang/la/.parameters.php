@@ -1,0 +1,37 @@
+<?
+$MESS["F_MESSAGES_PER_PAGE"] = "Mensajes por página";
+$MESS["F_PATH_TO_SMILE"] = "Ruta a la carpeta de smileys (relativa a la raíz del sitio)";
+$MESS["F_FORUM_ID"] = "ID del foro de discusión";
+$MESS["F_USE_CAPTCHA"] = "Utiliza CAPTCHA";
+$MESS["F_READ_TEMPLATE"] = "Página de la vista del tema del foro";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Página del perfil del usuario";
+$MESS["F_PREORDER"] = "Mostrar posts en orden ascendente";
+$MESS["F_DATE_TIME_FORMAT"] = "Formato de fecha y hora";
+$MESS["F_DISPLAY_PANEL"] = "Los botones del panel de control se muestran para este componente";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "El nombre de la plantilla del breadcrumb de navegación";
+$MESS["F_POST_FIRST_MESSAGE"] = "Usar el texto del elemento como primer post";
+$MESS["F_POST_FIRST_MESSAGE_TEMPLATE"] = "El texto para el post del primer tema";
+$MESS["F_EDITOR_CODE_DEFAULT"] = "Predeterminar el modo del editor del texto plano";
+$MESS["F_SHOW_RATING"] = "Mostrar calificación";
+$MESS["F_SHOW_AVATAR"] = "Mostrar avatars";
+$MESS["F_SHOW_MINIMIZED"] = "El formulario de respuestas ha colapsado";
+$MESS["F_UNIQUE_ID"] = "Comentando el ID del componente";
+$MESS["F_EDITOR_SETTINGS"] = "Configuraciones del Editor";
+$MESS["F_SUBSCRIBE_AUTHOR_ELEMENT"] = "Suscribir al autor del elemento a los nuevos comentarios";
+$MESS["ALLOW_SMILES_TITLE"] = "habilitar emoticons";
+$MESS["ALLOW_HTML_TITLE"] = "Habilitar el HTML";
+$MESS["ALLOW_NL2BR_TITLE"] = "reemplazar los saltos de línea con <br>";
+$MESS["ALLOW_ANCHOR_TITLE"] = "permitir enlaces";
+$MESS["ALLOW_BIU_TITLE"] = "permitir etiquetas B, U, I y S";
+$MESS["ALLOW_IMG_TITLE"] = "permitir imágenes";
+$MESS["ALLOW_VIDEO_TITLE"] = "permitir videos";
+$MESS["ALLOW_LIST_TITLE"] = "permitir listas";
+$MESS["ALLOW_TABLE_TITLE"] = "permitir tablas";
+$MESS["ALLOW_QUOTE_TITLE"] = "permitir citaciones";
+$MESS["ALLOW_CODE_TITLE"] = "permitir código";
+$MESS["ALLOW_FONT_TITLE"] = "permitir fuentes";
+$MESS["F_RSS"] = "Configuraciones del RSS";
+$MESS["F_SHOW_SUBSCRIBE"] = "Mostrar el Link de \"Subscribirse\"";
+$MESS["F_SHOW_MODERATION"] = "Mostrar links de moderación";
+$MESS["F_NAME_TEMPLATE"] = "Formato de nombre";
+?>

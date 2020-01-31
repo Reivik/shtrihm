@@ -1,0 +1,36 @@
+<?
+$MESS["IBLOCK_DETAIL_URL"] = "URL de la página con detalle de contenidos";
+$MESS["IBLOCK_PRICES"] = "Precios";
+$MESS["IBLOCK_TYPE"] = "Tipo de Block de Información";
+$MESS["IBLOCK_IBLOCK"] = "Block de Información";
+$MESS["IBLOCK_PROPERTY"] = "Propiedades";
+$MESS["IBLOCK_SORT_SHOWS"] = "muestra promedios";
+$MESS["IBLOCK_SORT_SORT"] = "clasificación de índices";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "modificación de fecha";
+$MESS["IBLOCK_SORT_NAME"] = "nombre";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "activo desde";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "activo hasta";
+$MESS["IBLOCK_SORT_ASC"] = "ascendente";
+$MESS["IBLOCK_SORT_DESC"] = "descendente";
+$MESS["IBLOCK_SECTION_URL"] = "URL de la página con el contenido de la sección";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Campo para clasificar elementos";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Clasificación para elementos";
+$MESS["IBLOCK_PRICE_CODE"] = "Tipo mde precio";
+$MESS["IBLOCK_BASKET_URL"] = "URL de la página con carrito del cliente";
+$MESS["IBLOCK_FILTER_NAME_IN"] = "Nombre del conjunto con valores usados para filtrar elementos";
+$MESS["IBLOCK_CACHE_FILTER"] = "Cache si el filtro está activo";
+$MESS["IBLOCK_PAGE_ELEMENT_COUNT"] = "Número de elementos por página";
+$MESS["IBLOCK_ELEMENT_ID"] = "ID del elemento";
+$MESS["IBLOCK_LINK_PROPERTY_SID"] = "Propiedad para almacenar el link";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "\"Acciones\" nombre del parámetro";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "\"Código del producto\" nombre del parámetro";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "\"Código de la sección\" nombre del parámetro";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Muestra cantidad para rango de precios";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Muestra precio para cantidad";
+$MESS["T_IBLOCK_DESC_PAGER_CATALOG"] = "Productos";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Incluír tasa de impuesto en el precio";
+$MESS["CP_BCLL_CACHE_GROUPS"] = "Respetar permisos de acceso";
+$MESS["CP_BCLL_CONVERT_CURRENCY"] = "Utilice sólo una moneda para mostrar precios";
+$MESS["CP_BCLL_CURRENCY_ID"] = "Convertir todos los precios en una sola moneda";
+?>

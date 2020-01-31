@@ -1,0 +1,29 @@
+<?
+$MESS ['IBLOCK_TYPE'] = "Bilgi blog türü";
+$MESS ['IBLOCK_IBLOCK'] = "Bilgi blog'u ";
+$MESS ['IBLOCK_SECTION_URL'] = "Bölüm içerikli sayfa URL";
+$MESS ['IBLOCK_SECTIONS_TOP_URL'] = "Bölüm listesi";
+$MESS ['IBLOCK_UPLOAD_URL'] = "Fotoğraf yükle";
+$MESS ['IBLOCK_SECTION_CODE'] = "Bölüm kodu";
+$MESS ['IBLOCK_SECTION_ID'] = "Bölümün ID";
+$MESS ['T_IBLOCK_DESC_NEWS_PANEL'] = "Bu bileşen için yönetim panosuna düğmelerin eklenmesi";
+$MESS ['P_ALBUM_PHOTO_WIDTH'] = "Albüm boyutu (px)";
+$MESS ['P_ALBUM_PHOTO_THUMBS_WIDTH'] = "Albümün anons resim boyutu (px)";
+$MESS ['IBLOCK_SECTION_EDIT_URL'] = "Albüm (düzenleme)";
+$MESS ['IBLOCK_SECTION_EDIT_ICON_URL'] = "Albüm (kapak düzenlemesi)";
+$MESS ['IBLOCK_SORT_SORT'] = "sıralama dizini";
+$MESS ['IBLOCK_SORT_NAME'] = "adı";
+$MESS ['IBLOCK_SORT_DATE'] = "tarih";
+$MESS ['IBLOCK_SORT_ELEMENTS_CNT'] = "?lbüm içerisinde öğe sayısı";
+$MESS ['IBLOCK_SORT_ASC'] = "artan";
+$MESS ['IBLOCK_SORT_DESC'] = "azalan";
+$MESS ['IBLOCK_SECTION_SORT_FIELD'] = "Bölümleri sıraladığımız alan";
+$MESS ['IBLOCK_SECTION_SORT_ORDER'] = "Bölüm sıralama şekli";
+$MESS ['IBLOCK_SECTION_PAGE_ELEMENT_COUNT'] = "Sayfa içerisinde öğe sayısı";
+$MESS ['IBLOCK_PAGE_NAVIGATION_TEMPLATE'] = "Sayfa navigasyonu için şablon";
+$MESS ['T_DATE_TIME_FORMAT'] = "Tarih görüntüleme biçimi";
+$MESS ['IBLOCK_GALLERY_URL'] = "Galeri içeriği";
+$MESS ['P_USER_ALIAS'] = "Fotoğraf galerisi kodu";
+$MESS ['P_GALLERY_SIZE'] = "Fotoğraf galeri boyutu";
+$MESS ['P_BEHAVIOUR'] = "Fotoğraf galerisi çalışma biçimi";
+?>

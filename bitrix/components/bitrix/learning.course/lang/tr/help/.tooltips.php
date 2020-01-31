@@ -1,0 +1,31 @@
+<?
+$MESS ['SEF_MODE_TIP'] = "Sayısal kontrol desteğini başlat";
+$MESS ['COURSE_ID_TIP'] = "Kurs ID";
+$MESS ['CHECK_PERMISSIONS_TIP'] = "Erişim hakkını kontrol et";
+$MESS ['PAGE_WINDOW_TIP'] = "Gezinti zincirinde soru miktarı";
+$MESS ['SHOW_TIME_LIMIT_TIP'] = "Zaman sınırlama sayacını görüntüle";
+$MESS ['PAGE_NUMBER_VARIABLE_TIP'] = "Soru ID";
+$MESS ['TESTS_PER_PAGE_TIP'] = "Sayfa içerisindeki test sayısı";
+$MESS ['SET_TITLE_TIP'] = "Sayfa başlığını belirle";
+$MESS ['CACHE_TYPE_TIP'] = "Öbellekleme türü";
+$MESS ['CACHE_TIME_TIP'] = "Öbellekleme zamanı (sn.)";
+$MESS ['VARIABLE_ALIASES_COURSE_ID_TIP'] = "Kurs ID";
+$MESS ['VARIABLE_ALIASES_INDEX_TIP'] = "İD sayfa indisi";
+$MESS ['VARIABLE_ALIASES_LESSON_ID_TIP'] = "Ders ID";
+$MESS ['VARIABLE_ALIASES_CHAPTER_ID_TIP'] = "Bölüm ID";
+$MESS ['VARIABLE_ALIASES_SELF_TEST_ID_TIP'] = "Otomatik sınama ID";
+$MESS ['VARIABLE_ALIASES_TEST_ID_TIP'] = "Test ID";
+$MESS ['VARIABLE_ALIASES_TYPE_TIP'] = "Kursun tüm içeriğin ID";
+$MESS ['VARIABLE_ALIASES_TEST_LIST_TIP'] = "Test listesinin ID";
+$MESS ['VARIABLE_ALIASES_GRADEBOOK_TIP'] = "Dergi ID";
+$MESS ['VARIABLE_ALIASES_FOR_TEST_ID_TIP'] = "Dergi içerisindeki test ID";
+$MESS ['SEF_FOLDER_TIP'] = "Sınırlama sayacın kataloğu (site köküne bağlı olarak)";
+$MESS ['SEF_URL_TEMPLATES_course.detail_TIP'] = "Ana sayfaya giden URL";
+$MESS ['SEF_URL_TEMPLATES_lesson.detail_TIP'] = "Ders sayfasına giden URL";
+$MESS ['SEF_URL_TEMPLATES_chapter.detail_TIP'] = "Sayfa bölümüne giden URL";
+$MESS ['SEF_URL_TEMPLATES_test.self_TIP'] = "Otomatik sınama için test sayfasına giden URL";
+$MESS ['SEF_URL_TEMPLATES_test_TIP'] = "Test sayfasına giden URL";
+$MESS ['SEF_URL_TEMPLATES_test.list_TIP'] = "Test liste sayfasına giden URL";
+$MESS ['SEF_URL_TEMPLATES_course.contents_TIP'] = "Tüm kurs materyal sayfasına giden URL";
+$MESS ['SEF_URL_TEMPLATES_gradebook_TIP'] = "Dergi sayfasına giden URL";
+?>

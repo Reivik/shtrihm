@@ -1,0 +1,22 @@
+html {
+	background-color: #FFF; 
+}
+body {
+	background-color: #FFF; 
+}
+.pageCont {
+	padding: 30px;
+	line-height: 25px;
+}
+.pageCont p {
+	text-indent: 1.5em;
+}
+h1 {
+	margin-bottom: 30px;
+}
+h3, h2, h4 {
+	margin-top: 12px;
+}
+.pageCont ul {
+	margin-left: 20px;
+}

@@ -1,0 +1,30 @@
+<?
+$MESS ['SPOL_T_F_FILTER'] = "Filtre";
+$MESS ['SPOL_T_F_ID'] = "commande ID";
+$MESS ['SPOL_T_F_DATE'] = "Date de commande";
+$MESS ['SPOL_T_F_STATUS'] = "Statut d'ordre";
+$MESS ['SPOL_T_F_ALL'] = "< Tous >";
+$MESS ['SPOL_T_F_SUBMIT'] = "définir";
+$MESS ['SPOL_T_F_DEL'] = "Déménager";
+$MESS ['SPOL_T_ID'] = "commande ID";
+$MESS ['SPOL_T_PRICE'] = "Prix";
+$MESS ['SPOL_T_STATUS'] = "Statut";
+$MESS ['SPOL_T_PAYED'] = "Payé";
+$MESS ['SPOL_T_CANCELED'] = "Annulé";
+$MESS ['SPOL_T_ACTION'] = "Actions";
+$MESS ['SPOL_T_F_PAYED'] = "Payé";
+$MESS ['SPOL_T_F_CANCELED'] = "Annulé";
+$MESS ['SPOL_T_F_HISTORY'] = "L'inclusion livrée";
+$MESS ['SPOL_T_PAY_SYS'] = "Paiement et méthodes maritimes";
+$MESS ['SPOL_T_BASKET'] = "Chariot";
+$MESS ['SPOL_T_DELETE'] = "Annuler";
+$MESS ['SPOL_T_COPY_ORDER'] = "Répéter";
+$MESS ['SPOL_T_DETAIL'] = "Détails";
+$MESS ['SPOL_T_YES'] = "Oui";
+$MESS ['SPOL_T_NO'] = "Non";
+$MESS ['SPOL_T_FROM'] = "de";
+$MESS ['SPOL_T_DETAIL_DESCR'] = "Détails de commande de vue";
+$MESS ['SPOL_T_COPY_ORDER_DESCR'] = "Répétez cette commande";
+$MESS ['SPOL_T_DELETE_DESCR'] = "Annulez cette commande";
+$MESS ['STPOL_SHT'] = "La pièce";
+?>

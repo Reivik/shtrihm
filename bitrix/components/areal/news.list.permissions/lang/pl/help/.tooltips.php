@@ -1,0 +1,37 @@
+<?
+$MESS ['IBLOCK_TYPE_TIP'] = "Wybierz jeden z istniejącego bloku informacji wprowadza listę i klikaj <B>OK</B>. To będzie ładować bloki informacji wybranego typu. Jednak w tym komponencie ten parametr jest opcjonalny.";
+$MESS ['IBLOCK_ID_TIP'] = "Wybierz tutaj jeden z istniejących bloków informacji. Jeżeli wybierasz <B><i>(inny)</i></B>, będziesz musiał wyszczególnić blok informacji ID w polu obok. Na przykład: <b>={\$_REQUEST[\"IBLOCK_ID\"]}</b>";
+$MESS ['NEWS_COUNT_TIP'] = "Wyszczególnia liczbę elementów przez stronę.";
+$MESS ['SORT_BY1_TIP'] = "Wybierz tutaj pole, przez które wiadomości mają być posortowane. Możesz wybrać <B><i>(inny)</i></B> i wyszczególnić pola ID w polu obok.";
+$MESS ['SORT_ORDER1_TIP'] = "Rosnąco lub malejąco.";
+$MESS ['SORT_BY2_TIP'] = "Wybierz tutaj pole, przez które wiadomości mają być posortowane w drugiej kolejności. Możesz wybrać <B><i>(inny)</i></B> i wyszczególnić pola ID w polu obok.";
+$MESS ['SORT_ORDER2_TIP'] = "Rosnąco lub malejąco.";
+$MESS ['FILTER_NAME_TIP'] = "Nazwa zmiennej, w której ustawienia filtru będą przeszłe. Możesz zostawić pole puste by użyć nazwy domyślnej.";
+$MESS ['FIELD_CODE_TIP'] = "Tutaj możesz wybrać wymagany element pola bloku informacyjnego, przez który filtr może być stosowany. Możesz dodać zwyczajowe pola jak kod w wejściowych polach poniżej.";
+$MESS ['PROPERTY_CODE_TIP'] = "Wybierz własności bloku informacji, które chcesz pokazać w filtrze. Możesz też dodać swoje własne pola w polach poniżej.";
+$MESS ['DETAIL_URL_TIP'] = "URL do widoku szczegółu strony. Na przykład: <b>news_detail.php?ID=#ELEMENT_ID#</b>";
+$MESS ['PREVIEW_TRUNCATE_LEN_TIP'] = "Jeżeli wstępny widok bloku informacji to tekst, możesz wyszczególnić maksymalną liczbę symboli tutaj. Jakikolwiek tekst poza tą granicą będzie ucięty.";
+$MESS ['ACTIVE_DATE_FORMAT_TIP'] = "Wybierz tutaj wymagany format daty. Jeżeli wybierasz <i><B>inny</B></i>, możesz tworzyć twój własny format używający <i><B>daty</B></i> PHP funkcji.";
+$MESS ['DISPLAY_PANEL_TIP'] = "Jeżeli zaznaczony, przyciski edycji pokażą \"Stronę edycji\" na pasku narzędziowym Panelu Administracyjnego i w składowym obszarze narzędzia.";
+$MESS ['SET_TITLE_TIP'] = "Zaznaczając tę opcję umieścisz tytuł do nazwy bloku informacji bieżącej.";
+$MESS ['INCLUDE_IBLOCK_INTO_CHAIN_TIP'] = "Jeżeli zaznaczony, nazwa bloku informacji będzie dodana do łańcucha nawigacji. ";
+$MESS ['ADD_SECTIONS_CHAIN_TIP'] = "Jeżeli opcja jest aktywna i blok informacji bieżącej zawiera sekcje, ich nazwy będą pokazane w łańcuchu nawigacji.";
+$MESS ['HIDE_LINK_WHEN_NO_DETAIL_TIP'] = "Wyszczególnia ukryć łącze jeżeli szczegóły pozycji nie są dostępne, albo jeżeli użytkownik nie ma dość pozwoleń.";
+$MESS ['PARENT_SECTION_TIP'] = "Wyszczególnia źródłowy sekcji ID, które może być używane by ograniczyć wybrane elementy do tamtej sekcji.";
+$MESS ['CACHE_TYPE_TIP'] = "<i>Auto</i>: schowek obowiązuje podczas czasu predefiniowany w ustawieniach schowka;<br /><ja>Cache</ja>: zawsze schowek dla okresu wyszczególnionego w następnym polu;<br /><i>Nie rób cahce</i>: żadne buforowanie podręczne nie jest wykonane.";
+$MESS ['CACHE_TIME_TIP'] = "Wyszczególnij tutaj okres czasu, podczas którego obowiązuje schowek.";
+$MESS ['CACHE_FILTER_TIP'] = "Jeżeli zaznaczony, system będzie chować każdy wynik filtru. To może być użyteczne jeżeli dużo gości często używa tych samych ustawień filtru.";
+$MESS ['DISPLAY_TOP_PAGER_TIP'] = "Jeżeli zaznaczony, łącza nawigacji elementu będą pokazane nad stroną.";
+$MESS ['DISPLAY_BOTTOM_PAGER_TIP'] = "Jeżeli zaznaczony, łącza nawigacji elementu będą pokazane przy dolnym szczycie strony.";
+$MESS ['PAGER_TITLE_TIP'] = "Nazwa jednostki pozycji dla nawigacji. Na przykład: strona, rozdział i tak dalej";
+$MESS ['PAGER_SHOW_ALWAYS_TIP'] = "Jeżeli nie zaznaczony, łącza nawigacji nie będą obecne jeżeli wszystkie pozycje wstawiają pojedynczą stronę. Inaczej, łącza nawigacji będą zawsze pokazywane.";
+$MESS ['PAGER_TEMPLATE_TIP'] = "Nazwa szablonu nawigacji. Możesz zostawić pole puste by użyć domyślnego szablonu (<B><i>.brak</i></b>).(System dostarcza alternatywnego szablonu: <i>pomarańczowy</i>.)";
+$MESS ['PAGER_DESC_NUMBERING_TIP'] = "Użyj tej opcji jeżeli chcesz, żeby nowe elementy ulokowały się na szczycie. Tak, tylko ostatnia strona w nawigacji jest zmodyfikowana. Wszystko inne strony mogą być chowane dla znacznie długiego czasu.";
+$MESS ['PAGER_DESC_NUMBERING_CACHE_TIME_TIP'] = "Wyszczególnia czas schowka dla stron (w sekundach) kiedy używanie wstecznej nawigacji.";
+$MESS ['AJAX_MODE_TIP'] = "Zezwalaj na AJAX w komponencie.";
+$MESS ['AJAX_OPTION_SHADOW_TIP'] = "Wyszczególnia zacienianie podlegających modyfikacji obszary na przejściu AJAXa.";
+$MESS ['AJAX_OPTION_JUMP_TIP'] = "Wyszczególnia przewinęcie do komponentu kiedy przejście AJAXa uzupełnia.";
+$MESS ['AJAX_OPTION_STYLE_TIP'] = "Wyszczególnia pobieranie i przetworzenie styli CSS komponentu na przejściu AJAXa.";
+$MESS ['AJAX_OPTION_HISTORY_TIP'] = "Pozwala \"W tył\" i \"Naprzód\" przeglądarki przyciski dla przejść AJAXa.";
+$MESS ['CHECK_DATES_TIP'] = "Wyszczególnia, że tylko elementy aktywne będą pokazane.";
+?>

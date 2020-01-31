@@ -1,0 +1,1 @@
+<a href="/press_center/news/meropriyatiya/partnyerskiy-forum-shtrikh-m-stanovitsya-otkrytym-dlya-vsekh/"><img src="/include/super_banner_web_818_618_4.jpg"></a>

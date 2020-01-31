@@ -1,0 +1,32 @@
+<?
+$MESS["BITRIXTV_GROUP_SETTINGS"] = "Общи настройки на компонента";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV"] = "Настройка на записа";
+$MESS["BITRIXTV_GROUP_PREVIEW_TV_PLAYER"] = "Настройка на списъка";
+$MESS["BITRIXTV_SETTING_IBLOCK_TYPE"] = "Тип на информационният блок";
+$MESS["BITRIXTV_SETTING_IBLOCK_ID"] = "Информационнен блок";
+$MESS["BITRIXTV_SETTING_ALLOW_SWF"] = "Разреши swf-файлове (не се препоръчва)";
+$MESS["BITRIXTV_SETTING_PATH_TO_FILE"] = "Свойство,в което се запазва пътя към записа";
+$MESS["BITRIXTV_SETTING_DURATION"] = "Свойство,в което се запазва дължината на записа";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_ELEMENT"] = "Елемент";
+$MESS["BITRIXTV_SETTING_PREVIEW_TV_SECTION"] = "Секция";
+$MESS["BITRIXTV_SETTING_PREVIEW_WIDTH"] = "Ширина на плеъра";
+$MESS["BITRIXTV_SETTING_PREVIEW_HEIGHT"] = "Височина на плеъра";
+$MESS["BITRIXTV_SETTING_DEFAULT_SMALL_IMAGE"] = "Намалена картина по подразбиране";
+$MESS["BITRIXTV_SETTING_DEFAULT_BIG_IMAGE"] = "Увеличена картина по подразбиране";
+$MESS["BITRIXTV_SETTING_LOGO"] = "Лого";
+$MESS["T_IBLOCK_DESC_ASC"] = "По възходящ ред";
+$MESS["T_IBLOCK_DESC_DESC"] = "По низходящ ред";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "Име";
+$MESS["T_IBLOCK_DESC_FACT"] = "Начална дата";
+$MESS["T_IBLOCK_DESC_FSORT"] = "Сортиране";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Последна промяна";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "Поле за първо сортиране на новините";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "Посока за първо сортиране на новините";
+$MESS["BITRIXTV_SETTING_STAT"] = "Статистика на прегледите";
+$MESS["BITRIXTV_SETTING_STAT_EVENT"] = "Отчитане на статистиката в модула";
+$MESS["BITRIXTV_SETTING_STAT_EVENT1"] = "event1";
+$MESS["BITRIXTV_SETTING_STAT_EVENT2"] = "event2";
+$MESS["BITRIXTV_SETTING_SHOW_COUNTER_EVENT"] = "Увеличи брояча за посещенията на елемента";
+$MESS["CP_BIT_CACHE_GROUPS"] = "С отчитане правата за достъп";
+?>

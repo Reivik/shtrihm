@@ -1,0 +1,31 @@
+<?
+$MESS['SEF_MODE_TIP'] = 'Įjungti SEF režimo palaikymą';
+$MESS['COURSE_ID_TIP'] = 'Kurso identifikatorius';
+$MESS['CHECK_PERMISSIONS_TIP'] = 'Tikrinti prieigos teises';
+$MESS['PAGE_WINDOW_TIP'] = 'Klausimų kiekis navigacijos grandinėje';
+$MESS['SHOW_TIME_LIMIT_TIP'] = 'Rodyti laiko apribojimo skaitiklį';
+$MESS['PAGE_NUMBER_VARIABLE_TIP'] = 'Klausimo ID';
+$MESS['TESTS_PER_PAGE_TIP'] = 'Testų skaičius puslapyje';
+$MESS['SET_TITLE_TIP'] = 'Nustatyti puslapio antraštę';
+$MESS['CACHE_TYPE_TIP'] = 'Podėlio (cache) tipas';
+$MESS['CACHE_TIME_TIP'] = 'Podėlio (cache) laikas (sek.)';
+$MESS['VARIABLE_ALIASES_COURSE_ID_TIP'] = 'Kurso identifikatorius';
+$MESS['VARIABLE_ALIASES_INDEX_TIP'] = 'Puslapio ID';
+$MESS['VARIABLE_ALIASES_LESSON_ID_TIP'] = 'Pamokos ID';
+$MESS['VARIABLE_ALIASES_CHAPTER_ID_TIP'] = 'Skyriaus ID';
+$MESS['VARIABLE_ALIASES_SELF_TEST_ID_TIP'] = 'Savarankiško patikrinimo testo ID';
+$MESS['VARIABLE_ALIASES_TEST_ID_TIP'] = 'Testo ID';
+$MESS['VARIABLE_ALIASES_TYPE_TIP'] = 'Visos kurso medžiagos ID';
+$MESS['VARIABLE_ALIASES_TEST_LIST_TIP'] = 'Testų sąrašo ID';
+$MESS['VARIABLE_ALIASES_GRADEBOOK_TIP'] = 'Žurnalo ID';
+$MESS['VARIABLE_ALIASES_FOR_TEST_ID_TIP'] = 'Žurnalo testo ID';
+$MESS['SEF_FOLDER_TIP'] = 'SEF katalogas (svetainės šakninio aplanko atžvilgiu)';
+$MESS['SEF_URL_TEMPLATES_course.detail_TIP'] = 'URL, vedantis į pagrindinį puslapį';
+$MESS['SEF_URL_TEMPLATES_lesson.detail_TIP'] = 'URL, vedantis į pamokos puslapį';
+$MESS['SEF_URL_TEMPLATES_chapter.detail_TIP'] = 'URL, vedantis į skyriaus puslapį';
+$MESS['SEF_URL_TEMPLATES_test.self_TIP'] = 'URL, vedantis į savarankiškų testų puslapį';
+$MESS['SEF_URL_TEMPLATES_test_TIP'] = 'URL, vedantis į testo puslapį ';
+$MESS['SEF_URL_TEMPLATES_test.list_TIP'] = 'URL, vedantis į puslapį su testų sąrašu';
+$MESS['SEF_URL_TEMPLATES_course.contents_TIP'] = 'URL, vedantis į puslapį su visą kurso medžiagą';
+$MESS['SEF_URL_TEMPLATES_gradebook_TIP'] = 'URL, vedantis į žurnalo puslapį';
+?>

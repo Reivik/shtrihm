@@ -1,0 +1,1 @@
+&copy; АО &laquo;ШТРИХ&ndash;М&raquo;, 1987– <?=date("Y")?>

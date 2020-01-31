@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Data>
+<Forum>
+	<IdForum>19</IdForum>
+	<TitleForum>Юридические вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=19</LinkForum>
+</Forum>
+<Forum>
+	<IdForum>20</IdForum>
+	<TitleForum>Технические вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=20</LinkForum>
+</Forum>
+<Forum>
+	<IdForum>21</IdForum>
+	<TitleForum>Общие вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=21</LinkForum>
+</Forum>
+<Topic>
+	<IdForum>19</IdForum>
+	<TitleTopic>Как будет проводиться возврат алкоголя от покупателя через к</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=19&amp;t=31813</LinkTopic>
+	<DateLastPost>1450878673</DateLastPost>
+</Topic><Topic>
+	<IdForum>20</IdForum>
+	<TitleTopic>Отключение пивного чека штрих м Касир 5</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=20&amp;t=32193</LinkTopic>
+	<DateLastPost>1504518960</DateLastPost>
+</Topic><Topic>
+	<IdForum>20</IdForum>
+	<TitleTopic>настройка ЕГАИС для Лайт ПОС</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=20&amp;t=31961</LinkTopic>
+	<DateLastPost>1471251410</DateLastPost>
+</Topic><Topic>
+	<IdForum>20</IdForum>
+	<TitleTopic>Накладная на возврат в Кассир miniPOS</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=20&amp;t=31964</LinkTopic>
+	<DateLastPost>1470998702</DateLastPost>
+</Topic><Topic>
+	<IdForum>21</IdForum>
+	<TitleTopic>Будет ли РМК «ШТРИХ-М: Кассир miniPOS» поддерживать работу с</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=21&amp;t=31815</LinkTopic>
+	<DateLastPost>1450878769</DateLastPost>
+</Topic></Data>

@@ -1,0 +1,32 @@
+<?
+$MESS["IBLOCK_CACHE_FILTER"] = "Aktywne cache dla filtra";
+$MESS["T_IBLOCK_DESC_ASC"] = "Rosnąco";
+$MESS["T_IBLOCK_DESC_DESC"] = "Malejąco";
+$MESS["T_IBLOCK_DESC_FID"] = "ID";
+$MESS["T_IBLOCK_DESC_FNAME"] = "Nazwa";
+$MESS["T_IBLOCK_DESC_FACT"] = "Data aktywacji";
+$MESS["T_IBLOCK_DESC_FSORT"] = "Sortowanie";
+$MESS["T_IBLOCK_DESC_FTSAMP"] = "Data ostatniej zmiany";
+$MESS["T_IBLOCK_DESC_IBORD1"] = "Pole dla wiadomości po pierwsze sortująca ";
+$MESS["T_IBLOCK_DESC_IBBY1"] = "Kierunek dla wiadomości po pierwsze sortująca ";
+$MESS["T_IBLOCK_DESC_IBORD2"] = "Pole dla wiadomości po drugie sortująca ";
+$MESS["T_IBLOCK_DESC_IBBY2"] = "Kierunek dla wiadomości po drugie sortująca ";
+$MESS["T_IBLOCK_DESC_LIST_ID"] = "Kod bloku informacyjnego";
+$MESS["T_IBLOCK_DESC_LIST_TYPE"] = "Typ bloku informacyjnego (używany dla sprawdzania tylko)";
+$MESS["T_IBLOCK_DESC_LIST_CONT"] = "Wiadomości na stronie";
+$MESS["T_IBLOCK_DESC_DETAIL_PAGE_URL"] = "URL do strony detali (dla domyślnych ustawień bloku informacyjnego)";
+$MESS["T_IBLOCK_DESC_INCLUDE_IBLOCK_INTO_CHAIN"] = "Dołącz blok informacyjny do nawigacji";
+$MESS["T_IBLOCK_PROPERTY"] = "Właściwości";
+$MESS["T_IBLOCK_FILTER"] = "Filtr";
+$MESS["IBLOCK_FIELD"] = "Pola";
+$MESS["T_IBLOCK_DESC_ACTIVE_DATE_FORMAT"] = "Pokazuje format daty";
+$MESS["T_IBLOCK_DESC_PAGER_NEWS"] = "Wiadomości";
+$MESS["T_IBLOCK_DESC_PREVIEW_TRUNCATE_LEN"] = "Maksymalna długość tekstu wstępu (tylko dla typu tekst)";
+$MESS["T_IBLOCK_DESC_HIDE_LINK_WHEN_NO_DETAIL"] = "Ukryj link jeżeli brakuje szczegółów";
+$MESS["IBLOCK_SECTION_ID"] = "ID sekcji";
+$MESS["IBLOCK_SECTION_CODE"] = "Kod sekcji";
+$MESS["T_IBLOCK_DESC_ADD_SECTIONS_CHAIN"] = "Dodaj nazwę sekcji w nawigacji";
+$MESS["T_IBLOCK_DESC_CHECK_DATES"] = "Pokaż tylko aktualnie aktywne elementy";
+$MESS["CP_BNL_SET_STATUS_404"] = "Ustaw status 404 jeżeli jest brak elementu lub sekcji";
+$MESS["CP_BNL_CACHE_GROUPS"] = "Respektuj uprawnienia dostępu";
+?>

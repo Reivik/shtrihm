@@ -1,0 +1,11 @@
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+.sp-layer {visibility:inherit!important;}
+.sp-right-thumbnails.sp-has-pointer .sp-selected-thumbnail:after {border-right: 13px solid #f0781e!important;}
+.sp-right-thumbnails.sp-has-pointer .sp-selected-thumbnail:before {border-left: 5px solid #f0781e!important;}

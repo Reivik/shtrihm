@@ -1,0 +1,31 @@
+<?
+$MESS ['BLOG_MENU_BLOGS_LIST'] = "blog listesi";
+$MESS ['BLOG_MENU_BLOGS_LIST_TITLE'] = "Blog ana sayfası";
+$MESS ['BLOG_MENU_CURRENT_BLOG'] = "Geçerli blog";
+$MESS ['BLOG_MENU_MY_BLOG'] = "Benim blogum";
+$MESS ['BLOG_MENU_MY_BLOG_TITLE'] = "Benim blogum";
+$MESS ['BLOG_MENU_PROFILE'] = "Benim profilim";
+$MESS ['BLOG_MENU_PROFILE_TITLE'] = "Benim profilim";
+$MESS ['BLOG_MENU_FRIENDS'] = "Arkadaş sayfası";
+$MESS ['BLOG_MENU_FRIENDS_TITLE'] = "Arkadaş sayfası";
+$MESS ['BLOG_MENU_LOGOUT'] = "Çıkış";
+$MESS ['BLOG_MENU_LOGOUT_TITLE'] = "Çıkış";
+$MESS ['BLOG_MENU_LOGIN'] = "Giriş";
+$MESS ['BLOG_MENU_LOGIN_TITLE'] = "Giriş";
+$MESS ['BLOG_MENU_REGISTER'] = "Kayıt";
+$MESS ['BLOG_MENU_REGISTER_TITLE'] = "Kayıt";
+$MESS ['BLOG_MENU_ADD_MESSAGE'] = "Yeni ileti";
+$MESS ['BLOG_MENU_ADD_MESSAGE_TITLE'] = "Yeni ileti ekle";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES'] = "Tamamlanmamış iletiler";
+$MESS ['BLOG_MENU_DRAFT_MESSAGES_TITLE'] = "Tamamlanmamış iletiler";
+$MESS ['BLOG_MENU_USER_SETTINGS'] = "Kullanıcı ayarları";
+$MESS ['BLOG_MENU_USER_SETTINGS_TITLE'] = "Benim blogun kullanıcı ayarları";
+$MESS ['BLOG_MENU_GROUP_EDIT'] = "Grup ayarları";
+$MESS ['BLOG_MENU_GROUP_EDIT_TITLE'] = "Benim blogun grup ayarları";
+$MESS ['BLOG_MENU_CATEGORY_EDIT'] = "Etiket ayarları";
+$MESS ['BLOG_MENU_CATEGORY_EDIT_TITLE'] = "Benim blogun etiket ayarları";
+$MESS ['BLOG_MENU_BLOG_EDIT'] = "Blog ayarları";
+$MESS ['BLOG_MENU_BLOG_EDIT_TITLE'] = "Benim blogun ayarları";
+$MESS ['BLOG_MENU_FR_B_F'] = "Arkadaş olmak";
+$MESS ['BLOG_MENU_FR_A_F'] = "Arkadaşlarıma ekle";
+?>

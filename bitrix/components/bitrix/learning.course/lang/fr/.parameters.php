@@ -1,0 +1,29 @@
+<?
+$MESS ['LEARNING_DESC_NO'] = "non";
+$MESS ['LEARN_TYPE_ID_DESC'] = "ID de la page de contenu de cours";
+$MESS ['LEARN_CHAPTER_DETAIL_DESC'] = "URL de la page du détail de chapitre";
+$MESS ['LEARN_CHAPTER_ID_DESC'] = "ID du chapitre";
+$MESS ['LEARNING_CHECK_PERMISSIONS'] = "Vérifier les autorisations permises";
+$MESS ['LEARN_COURSE_ID_DESC'] = "ID du cours";
+$MESS ['LEARNING_COURSE_ID_NAME'] = "ID du cours";
+$MESS ['LEARN_GRADEBOOK_ID_DESC'] = "ID du carnet de notes";
+$MESS ['LEARN_GRADEBOOK_DESC'] = "URL de la page de carnet de notes";
+$MESS ['LEARN_INDEX_ID_DESC'] = "ID de la page d'index";
+$MESS ['LEARN_INDEX_DESC'] = "URL de la page d'index";
+$MESS ['LEARN_LESSON_DETAIL_DESC'] = "URL de détail de la page de leçon";
+$MESS ['LEARN_LESSON_ID_DESC'] = "ID de la leçon";
+$MESS ['LEARNING_PAGE_WINDOW_NAME'] = "Nombre de questions dans la navigation";
+$MESS ['LEARNING_TESTS_PER_PAGE'] = "Nombre de tests par page";
+$MESS ['T_LEARNING_PAGE_NUMBER_VARIABLE'] = "ID de question";
+$MESS ['LEARN_SELF_TEST_DESC'] = "ID d'autotest";
+$MESS ['LEARN_TEST_SELF_DESC'] = "URL de la page d'autotest ";
+$MESS ['LEARNING_SHOW_TIME_LIMIT'] = "Montrer la minuterie";
+$MESS ['LEARN_TEST_ID_DESC'] = "ID de vérification";
+$MESS ['LEARN_FOR_TEST_ID_DESC'] = "ID de vérification dans le carnet de notes";
+$MESS ['LEARN_TEST_LIST_ID_DESC'] = "ID de la liste de vérification";
+$MESS ['LEARN_TEST_LIST_DESC'] = "URL de la page à liste de vérification";
+$MESS ['TEST_LIST_GROUP'] = "Réglages de la liste de vérification";
+$MESS ['LEARN_TEST_DETAIL_DESC'] = "URL de la page à vérification";
+$MESS ['TEST_DETAIL_GROUP'] = "Réglages de la vérification";
+$MESS ['LEARNING_DESC_YES'] = "Oui";
+?>

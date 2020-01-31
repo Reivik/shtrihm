@@ -1,0 +1,37 @@
+<?
+$MESS ['F_SUBSCRIBE'] = "Абонамент";
+$MESS ['F_SUBSCRIBE_TO_NEW_POSTS'] = "Абонамент за новите съобщения, по E-mail";
+$MESS ['F_HEAD_TOPICS'] = "Теми";
+$MESS ['F_HEAD_POSTS'] = "Отговори";
+$MESS ['F_HEAD_VIEWS'] = "Прегледи";
+$MESS ['F_HEAD_LAST_POST'] = "Последни";
+$MESS ['F_HEAD_AUTHOR'] = "Автор";
+$MESS ['F_PINNED'] = "Прикрепена";
+$MESS ['F_PINNED_TOPIC'] = "Важна тема";
+$MESS ['F_CLOSED'] = "Затворено";
+$MESS ['F_CLOSED_TOPIC'] = "Темата е затворена";
+$MESS ['F_PINNED_CLOSED_TOPIC'] = "Важната тема е затворена";
+$MESS ['F_MOVED'] = "Преместена";
+$MESS ['F_MOVED_TOPIC'] = "Темата е преместена в друг форум";
+$MESS ['F_AUTHOR'] = "автор:";
+$MESS ['F_HAVE_NEW_MESS'] = "Има нови съобщения!";
+$MESS ['F_NO_NEW_MESS'] = "Няма нови съобщения";
+$MESS ['F_NEW_TOPIC'] = "Нова тема";
+$MESS ['F_NEW_TOPIC_TITLE'] = "Създайте нова тема на този форум";
+$MESS ['F_MESSAGE_NOT_APPROVED'] = "Скрити съобщения";
+$MESS ['F_MANAGE_TOPICS'] = "Управление на темите";
+$MESS ['F_MANAGE_PIN'] = "Закрепи темата";
+$MESS ['F_MANAGE_UNPIN'] = "Открепи темата";
+$MESS ['F_MANAGE_OPEN'] = "Отвори темата";
+$MESS ['F_MANAGE_CLOSE'] = "Затвори темата";
+$MESS ['F_MANAGE_MOVE'] = "Премести темата";
+$MESS ['F_MANAGE_DELETE'] = "Премахни темата";
+$MESS ['F_SET_FORUM_READ'] = "Маркирай форума като прочетен";
+$MESS ['F_SELECT_ALL'] = "Избери всички";
+$MESS ['JS_NO_TOPICS'] = "Не е посочен списъка на темите. Изберете теми.";
+$MESS ['JS_DEL_TOPICS'] = "Темите ще бъдат премахнати без възможност за възстановяване. Искате ли да продължите?";
+$MESS ['JS_NO_ACTION'] = "Не е избрано действие за списъка на темите. Изберете действие.";
+$MESS ['F_CREATE_NEW_TOPIC'] = "Създай нова тема";
+$MESS ['F_NO_TOPICS_HERE'] = "Тук за сега няма нито една тема.";
+$MESS ['F_TOPIC_START'] = "Темата е започната";
+?>

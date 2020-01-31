@@ -1,0 +1,32 @@
+<?
+$MESS["CMDESKTOP_AUTH_ERR"] = "Грешка при авторизирането";
+$MESS["CMDESKTOP_GROUP_PERSONAL"] = "Лични";
+$MESS["CMDESKTOP_GROUP_PERSONAL_DESCR"] = "Gadgets за работа с лични инструменти";
+$MESS["CMDESKTOP_GROUP_EMPL"] = "Екип";
+$MESS["CMDESKTOP_GROUP_EMPL_DESCR"] = "Структура на фирмата, съдтрудници";
+$MESS["CMDESKTOP_GROUP_COMMUN"] = "Комуникации";
+$MESS["CMDESKTOP_GROUP_COMMUN_DESCR"] = "Блогове, форуми, общи документи";
+$MESS["CMDESKTOP_GROUP_COMPANY"] = "Фирма";
+$MESS["CMDESKTOP_GROUP_COMPANY_DESCR"] = "Company Life";
+$MESS["CMDESKTOP_GROUP_SERVICES"] = "Външни сервизи";
+$MESS["CMDESKTOP_GROUP_SERVICES_DESCR"] = "Сервизи за получаване на информация от Интернет";
+$MESS["CMDESKTOP_GROUP_OTHER"] = "И други";
+$MESS["CMDESKTOP_GROUP_OTHER_DESCR"] = "Gadgets не записани в предишни групи";
+$MESS["CMDESKTOP_GROUP_CRM"] = "CRM";
+$MESS["CMDESKTOP_GROUP_CRM_DESCR"] = "Лидове, контакти, компании, сделки";
+$MESS["CMDESKTOP_GROUP_SONET_GROUP"] = "Информация за групата";
+$MESS["CMDESKTOP_GROUP_SONET_GROUP_DESCR"] = "Информация за работна група от социалната мрежа";
+$MESS["CMDESKTOP_GROUP_SONET_USER"] = "Информация за потребителя";
+$MESS["CMDESKTOP_GROUP_SONET_USER_DESCR"] = "Информация за профила на потребителя в социалната мрежа";
+$MESS["CMDESKTOP_NAME_TEMPLATE_DEFAULT"] = "#NOBR##LAST_NAME# #NAME##/NOBR#";
+$MESS["CMDESKTOP_GROUP_ADMIN_CONTENT"] = "Контент";
+$MESS["CMDESKTOP_GROUP_ADMIN_CONTENT_DESCR"] = "Гаджети за раздела Контент в панела за управление";
+$MESS["CMDESKTOP_GROUP_ADMIN_SERVICES"] = "Сервизи";
+$MESS["CMDESKTOP_GROUP_ADMIN_SERVICES_DESCR"] = "Гаджети за раздела Сервизи в панела за управление";
+$MESS["CMDESKTOP_GROUP_ADMIN_STORE"] = "Магазин";
+$MESS["CMDESKTOP_GROUP_ADMIN_STORE_DESCR"] = "Гаджети за раздела Магазин в панела за управление";
+$MESS["CMDESKTOP_GROUP_ADMIN_STATISTICS"] = "Уеб-аналитика";
+$MESS["CMDESKTOP_GROUP_ADMIN_STATISTICS_DESCR"] = "Гаджети за раздела Уеб-аналитика в панела за управление";
+$MESS["CMDESKTOP_GROUP_ADMIN_SETTINGS"] = "Настройки";
+$MESS["CMDESKTOP_GROUP_ADMIN_SETTINGS_DESCR"] = "Гаджети за раздела Настройки в панела за управление";
+?>

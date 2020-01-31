@@ -1,0 +1,29 @@
+<?
+$MESS ['IBLOCK_ACCESS'] = "Parametry dostępu";
+$MESS ['IBLOCK_SEF_EDIT'] = "edytowany";
+$MESS ['IBLOCK_TYPE'] = "Typ bloku informacyjnego";
+$MESS ['IBLOCK_IBLOCK'] = "Blok informacyjny";
+$MESS ['IBLOCK_GROUPS'] = "Zezwól grupom użytkowników na dodawanie/edycję";
+$MESS ['IBLOCK_ADD_NAME'] = "- nazwa -";
+$MESS ['IBLOCK_ADD_TAGS'] = "- tagi -";
+$MESS ['IBLOCK_ADD_IBLOCK_SECTION'] = "- sekcja bloku informacyjnego -";
+$MESS ['IBLOCK_ADD_PREVIEW_TEXT'] = "- tekst wstępu -";
+$MESS ['IBLOCK_ADD_PREVIEW_PICTURE'] = "- obraz wstępu -";
+$MESS ['IBLOCK_ADD_DETAIL_TEXT'] = "- tekst szczegółowy -";
+$MESS ['IBLOCK_ADD_DETAIL_PICTURE'] = "- obraz szczegółów -";
+$MESS ['IBLOCK_ELEMENT_ASSOC'] = "Link do użytkownika";
+$MESS ['IBLOCK_ELEMENT_ASSOC_PROPERTY'] = "by własności bloku informacyjnego -->";
+$MESS ['CP_BIEAL_IBLOCK_STATUS'] = "Edycja uwzględnień dla statusu";
+$MESS ['IBLOCK_S_ACTIVE'] = "Edycja uwzględnień dla";
+$MESS ['IBLOCK_STATUS_ANY'] = "jakiekolwiek elementy";
+$MESS ['IBLOCK_STATUS_INCATIVE'] = "nieaktywne elementy ";
+$MESS ['IBLOCK_ADD_EDIT_URL'] = "Strona edycji elementu";
+$MESS ['IBLOCK_ALLOW_EDIT'] = "Pozwól edytować do";
+$MESS ['IBLOCK_ALLOW_DELETE'] = "Pozwól usuwać do";
+$MESS ['IBLOCK_ALLOW_N'] = "nikt";
+$MESS ['IBLOCK_CREATED_BY'] = "twórca";
+$MESS ['IBLOCK_PROPERTY_ID'] = "by własności bloku informacyjnego -->";
+$MESS ['IBLOCK_PARAMS'] = "Parametry komponentu";
+$MESS ['IBLOCK_MAX_USER_ENTRIES'] = "Limitowana ilość tworzenia elementów przez użytkownika";
+$MESS ['IBLOCK_NAV_ON_PAGE'] = "Elementy na stronie";
+?>

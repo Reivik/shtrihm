@@ -1,0 +1,29 @@
+<?
+$MESS["SONET_C30_T_USER"] = "Grupė / Naudotojas";
+$MESS["SONET_C30_T_TOTAL"] = "Kas prenumeruojama";
+$MESS["SONET_C30_T_ACTIONS"] = "Veiksmai";
+$MESS["SONET_C30_T_system"] = "Sisteminiai";
+$MESS["SONET_C30_T_system_groups"] = "Grupės";
+$MESS["SONET_C30_T_system_friends"] = "Draugai";
+$MESS["SONET_C30_T_forum"] = "Forumas";
+$MESS["SONET_C30_T_blog"] = "Tinklaraštis";
+$MESS["SONET_C30_T_photo"] = "Foto galerija";
+$MESS["SONET_C30_T_calendar"] = "Kalendorius";
+$MESS["SONET_C30_T_files"] = "Failai";
+$MESS["SONET_C30_T_tasks"] = "Užduotys";
+$MESS["SONET_C30_T_tasks1"] = "Užduotys";
+$MESS["SONET_C30_T_system1"] = "Sisteminiai";
+$MESS["SONET_C30_T_blog1"] = "Tinklaraščiai";
+$MESS["SONET_C30_T_calendar1"] = "Kalendorius";
+$MESS["SONET_C30_T_files1"] = "Failai";
+$MESS["SONET_C30_T_SHOW"] = "Rodyti prenumeratas";
+$MESS["SONET_C30_T_SHOW_ALL"] = "visi";
+$MESS["SONET_C30_T_SHOW_GROUP"] = "tik grupės";
+$MESS["SONET_C30_T_SHOW_USER"] = "tik naudotojai";
+$MESS["SONET_C334_GR"] = "Grupė #NAME#";
+$MESS["SONET_C334_US"] = "Naudotojas #NAME#";
+$MESS["SONET_C334_US1"] = "Naudotojas";
+$MESS["SONET_C334_SITE"] = "svetainėje ir el. paštu";
+$MESS["SONET_C334_MAIL"] = "tik svetainėje";
+$MESS["SONET_C334_CHANGE"] = "Keisti";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS ['SUP_ALL'] = "(tout)";
+$MESS ['SUP_EDIT'] = "Modifier ";
+$MESS ['SUP_TITLE'] = "Sujet";
+$MESS ['SUP_TIMESTAMP'] = "Modifié ";
+$MESS ['SUP_GREY'] = "gris";
+$MESS ['SUP_GREEN'] = "vert";
+$MESS ['SUP_ID'] = "ID";
+$MESS ['SUP_CLOSED'] = "fermé";
+$MESS ['SUP_F_CLOSE'] = "Fermé/ouvert";
+$MESS ['SUP_ASK'] = "Créer un nouveau tiquet";
+$MESS ['SUP_EDIT_TICKET'] = "Éditer un tiquet";
+$MESS ['SUP_F_FILTER'] = "Filtre";
+$MESS ['SUP_LAMP'] = "Ind.";
+$MESS ['SUP_F_LAMP'] = "Llibellé";
+$MESS ['SUP_F_ID'] = "ID de demande";
+$MESS ['SUP_GREEN_ALT'] = "c'est vous qui avez répondu en dernier au tiquet";
+$MESS ['SUP_RED_ALT_2'] = "c'est votre antagoniste qui a répondu en dernier au tiquet";
+$MESS ['SUP_F_MESSAGE'] = "Message";
+$MESS ['SUP_MODIFIED_BY'] = "Modifié par";
+$MESS ['SUP_MESSAGES'] = "Re.";
+$MESS ['SUP_OPENED'] = "ouvert";
+$MESS ['SUP_RED'] = "rouge";
+$MESS ['SUP_F_DEL_FILTER'] = "Supprimer le filtre";
+$MESS ['SUP_F_SET_FILTER'] = "Placer un filtre";
+$MESS ['SUP_STATUS'] = "Statut";
+$MESS ['SUP_GREY_ALT'] = "tiquet clos";
+$MESS ['SUP_TOTAL'] = "Total";
+$MESS ['SUP_EXACT_MATCH'] = "Utiliser une correspondance exacte";
+?>

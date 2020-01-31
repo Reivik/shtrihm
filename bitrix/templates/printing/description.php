@@ -1,0 +1,1 @@
+<?$arTemplate = array("NAME"=>"printing", "DESCRIPTION"=>"Шаблон для страниц для печати");?>

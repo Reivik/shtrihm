@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Data>
+<Forum>
+	<IdForum>22</IdForum>
+	<TitleForum>Технические вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=22</LinkForum>
+</Forum>
+<Forum>
+	<IdForum>23</IdForum>
+	<TitleForum>Юридические вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=23</LinkForum>
+</Forum>
+<Forum>
+	<IdForum>24</IdForum>
+	<TitleForum>Общие вопросы</TitleForum>
+	<LinkForum>http://forum.shtrih-m.ru/viewforum.php?f=24</LinkForum>
+</Forum>
+<Topic>
+	<IdForum>22</IdForum>
+	<TitleTopic>Отображение ИНН/Название покупателя</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=22&amp;t=32230</LinkTopic>
+	<DateLastPost>1561966973</DateLastPost>
+</Topic><Topic>
+	<IdForum>22</IdForum>
+	<TitleTopic>Маркировка: продажа сигарет, пример кода</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=22&amp;t=32224</LinkTopic>
+	<DateLastPost>1549259136</DateLastPost>
+</Topic><Topic>
+	<IdForum>22</IdForum>
+	<TitleTopic>обнуляется счетчик наличных</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=22&amp;t=32214</LinkTopic>
+	<DateLastPost>1545898067</DateLastPost>
+</Topic><Topic>
+	<IdForum>23</IdForum>
+	<TitleTopic>ФН для УСН</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=23&amp;t=32111</LinkTopic>
+	<DateLastPost>1486104902</DateLastPost>
+</Topic><Topic>
+	<IdForum>23</IdForum>
+	<TitleTopic>нужно ли будет дорабатывать ФРы до 54фз после ЕГАИС?</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=23&amp;t=31818</LinkTopic>
+	<DateLastPost>1451043552</DateLastPost>
+</Topic><Topic>
+	<IdForum>23</IdForum>
+	<TitleTopic>Попадают ли рестораны и кафе под действие ЕГАИС?</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=23&amp;t=31811</LinkTopic>
+	<DateLastPost>1450878561</DateLastPost>
+</Topic><Topic>
+	<IdForum>24</IdForum>
+	<TitleTopic>Печать чека с нулевой суммой.</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=24&amp;t=32210</LinkTopic>
+	<DateLastPost>1529852563</DateLastPost>
+</Topic><Topic>
+	<IdForum>24</IdForum>
+	<TitleTopic>Если у компании есть основной склад и несколько розничных то</TitleTopic>
+	<LinkTopic>http://forum.shtrih-m.ru/viewtopic.php?f=24&amp;t=31812</LinkTopic>
+	<DateLastPost>1450878598</DateLastPost>
+</Topic></Data>

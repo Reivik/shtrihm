@@ -1,0 +1,4 @@
+<?
+$MESS["LEARNING_COURSE_DESCRIPTION"] = "Opis kursu";
+$MESS["LEARNING_TEST_LIST"] = "Testy";
+?>

@@ -1,0 +1,30 @@
+<?
+$MESS["F_MESSAGES_PER_PAGE"] = "Número de mensajes por página";
+$MESS["F_PATH_TO_SMILE"] = "Ruta para la carpeta de smilies (relativo a la raíz)";
+$MESS["F_FORUM_ID"] = "ID del foro";
+$MESS["IBLOCK_ELEMENT_ID"] = "ID del elemento del Block de Información";
+$MESS["F_USE_CAPTCHA"] = "Usar CAPTCHA";
+$MESS["F_READ_TEMPLATE"] = "Página de tema leído";
+$MESS["F_PREORDER"] = "Muestra mensaje en orden delantera ";
+$MESS["F_DATE_TIME_FORMAT"] = "Formato de fecha y hora";
+$MESS["F_DISPLAY_PANEL"] = "Visualizar panel de botones para este componente";
+$MESS["F_PAGE_NAVIGATION_TEMPLATE"] = "Nombre de la plantilla del paginador";
+$MESS["F_DETAIL_TEMPLATE"] = "Página del elemento del block de información";
+$MESS["F_POST_FIRST_MESSAGE"] = "Usar texto de este elemento para iniciar tema";
+$MESS["F_POST_FIRST_MESSAGE_TEMPLATE"] = "Plantilla del primer correo en el tema";
+$MESS["F_IBLOCK_TYPE"] = "Tipo de block de información";
+$MESS["F_IBLOCK_ID"] = "Block de información";
+$MESS["F_PROFILE_VIEW_TEMPLATE"] = "Página del perfil";
+$MESS["F_SHOW_AVATAR"] = "Mostrar Avatars";
+$MESS["F_SHOW_MINIMIZED"] = "El formulario de respuesta colapsó";
+$MESS["SHOW_RATING"] = "Permitir calificación";
+$MESS["SHOW_RATING_CONFIG"] = "predeterminado";
+$MESS["RATING_TYPE"] = "Diseño de calificación de botones";
+$MESS["RATING_TYPE_CONFIG"] = "predeterminado";
+$MESS["RATING_TYPE_STANDART_TEXT"] = "Me gusta/No me gusta (texto)";
+$MESS["RATING_TYPE_STANDART_GRAPHIC"] = "Me gusta/No me gusta (imagen)";
+$MESS["RATING_TYPE_LIKE_TEXT"] = "Me gusta (texto)";
+$MESS["RATING_TYPE_LIKE_GRAPHIC"] = "Me gusta (imagen)";
+$MESS["F_EDITOR_CODE_DEFAULT"] = "Predeterminado para el modo del editor del texto plano";
+$MESS["F_NAME_TEMPLATE"] = "Formato de nombre";
+?>

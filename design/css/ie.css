@@ -1,0 +1,25 @@
+body {
+	font-size: 14px;
+}
+.pageCont .inputContainer {
+	border: 1px solid #C6C6C6;
+	height: 23px;
+	margin: 0px 0px 10px;
+	padding: 5px 8px 0 8px;
+	clear: both;
+	background: #FFFFFF;
+}
+.pageCont .inputContainer input {
+	height: 20px;
+}
+.pageCont a.pay {
+	width: 119px;
+}
+.navMenu li.count_1, .navMenu li.count_2, .navMenu li.count_3 {margin:0 0 0 24px; position:relative; top: -4px;}
+
+.single_best_main{
+	height:289px;
+}
+.pageCont .block.news_block .main_block{
+	height:276px;
+}

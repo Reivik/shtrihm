@@ -1,0 +1,30 @@
+<?
+$MESS['SUP_ID'] = 'ID';
+$MESS['SUP_F_FILTER'] = 'Filtras';
+$MESS['SUP_ASK'] = 'Sukurti naują pranešimą';
+$MESS['SUP_F_ID'] = 'Užklausos ID';
+$MESS['SUP_EXACT_MATCH'] = 'Ieškoti pagal visus įrašytus duomenis';
+$MESS['SUP_F_LAMP'] = 'Indikatorius';
+$MESS['SUP_RED'] = 'Raudonas';
+$MESS['SUP_GREEN'] = 'Žalias';
+$MESS['SUP_GREY'] = 'Pilkas';
+$MESS['SUP_F_CLOSE'] = 'Uždaryta/atidaryta';
+$MESS['SUP_CLOSED'] = 'Uždaryta';
+$MESS['SUP_OPENED'] = 'įrankis prieinamas';
+$MESS['SUP_ALL'] = '(viską)';
+$MESS['SUP_F_MESSAGE'] = 'Pranešimo tekstas';
+$MESS['SUP_F_SET_FILTER'] = 'Įdiegti';
+$MESS['SUP_F_DEL_FILTER'] = 'Išvalyti';
+$MESS['SUP_LAMP'] = 'Indikatorius';
+$MESS['SUP_TITLE'] = 'Pavadinimas';
+$MESS['SUP_TIMESTAMP'] = 'Atnaujinta';
+$MESS['SUP_MODIFIED_BY'] = 'Atnaujino';
+$MESS['SUP_MESSAGES'] = 'Praneš.';
+$MESS['SUP_STATUS'] = 'Statusas';
+$MESS['SUP_GREEN_ALT'] = 'paskutinį kartą Jūs parašėte užklausimą';
+$MESS['SUP_EDIT_TICKET'] = 'Keisti užklausimą';
+$MESS['SUP_EDIT'] = 'Redaguoti';
+$MESS['SUP_TOTAL'] = 'Total';
+$MESS['SUP_RED_ALT_2'] = 'paskutinį kartą į užklausimą jūsų oponentas parašė';
+$MESS['SUP_GREY_ALT'] = 'užklausimas uždarytas';
+?>

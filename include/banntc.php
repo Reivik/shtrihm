@@ -1,0 +1,1 @@
+<a href="/press_center/news/novinki/fn-ntts-izmeritel-vnesen-v-gosudarstvennyy-reestr-fiskalnykh-nakopiteley-/"><img src="/include/super_baner_2017_03_31_FN_01.jpg"></a>

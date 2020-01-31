@@ -1,0 +1,40 @@
+<?
+	if(!empty($arResult["ITEMS"])) {
+		foreach($arResult["ITEMS"] as $key => $arItem) {
+			if(!empty($arItem["PREVIEW_PICTURE"])) {
+				$arResult["ITEMS"][$key]["PREVIEW_PICTURE"] = CFile::ResizeImageGet( 
+					$arItem["PREVIEW_PICTURE"], 
+					array("width" => 151, "height" => 164), 
+					BX_RESIZE_IMAGE_PROPORTIONAL_ALT,
+					true 
+				);
+			}
+			$filials = CIBlockElement::GetList(array(), array("IBLOCK_ID" => IB_FILIALS, "PROPERTY_company" => $arItem["ID"], "!PROPERTY_main" => false), false, false, array("PROPERTY_town.NAME", "PROPERTY_address", "PROPERTY_status.NAME", "PROPERTY_status"));
+			if($filial = $filials->GetNext())
+				$arResult["ITEMS"][$key]["MAIN_OFFICE"] = $filial["PROPERTY_TOWN_NAME"].", ".$filial["PROPERTY_ADDRESS_VALUE"];
+				$arResult["ITEMS"][$key]["STATUS"][] = array(
+							"ACTIVE" => "Y",
+							"NAME" => $filial["PROPERTY_STATUS_NAME"]
+						);
+			if(!empty($arItem["PROPERTIES"]["STATUS"]["VALUE"])) {
+				foreach($arItem["PROPERTIES"]["STATUS"]["VALUE"] as $stat) {
+					unset($statuses);
+					unset($status);
+					$statuses = CIBlockElement::GetList(array(), array("IBLOCK_ID" => IB_STATUS_COMPANY, "ACTIVE" => "Y", "ID" => $stat), false, false, array("NAME", "PREVIEW_PICTURE", "ID"));
+					while($status = $statuses->GetNext()) {
+						$arResult["ITEMS"][$key]["STATUS"][] = array(
+							"NAME" => $filial["PROPERTY_STATUS_NAME"],
+							"ID" => $filial["PROPERTY_STATUS"],
+							"PREVIEW_PICTURE" => CFile::ResizeImageGet( 
+								$status["PREVIEW_PICTURE"], 
+								array("width" => 20, "height" => 20), 
+								BX_RESIZE_IMAGE_PROPORTIONAL_ALT,
+								true 
+							)
+						);						
+					}
+				}
+			}			
+		}
+	}
+?>

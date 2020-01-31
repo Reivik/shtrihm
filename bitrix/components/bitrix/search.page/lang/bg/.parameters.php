@@ -1,0 +1,37 @@
+<?
+$MESS["SEARCH_WHERE_DROPDOWN"] = "Значение за падащия списък \"Къде да търсите\"";
+$MESS["SEARCH_PAGE_RESULT_COUNT"] = " Брой резултати на страница";
+$MESS["SEARCH_SHOW_DROPDOWN"] = "Показване на падащия списък \"Къде да търсите\"";
+$MESS["SEARCH_CHECK_DATES"] = "Търси само в активните по дата документи";
+$MESS["SEARCH_RESTART"] = "Опитайте да търсите без отчет на морфологията (ако няма намерени резултати от търсенето)";
+$MESS["SEARCH_PAGER_SETTINGS"] = "Настройка на подстраничната навигация";
+$MESS["SEARCH_PAGER_TITLE"] = "Име на резултатите от търсенето";
+$MESS["SEARCH_RESULTS"] = "Резултати от търсенето";
+$MESS["SEARCH_PAGER_SHOW_ALWAYS"] = "Винаги показвй";
+$MESS["SEARCH_PAGER_TEMPLATE"] = "Име на шаблона";
+$MESS["SEARCH_USE_TITLE_RANK"] = "При подреждане на резултатите се отчита заглавието";
+$MESS["CP_SP_DEFAULT_SORT"] = "Сортиране по подразбиране";
+$MESS["CP_SP_DEFAULT_SORT_RANK"] = "по значимост";
+$MESS["CP_SP_DEFAULT_SORT_DATE"] = "по дата";
+$MESS["CP_BSP_SHOW_WHEN"] = "Покажи филтъра по дати";
+$MESS["CP_BSP_DISPLAY_TOP_PAGER"] = "Покажи над резултатите";
+$MESS["CP_BSP_DISPLAY_BOTTOM_PAGER"] = "Покажи под резултатите";
+$MESS["CP_BSP_FILTER_NAME"] = "Допълнителен филтър";
+$MESS["CP_BSP_USE_LANGUAGE_GUESS"] = "Включи автоматичното разпознаване на регистъра на клавиатурата";
+$MESS["CP_BSP_NO_WORD_LOGIC"] = "Изключи обработката на думи, като логически оператори";
+$MESS["SEARCH_SECTION_NAME"] = "Търсене";
+$MESS["SEARCH_FORUM"] = "Форуми за търсене";
+$MESS["SEARCH_ALL"] = "(всички)";
+$MESS["SEARCH_NO_LIMIT"] = "Не ограничено";
+$MESS["SEARCH_STATIC"] = "Статични файлове";
+$MESS["SEARCH_IBLOCK_TYPE1"] = "Търсене в информационните блокове от типа \"";
+$MESS["SEARCH_IBLOCK_TYPE2"] = "\"";
+$MESS["SEARCH_URL"] = "URL на файла започва с някое от следните пътища";
+$MESS["SEARCH_WHERE_FILTER"] = "Ограничаване области на търсенето";
+$MESS["SEARCH_BLOG"] = "Блогове";
+$MESS["SEARCH_SOCIALNETWORK"] = "Социална мрежа";
+$MESS["SEARCH_SOCIALNETWORK_USER"] = "Социална мрежа (потребител)";
+$MESS["SEARCH_INTRANET_USERS"] = "Потребители";
+$MESS["CP_SP_SOCIALNETWORK_GROUPS"] = "Групи на Социалната мрежа";
+$MESS["CP_SP_SOCIALNETWORK_USER"] = "Потребител на социалната мрежа";
+?>

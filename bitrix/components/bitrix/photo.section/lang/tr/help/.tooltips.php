@@ -1,0 +1,35 @@
+<?
+$MESS ['IBLOCK_TYPE_TIP'] = "Açılan listeden sistemde oluşturulan bilgi bloğu tiplerinden birisi seçilir. <b><i>??</i></b> tuşuna basıldığında seçilen tip için oluşturulan bilgi blokları yüklenecektir.";
+$MESS ['IBLOCK_ID_TIP'] = "</b>, specify the information block ID in the field beside.";
+$MESS ['SECTION_ID_TIP'] = "Alan, Bölüm kimliğini belirten kodu içermektedir. Alanda varsayılan olarak ={\$_REQUEST[\"SECTION_ID\"]}. bölüm kodu belirtilmişse alan boş bırakılabilir..";
+$MESS ['SECTION_CODE_TIP'] = "Bölüm kodu belirtilir bölüm kimliği belirtilmişse alan boş bırakılabilir..";
+$MESS ['ELEMENT_SORT_FIELD_TIP'] = "Her bir bölüm için fotoğrafğrafların sıralandığı alan belirtilecektir.";
+$MESS ['ELEMENT_SORT_ORDER_TIP'] = "Bölümde fotoğrafğraflar hangi yönde sıralanacaktır.";
+$MESS ['FILTER_NAME_TIP'] = "Filtre parametrelerinin iletildiği değişkenin adı girilir. Filtreden gelen öğelerin belirlenmesinde kullanılır. Alan boş bırakılabilir, bu durumda varsayılan değer kullanılır.";
+$MESS ['FIELD_CODE_TIP'] = "Sıralanan alanlardan ek alan olarak bölüm içindeki öğe listesini göstermek için ilave alanlar seçilebilir. <i>seçim yapılmadı</i> hanesi seçildiğinde ve kod belirtilmediğinde özellik altındaki satırlardaki özellikler gösterilmez.";
+$MESS ['PROPERTY_CODE_TIP'] = "Bilgi bloğu özelliği içinde bölüm içerisinde öğelerin listesinde bulunanlar gösterilir. (seçim yapılmadı)->  hanesi seçildiğinde ve özellik kodu belirtilmediğinde özellik altındai satırlardaki özellikler gösterilmez.";
+$MESS ['SECTION_URL_TIP'] = "Bu alanda, bölüm içeriğinin bulunduğu sayfaya yönlendiren URl'nin belirtilmesi gerekir.";
+$MESS ['DETAIL_URL_TIP'] = "Bilgi bloğu öğesinin detaylı tanımının bulunduğu sayfaya giden bağlantı";
+$MESS ['PAGE_ELEMENT_COUNT_TIP'] = "Bir sayfada bulunan öğe sayısı Diğer öğeler gezinme navigasyon yardımı ile görüntülenecektir.";
+$MESS ['LINE_ELEMENT_COUNT_TIP'] = "Belirtilen rakam bölüm öğelerini girerken bir satırdaki fotoğrafğraf sayısını belirler.";
+$MESS ['DISPLAY_PANEL_TIP'] = "Seçenek seçildiğinde yönetim panelinde düzenleme düğmeleri site ve ilgili öğenin düzenleme modunda aktif olacaktır.";
+$MESS ['SET_TITLE_TIP'] = "Sayfa başlığı olarak seçeneğin belirtilmesinde, bölüm adı tanımlanacaktır.";
+$MESS ['ADD_SECTIONS_CHAIN_TIP'] = "Bu seçenek bölüm adını gezgin geçmişine ekler";
+$MESS ['CACHE_TYPE_TIP'] = "<br /><i>Cache</i>: always cache for the period specified in the next field";
+$MESS ['CACHE_TIME_TIP'] = "Alan, saniye olarak önbellekleme zamanını belirtmek için kullanılmaktadır.";
+$MESS ['CACHE_FILTER_TIP'] = "Bu çenek seçildiğinde filtredne elde edilen her bir sonuç önbelleğe alınacaktır.";
+$MESS ['DISPLAY_TOP_PAGER_TIP'] = "Bu seçenek seçildiğinde sayfa gezginleri sayfanın üst kısmında gösterilir.";
+$MESS ['DISPLAY_BOTTOM_PAGER_TIP'] = "Bu seçenek seçildiğinde sayfa gezginleri sayfanın alt kısmında gösterilir.";
+$MESS ['PAGER_TITLE_TIP'] = "Gezinti yapılacak kategori adı.";
+$MESS ['PAGER_SHOW_ALWAYS_TIP'] = "Bayrak seçili olduğunda, sayfa gezgini tüm öğeler aynı sayfada olsa bile görüntülenir.";
+$MESS ['PAGER_TEMPLATE_TIP'] = "Bu alanda sayfa gezgini şablonunun adı belirtilir. alan boş ise geçerli şablon seçilir (.default). Ayrıca sistemde <i>orange</i> şablonu belirlenmiştir.";
+$MESS ['PAGER_DESC_NUMBERING_TIP'] = "Mekanizma, bilgi bloğu öğesi listenin başına denk geldiğinde kullanılır. Bu sayede gezginin sadece son sayfası kullanılır. Tüm önceki kayıtlar kısa süreli önbelleklenebilir.";
+$MESS ['PAGER_DESC_NUMBERING_CACHE_TIME_TIP'] = "İlk sayfaların önbellekleme zamanı ters gezinti kullanıldığında saniye olarak gösterilir.";
+$MESS ['META_KEYWORDS_TIP'] = "Özelliklerden sayfanın anahtar kelimelerini ayarla";
+$MESS ['META_DESCRIPTION_TIP'] = "Özelliklerden sayfanın tanımını ayarla";
+$MESS ['AJAX_MODE_TIP'] = "AJAX rejim  beleşeni için kurulumu.";
+$MESS ['AJAX_OPTION_SHADOW_TIP'] = "Geçis esnasında, değişilmesi gereken bulut gölgelenecektir.";
+$MESS ['AJAX_OPTION_JUMP_TIP'] = "Kullanıcı tarafından  AJAX geçişi yapılması durumunda, yükleme sonunda bileşenin başına dönülecektir.";
+$MESS ['AJAX_OPTION_STYLE_TIP'] = "AJAX geçişi yapılması durumunda, alt yükleme yapılacak ve bileşen tarafından oluşturulan stil listesi incelenmesi gerçekleştirilecektir.";
+$MESS ['AJAX_OPTION_HISTORY_TIP'] = "Kullanıcı tarafından AJAX geçişi yapılması durumunda, opsiyonun açılıdığında \"İleri\" \"Geri\" tarayıcı düğmeleri kullanılabilecektir.";
+?>

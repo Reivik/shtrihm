@@ -1,0 +1,29 @@
+<?
+$MESS ['IBLOCK_ACCESS'] = "Параметри за достъп";
+$MESS ['IBLOCK_SEF_EDIT'] = "редактиране";
+$MESS ['IBLOCK_TYPE'] = "Тип на инфоблока";
+$MESS ['IBLOCK_IBLOCK'] = "Инфоблок";
+$MESS ['IBLOCK_GROUPS'] = "Групи потребители, имащи право на добавяне/редактиране";
+$MESS ['IBLOCK_ADD_NAME'] = "- име -";
+$MESS ['IBLOCK_ADD_TAGS'] = "- таги -";
+$MESS ['IBLOCK_ADD_IBLOCK_SECTION'] = "- раздел на инфоблока -";
+$MESS ['IBLOCK_ADD_PREVIEW_TEXT'] = "- текст за анонса -";
+$MESS ['IBLOCK_ADD_PREVIEW_PICTURE'] = "- фото за анонса -";
+$MESS ['IBLOCK_ADD_DETAIL_TEXT'] = "- подробен текст -";
+$MESS ['IBLOCK_ADD_DETAIL_PICTURE'] = "- подробна снимка -";
+$MESS ['IBLOCK_ELEMENT_ASSOC'] = "Линк към потребителя";
+$MESS ['IBLOCK_ELEMENT_ASSOC_PROPERTY'] = "по свойството на инфоблока -->";
+$MESS ['CP_BIEAL_IBLOCK_STATUS'] = "Редактирането е възможно за статуса";
+$MESS ['IBLOCK_S_ACTIVE'] = "Редактирането е възможно";
+$MESS ['IBLOCK_STATUS_ANY'] = "всякакви елементи";
+$MESS ['IBLOCK_STATUS_INCATIVE'] = "Не активни елементи";
+$MESS ['IBLOCK_ADD_EDIT_URL'] = "Страница за редактиране на елемента";
+$MESS ['IBLOCK_ALLOW_EDIT'] = "Разреши редактирането";
+$MESS ['IBLOCK_ALLOW_DELETE'] = "Разреши премахването";
+$MESS ['IBLOCK_ALLOW_N'] = "на никой";
+$MESS ['IBLOCK_CREATED_BY'] = "създателя";
+$MESS ['IBLOCK_PROPERTY_ID'] = "по свойството на инфоблока -->";
+$MESS ['IBLOCK_PARAMS'] = "Параметри на компонента";
+$MESS ['IBLOCK_MAX_USER_ENTRIES'] = "Ограничи броя на елементите за един потребител";
+$MESS ['IBLOCK_NAV_ON_PAGE'] = "Брой елементи за една страница";
+?>

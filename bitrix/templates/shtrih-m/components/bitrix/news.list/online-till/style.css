@@ -1,0 +1,85 @@
+.ok_info_text p {font-size: 14px;}
+.prod_list, .ok_top_line {float:left;width:100%;}
+.ok_cat_item {float:left;width:100%;border:1px solid #939393;border-radius:2px;margin-bottom:20px;}
+.ok_top_line .nov_block {line-height:46px;float:left;padding:0 44px;background:#ff933e;font-size:24px;color:#fff;font-weight:bold;text-align: center;}
+.ok_top_line .egais_block {line-height:46px;float:right;padding:0 25px;color:#828282;font-size:24px;}
+.ok_main_line {float:left;width:calc(100% - 50px);padding:20px 25px;}
+.ok_main_line .main_foto {text-align:center;height:170px;width:170px;float:left;border:1px solid #939393;margin-right:25px;border-radius:2px;}
+.ok_main_line .main_foto img {width:100%;}
+.ok_main_line .main_info {float:left;width: calc(100% - 200px);}
+.ok_main_line .main_info h2 {margin:0 0 15px;line-height: 30px;font-size:24px;color:#010101;font-weight:bold;text-transform:uppercase;font-family: 'PT Sans', 'Arial', sans-serif;}
+.ok_main_line .main_info p {overflow: hidden;font-size:14px;line-height:24px;height:72px;}
+.ok_main_line .main_info span {display:block;text-align:right;font-size:36px;color:#ff933e;font-weight:bold;}
+.ok_button_line {text-align:right;width: calc(100% - 25px);float:left;}
+.left_but {display:inline-block;line-height:40px;border:1px solid #939393;border-radius:2px;margin-bottom:15px;background:#e7e7e7;padding:0 40px;font-size:18px;color:#000000;text-decoration:none;margin-left:15px;}
+.right_but {cursor:pointer;display:inline-block;line-height:40px;border:1px solid #939393;border-radius:2px;margin-bottom:15px;background:#ff933e;padding:0 40px;font-size:18px;color:#000000;text-decoration:none;margin-left:15px;}
+.left_but:hover, .right_but:hover {background:#ffb377;color:#fff;}
+#modal {display:none;position:fixed;z-index:11;width:100%;height:100vh;background:rgba(0,0,0,0.3);left:0;top:0;}
+.overflow_modal {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    text-align: center;
+overflow: auto;}
+.modal_page {background:#eee;padding:20px;position:relative;min-height: 560px;margin:50px auto;display: inline-block;    max-width: 640px;
+    text-align: left;}
+.close_button {cursor:pointer;position:absolute;top:0px;right:-45px;font-size:30px;color:#000;background:#ddd;border-radius:50%;width:30px;height:30px;text-align:center;}
+.close_button:hover {background:#444;color:#fff;}
+.title_form {text-align: center;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-transform: uppercase;}
+.form_zakaz .name_inp {
+    width: 30%;
+    float: right;
+    text-align: right;
+    margin-right: 5%;
+}
+.form_zakaz input, .sbHolder {width:calc(60% - 20px)!important;float:right;padding:5px 10px;}
+.city_field .sbHolder {width:calc(80% - 20px)!important;}
+.sbHolder {padding-top:0!important;padding-bottom:0!important;}
+.city_field input {width:calc(80% - 20px)!important;
+margin-bottom: 20px;}
+.text_field {width: 80%;float: right;}
+.text_field textarea {width: calc(100% - 38px)!important;}
+.form_zakaz .city_inp, .form_zakaz .text_inp {width: 15%;margin-right: 3%;}
+.send_button {margin: 20px auto!important;
+    float: left!important;
+    margin-left: 20%!important;
+    padding: 5px 30px!important;}
+.hidden_field {display:none;} 
+.send_button {cursor:pointer;background:#ff933e!important;}
+.send_button:hover {background:#ffb377!important;}
+.tooltip {
+    position: absolute;
+    top: 16px;
+    left: 360px;
+    width: 120px;
+    color: #333;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #fafafa;
+        opacity: 1;
+    z-index: 12;
+font-size:14px;
+}
+
+.tooltip b {
+    position: absolute;
+    display: block;
+    left: -14px;
+    width: 0;
+    height: 0;
+    color: transparent;
+    border: 7px solid;
+    border-right-color: #fafafa;
+}
+.body_stop {overflow:hidden;}
+.nov_block {text-transform:uppercase;}

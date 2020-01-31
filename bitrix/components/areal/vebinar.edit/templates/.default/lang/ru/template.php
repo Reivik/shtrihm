@@ -1,0 +1,33 @@
+<?
+$MESS["NAME"] = "Название вебинара";
+$MESS["PREVIEW_TEXT"] = "Короткое описание";
+$MESS["PREVIEW_PICTURE"] = "Фото";
+$MESS["DOWNLOAD"] = "Загрузить";
+$MESS["DATE_ACTIVE_FROM"] = "Дата и время начала";
+$MESS["LEADING"] = "Ведущий";
+$MESS["CATEGORY"] = "Категория";
+$MESS["SELECT_CATEGORY"] = "Выберите направление деятельности партнера";
+$MESS["DURATION"] = "Продолжительность";
+$MESS["VEBINAR_INFO"] = "Общие данные";
+$MESS["NO_INVITE"] = "Разрешить регистрацию без приглашения";
+$MESS["TOP"] = "Топ-вебинар";
+$MESS["ACTIVE"] = "Опубликовать";
+$MESS["PARTICIPANT1"] = "Участники";
+$MESS["PARTICIPANT2"] = "Запросы";
+$MESS["PARTICIPANT3"] = "Отклоненные";
+$MESS["SELECT_PARTNER"] = "Выберите партнера";
+$MESS["ALL_PARTNERS"] = "Все партнеры";
+$MESS["GROUP_BY"] = "По группе доступа";
+$MESS["DIRECTION_BY"] = "По направлению";
+$MESS["UG_PP"] = "Простой партнер";
+$MESS["UG_PO"] = "Партнерский отдел";
+$MESS["UG_YC"] = "Учебный центр";
+$MESS["UG_TP"] = "Техподдержка";
+$MESS["SAVE"] = "Сохранить изменения";
+$MESS["SUCCESS_SAVE"] = "Вебинар создан. Всем участникам разосланы приглашения.";
+$MESS["INVITE"] = "Подтвердить участие";
+$MESS["INVITING"] = "Пригласить";
+$MESS["REFUSAL"] = "Отказать";
+$MESS["YES"] = "Приглашен";
+$MESS["NO_PARTICIPANTS"] = "Внимание! На данный вебинар не приглашено ни одного участника.";
+?>

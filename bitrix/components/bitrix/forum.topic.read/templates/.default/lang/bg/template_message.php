@@ -1,0 +1,29 @@
+<?
+$MESS ['F_REPLY'] = "Отговор";
+$MESS ['F_QUOTE'] = "Цитат";
+$MESS ['F_ANCHOR'] = "Линк на това съобщение";
+$MESS ['F_EDIT'] = "Редактиране";
+$MESS ['F_EDIT_TOPIC'] = "Редактиране на темата";
+$MESS ['F_DELETE'] = "Премахни";
+$MESS ['F_DELETE_TOPIC'] = "Премахни темата";
+$MESS ['F_HIDE'] = "Намали";
+$MESS ['F_HIDE_TOPIC'] = "Скрий темата";
+$MESS ['F_SHOW'] = "Покажи";
+$MESS ['F_AUTHOR_PROFILE'] = "Профил на автора на съобщението";
+$MESS ['F_ATTACH_FILES'] = "Прикачени файлове";
+$MESS ['F_POINTS'] = "Оценки:";
+$MESS ['F_NUM_MESS'] = "Съобщения:";
+$MESS ['F_DATE_REGISTER'] = "Регистрация:";
+$MESS ['F_PRIVATE_MESSAGE'] = "Съобщение";
+$MESS ['F_PRIVATE_MESSAGE_TITLE'] = "Изпрати лично съобщение на автора";
+$MESS ['F_EMAIL_TITLE'] = "Изпрати писмо по E-Mail на автора";
+$MESS ['F_NO_VOTE_DO'] = "Гласувай";
+$MESS ['F_NO_VOTE_UNDO'] = "Отмени гласуването";
+$MESS ['F_REAL_IP'] = "/ реален";
+$MESS ['F_EDIT_HEAD'] = "Редактирано:";
+$MESS ['F_INSERT_NAME'] = "Постави в отговора името";
+$MESS ['F_NAME'] = "Име";
+$MESS ['F_SHOW_TOPIC'] = "Покажи темата";
+$MESS ['F_USER_ID'] = "ID на посетителя";
+$MESS ['F_USER_ID_USER'] = "ID на потребителя";
+?>

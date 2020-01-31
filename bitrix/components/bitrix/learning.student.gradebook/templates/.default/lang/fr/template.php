@@ -1,0 +1,19 @@
+<?
+$MESS ['LEARNING_PROFILE_NO'] = "non";
+$MESS ['LEARNING_PROFILE_ACTION'] = "Actions";
+$MESS ['LEARNING_ATTEMPT_NOT_FINISHED'] = "Essai inachevé";
+$MESS ['LEARNING_ATTEMPTS_TITLE'] = "Tentatives";
+$MESS ['LEARNING_PROFILE_ATTEMPTS'] = "Tentatives";
+$MESS ['LEARNING_PROFILE_TEST_DETAIL'] = "Liste des tentatives";
+$MESS ['LEARNING_BACK_TO_GRADEBOOK'] = "Retour à la liste ees tests";
+$MESS ['LEARNING_PROFILE_DATE_END'] = "Date d'achèvement";
+$MESS ['LEARNING_PROFILE_COURSE'] = "Cours";
+$MESS ['LEARNING_PROFILE_NO_DATA'] = "Aucune saisie";
+$MESS ['LEARNING_PROFILE_RESULT'] = "Réussi";
+$MESS ['LEARNING_PROFILE_QUESTIONS'] = "Questions";
+$MESS ['LEARNING_PROFILE_SCORE'] = "Classification";
+$MESS ['LEARNING_PROFILE_TEST'] = "Vérification";
+$MESS ['LEARNING_PROFILE_TIME_DURATION'] = "Temps pris";
+$MESS ['LEARNING_PROFILE_TRY'] = "Réessayer";
+$MESS ['LEARNING_PROFILE_YES'] = "Oui";
+?>

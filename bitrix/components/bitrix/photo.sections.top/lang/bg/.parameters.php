@@ -1,0 +1,30 @@
+<?
+$MESS["IBLOCK_SORT_SHOWS"] = "брой на прегледите в средно";
+$MESS["IBLOCK_SORT_SORT"] = "индекс на сортиране";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "Дата на промените";
+$MESS["IBLOCK_SORT_NAME"] = "име";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_DEPTH_LEVEL"] = "нивото на папката ";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "активно (до)";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "дата на активиране (от)";
+$MESS["IBLOCK_SORT_ASC"] = "по възходящ";
+$MESS["IBLOCK_SORT_DESC"] = "по низходящ";
+$MESS["IBLOCK_TYPE"] = "Тип на информационният блок";
+$MESS["IBLOCK_IBLOCK"] = "Информационен блок";
+$MESS["IBLOCK_SECTION_SORT_FIELD"] = "Поле за сортиране на разделите";
+$MESS["IBLOCK_SECTION_SORT_ORDER"] = "Поле за сортиране на разделите";
+$MESS["IBLOCK_SECTION_COUNT"] = "Максимален брой показвани раздели";
+$MESS["IBLOCK_SECTION_URL"] = "URL,на страницата със съдържанието на раздела";
+$MESS["IBLOCK_ELEMENT_COUNT"] = "Максимален брой показвани фотографии,във всеки раздел";
+$MESS["IBLOCK_LINE_ELEMENT_COUNT"] = "Брой на фотографиите,показвани в един ред на таблицата ";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Поле за сортиране на фотографиите";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Реда за сортиране на снимките в раздела";
+$MESS["IBLOCK_FILTER_NAME"] = "Име на входящият масив за филтрацията";
+$MESS["IBLOCK_CACHE_FILTER"] = "Кешира при поставен филтър";
+$MESS["IBLOCK_DETAIL_URL"] = "URL,на страницата със съдържанието на елементите в раздела";
+$MESS["IBLOCK_FIELD"] = "Поле";
+$MESS["IBLOCK_PROPERTY"] = "Свойства";
+$MESS["CP_BPST_CACHE_GROUPS"] = "С отчитане правата за достъп";
+$MESS["CP_BPST_SECTION_FIELDS"] = "Полета на разделите";
+$MESS["CP_BPST_SECTION_USER_FIELDS"] = "Свойства на разделите";
+?>

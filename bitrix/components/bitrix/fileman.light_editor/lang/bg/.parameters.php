@@ -1,0 +1,29 @@
+<?
+$MESS["LHE_GROUP_BASE_SETTINGS"] = "Основни настройки";
+$MESS["LHE_GROUP_VIDEO_SETTINGS"] = "Настройка на видеото";
+$MESS["LHE_GROUP_ADDITIONAL_SETTINGS"] = "Допълнителни настройки";
+$MESS["LHE_PAR_ID"] = "Служебен ID на елемента на управлението";
+$MESS["LHE_PAR_CONTENT"] = "Съдържание";
+$MESS["LHE_PAR_INPUT_NAME"] = "Име на елемента за управлението";
+$MESS["LHE_PAR_INPUT_ID"] = "ID на елемента за управлението";
+$MESS["LHE_PAR_WIDTH"] = "Ширина на редактора";
+$MESS["LHE_PAR_HEIGHT"] = "Височина на редактора";
+$MESS["LHE_PAR_ADVANCED_MODE"] = "Разширен режим за настройка на компонента";
+$MESS["LHE_PAR_USE_FILE_DIALOGS"] = "Разреши използването на файловият диалог";
+$MESS["LHE_PAR_JS_OBJ_NAME"] = "Име на Javascript-обекта";
+$MESS["LHE_PAR_VIDEO_ONLY_FLV"] = " (Само за Flash-плеъра)";
+$MESS["LHE_PAR_VIDEO_ONLY_WMV"] = " (Само за Silverlight-плеъра)";
+$MESS["LHE_PAR_VIDEO_ALLOW_VIDEO"] = "Разрешаване на видео";
+$MESS["LHE_PAR_VIDEO_MAX_WIDTH"] = "Максимална ширина на видеото";
+$MESS["LHE_PAR_VIDEO_MAX_HEIGHT"] = "Максимална височина на видеото";
+$MESS["LHE_PAR_VIDEO_WMODE"] = "Режим на прозореца (WMode)";
+$MESS["LHE_PAR_WMODE_WINDOW"] = "Нормален";
+$MESS["LHE_PAR_WMODE_OPAQUE"] = "Не прозрачен";
+$MESS["LHE_PAR_WMODE_TRANSPARENT"] = "Прозрачен";
+$MESS["LHE_PAR_VIDEO_WINDOWLESS"] = "Режим на прозореца (windowless)";
+$MESS["LHE_PAR_VIDEO_BUFFER"] = "Размер на буфера в секунди";
+$MESS["LHE_PAR_VIDEO_SKIN"] = "Път към скина";
+$MESS["LHE_PAR_VIDEO_LOGO"] = "Път към изображението на авторският знак";
+$MESS["LHE_PAR_RESIZABLE"] = "Разреши на ползващия да променя височината на областта на редактиране";
+$MESS["LHE_PAR_AUTO_RESIZE"] = "Автоматично увеличаване на областта на редактиране при въвеждане на текст";
+?>

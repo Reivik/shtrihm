@@ -1,0 +1,40 @@
+div.learning_tree {
+	display: block;
+}
+div.learning_tree span {
+	padding: 0 4px;
+}
+div.learning_tree a, div.learning_tree span {
+	float: left;
+}
+div.learn-course-start
+{
+	width:17px;
+	height:17px;
+	float:left;
+	background-repeat:no-repeat;
+	background-image:url(images/arrow.gif);
+	margin-top: 4px;
+}
+
+div.learn-course-back, div.learn-course-next
+{
+	width:7px;
+	height:10px;
+	background-repeat:no-repeat;
+	margin-top: 9px;
+}
+
+div.learn-course-back
+{
+	float:left;
+	background-image:url(images/arr_left.gif);
+	margin-right: 4px;
+}
+div.learn-course-next
+{
+	display:inline;
+	background-image:url(images/arr_right.gif);
+	float: left;
+	margin-left: 4px;
+}

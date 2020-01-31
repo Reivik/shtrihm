@@ -1,0 +1,37 @@
+<?
+$MESS["F_HAVE_NEW_MESS"] = "Nuevos envìos!";
+$MESS["F_NO_NEW_MESS"] = "No hay nuevos envìos";
+$MESS["F_CREATE_NEW_TOPIC"] = "Agregar nuevo tema";
+$MESS["F_MESSAGE_NOT_APPROVED"] = "Mensajes no aprobados";
+$MESS["F_PINNED"] = "Pegado";
+$MESS["F_SUBSCRIBE"] = "Suscribir";
+$MESS["F_HEAD_TOPICS"] = "Temas";
+$MESS["F_HEAD_POSTS"] = "Correos";
+$MESS["F_HEAD_VIEWS"] = "Opiniones";
+$MESS["F_HEAD_LAST_POST"] = "Último correo";
+$MESS["F_NEW_TOPIC"] = "Agregar nuevo tema";
+$MESS["F_NEW_TOPIC_TITLE"] = "Agregar nuevo tema en este foro";
+$MESS["F_CLOSED"] = "Cerrado";
+$MESS["F_CLOSED_TOPIC"] = "El tema ha sido cerrado";
+$MESS["F_MOVED"] = "Movido";
+$MESS["F_MOVED_TOPIC"] = "El tema ha sido movido";
+$MESS["F_AUTHOR"] = "autor:";
+$MESS["F_SET_FORUM_READ"] = "Marcar todos los correos como leídos";
+$MESS["F_SELECT_ALL"] = "Seleccionar todo";
+$MESS["JS_DEL_TOPICS"] = "Esto eliminará los temas irreversiblemente. ¿Continuar?";
+$MESS["JS_NO_TOPICS"] = "Temas no han sido seleccionados. Por favor, seleccionar temas.";
+$MESS["F_SUBSCRIBE_TO_NEW_POSTS"] = "Suscríbase para nuevos correos";
+$MESS["F_PINNED_TOPIC"] = "Depositado";
+$MESS["F_PINNED_CLOSED_TOPIC"] = "Tema cerrado depositado";
+$MESS["F_MANAGE_TOPICS"] = "Administrar temas";
+$MESS["F_MANAGE_PIN"] = "Temas depositados";
+$MESS["F_MANAGE_UNPIN"] = "Temas no depositados";
+$MESS["F_MANAGE_OPEN"] = "Abrir temas";
+$MESS["F_MANAGE_CLOSE"] = "Cerrar temas";
+$MESS["F_MANAGE_MOVE"] = "Mover temas";
+$MESS["F_MANAGE_DELETE"] = "Borrar temas";
+$MESS["JS_NO_ACTION"] = "No hay acción seleccionada para ser realizadas en los temas. Por favor, seleccione una acción.";
+$MESS["F_NO_TOPICS_HERE"] = "No hay temas aquí.";
+$MESS["F_HEAD_AUTHOR"] = "Autor";
+$MESS["F_TOPIC_START"] = "Fecha de inicio";
+?>

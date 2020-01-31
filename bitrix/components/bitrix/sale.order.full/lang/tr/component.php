@@ -1,0 +1,36 @@
+<?
+$MESS ['SALE_MODULE_NOT_INSTALL'] = "Dükkan modülü kurulu değildir.";
+$MESS ['SALE_BASKET_EMPTY'] = "Sizin sepetiniz boş";
+$MESS ['SALE_NO_PERS_TYPE'] = "Ödeyenin türü seçilmemiştir.";
+$MESS ['SALE_PERS_TYPE_NOT_FOUND'] = "Ödeyenin türü bulunmamıştır.";
+$MESS ['SALE_EMPTY_FIELD'] = "Alan doldurulmamıştır";
+$MESS ['SALE_DELIVERY_NOT_FOUND'] = "Teslimat yöntemi bulunamadı.";
+$MESS ['SALE_NO_PAY_SYS'] = "Ödeme yöntemi seçilmedi.";
+$MESS ['SALE_PAY_SYS_NOT_FOUND'] = "Ödeme yöntemi bulunamadı.";
+$MESS ['SALE_ERROR_ADD_ORDER'] = "Sipariş kaydında hata.";
+$MESS ['SALE_PROFILE_NAME'] = "Profil";
+$MESS ['SALE_QUANTITY_UNIT'] = "adt.";
+$MESS ['SALE_DELIV_PERIOD'] = "Teslimat süresi";
+$MESS ['SALE_FROM'] = "den";
+$MESS ['SALE_TO'] = "kadar";
+$MESS ['SALE_PER_DAY'] = "gün";
+$MESS ['SALE_PER_HOUR'] = "saat";
+$MESS ['SALE_PER_MONTH'] = "ay";
+$MESS ['SALE_YES'] = "Evet";
+$MESS ['SALE_NO'] = "Hayır";
+$MESS ['SALE_TAX_INPRICE'] = "fiyata dahil edildi";
+$MESS ['STOF_ERROR_AUTH_LOGIN'] = "Kayıtlı kullanıcının yetkilendirmesinde hata: kullanıcı adınızı giriniz";
+$MESS ['STOF_ERROR_AUTH'] = "Kayıtlı kullanıcının yetkilendirmesinde hata";
+$MESS ['STOF_ERROR_REG_NAME'] = "Yeni kullanıcı kaydında hata: kendi adınızı giriniz";
+$MESS ['STOF_ERROR_REG_LASTNAME'] = "Yeni kullanıcı kaydında hata: kendi soyadınızı giriniz";
+$MESS ['STOF_ERROR_REG_EMAIL'] = "Yeni kullanıcı kaydında hata: E-Mail adresinizi giriniz";
+$MESS ['STOF_ERROR_REG_BAD_EMAIL'] = "Yeni kullanıcı kaydında hata:E-Mail adresin doğruluğunu kontrol ediniz";
+$MESS ['STOF_ERROR_REG_FLAG'] = "Yeni kullanıcı kaydında hata: istediğiniz kullanıcı adı giriniz veya sisteme otomatik olarak oluşturmasına izin veriniz";
+$MESS ['STOF_ERROR_REG_FLAG1'] = "Yeni kullanıcı kaydında hata: istediğiniz şifre giriniz ?veya sisteme otomatik olarak oluşturmasına izin veriniz";
+$MESS ['STOF_ERROR_REG_PASS'] = "Yeni kullanıcı kaydında hata: şifrenin tekrarı şifre ile eşleşmemektedir ";
+$MESS ['STOF_ERROR_REG'] = "Yeni kullanıcı kaydında hata";
+$MESS ['STOF_AUTH'] = "Yetkilendirme";
+$MESS ['STOF_MAKING_ORDER'] = "Siparişin düzenlenmesi";
+$MESS ['INFO_REQ'] = "Başarı ile kaydedildiniz.";
+$MESS ['STOF_VAT'] = "KDV";
+?>

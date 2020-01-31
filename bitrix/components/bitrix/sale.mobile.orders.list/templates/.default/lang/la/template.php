@@ -1,0 +1,18 @@
+<?
+$MESS["PULL_TEXT"] = "Pulse para actualizar...";
+$MESS["DOWN_TEXT"] = "Suelte para actualizar...";
+$MESS["LOAD_TEXT"] = "Actualizando ...";
+$MESS["SMOL_ORDERS"] = "Pedidos";
+$MESS["SMOL_FILTER_PAY"] = "Por el pago";
+$MESS["SMOL_FILTER_DELIVERY"] = "Por envío";
+$MESS["SMOL_ALL_ORDERS"] = "Todos los pedidos";
+$MESS["SMOL_WAITING_FOR_PAY"] = "Aún no pagado";
+$MESS["SMOL_WAITING_FOR_DELIVERY"] = "Aún no enviado";
+$MESS["SMOL_MOBILEAPP_NOT_INSTALLED"] = "El módulo mobileapp no está instalado";
+$MESS["SMOL_PRODUCTS_COUNT"] = "productos";
+$MESS["SMOL_SUMM"] = "Total";
+$MESS["SMOL_FROM"] = "de";
+$MESS["SMOL_N"] = "No.";
+$MESS["SMOL_CHOOSE_FIELDS"] = "Seleccione los campos";
+$MESS["SMOL_NO_ORDERS"] = "Actualmente no hay órdenes";
+?>

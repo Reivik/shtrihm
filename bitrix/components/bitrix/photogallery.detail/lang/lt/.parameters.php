@@ -1,0 +1,35 @@
+<?
+$MESS['IBLOCK_TYPE'] = 'Informacinio bloko tipas';
+$MESS['IBLOCK_IBLOCK'] = 'Informacinis blokas';
+$MESS['IBLOCK_SECTION_URL'] = 'Albumas';
+$MESS['IBLOCK_DETAIL_URL'] = 'Nuotrauka';
+$MESS['IBLOCK_DETAIL_EDIT_URL'] = 'Nuotrauka (redagavimas)';
+$MESS['IBLOCK_ELEMENT_CODE'] = 'Elemento kodas';
+$MESS['IBLOCK_ELEMENT_ID'] = 'Elemento ID';
+$MESS['IBLOCK_SECTION_CODE'] = 'Skyriaus kodas';
+$MESS['IBLOCK_SECTION_ID'] = 'Skyriaus ID';
+$MESS['T_IBLOCK_DESC_NEWS_PANEL'] = 'Atvaizduoti šio komponento valdymo mygtukus';
+$MESS['IBLOCK_ELEMENT_SORT_FIELD'] = 'Rūšiuoti nuotraukas pagal';
+$MESS['IBLOCK_ELEMENT_SORT_ORDER'] = 'Nuotraukų rūšiavimo tvarka skyriuje';
+$MESS['IBLOCK_SORT_ASC'] = 'didėjančia';
+$MESS['IBLOCK_SORT_DESC'] = 'mažėjančia';
+$MESS['IBLOCK_SORT_ID'] = 'ID';
+$MESS['IBLOCK_SORT_SHOWS'] = 'peržiūrų skaičius vidutiniškai';
+$MESS['IBLOCK_SORT_SORT'] = 'rūšiavimo indeksas';
+$MESS['IBLOCK_SORT_TIMESTAMP'] = 'atnaujinta';
+$MESS['IBLOCK_SORT_NAME'] = 'pavadinimas';
+$MESS['IBLOCK_SORT_RATING'] = 'reitingas';
+$MESS['IBLOCK_SORT_COMMENTS'] = 'komentarai';
+$MESS['T_DATE_TIME_FORMAT'] = 'Datos formatas';
+$MESS['P_SHOW_TAGS'] = 'Atvaizduoti žymes';
+$MESS['P_COMMENTS_TYPE'] = 'Komentarų komponentas';
+$MESS['P_COMMENTS_TYPE_BLOG'] = 'Tinklaraščiai';
+$MESS['P_COMMENTS_TYPE_FORUM'] = 'Forumas';
+$MESS['IBLOCK_SEARCH_URL'] = 'Paieškos puslapis';
+$MESS['T_IBLOCK_DESC_USE_PERMISSIONS'] = 'Naudoti papildomus priėjimo apribojimus';
+$MESS['T_IBLOCK_DESC_GROUP_PERMISSIONS'] = 'Naudotojų grupės kurioms leidžiama prieiti prie detalios informacijos';
+$MESS['IBLOCK_BEHAVIOUR'] = 'Galerijos režimas';
+$MESS['IBLOCK_BEHAVIOUR_SIMPLE'] = 'paprastas';
+$MESS['IBLOCK_BEHAVIOUR_USER'] = 'daugelio naudotojų';
+$MESS['IBLOCK_USER_ALIAS'] = 'Galerijos kodas';
+?>

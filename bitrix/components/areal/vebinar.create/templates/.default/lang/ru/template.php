@@ -1,0 +1,30 @@
+<?
+$MESS["NAME"] = "Название вебинара";
+$MESS["PREVIEW_TEXT"] = "Описание вебинара";
+$MESS["PREVIEW_PICTURE"] = "Фото";
+$MESS["DOWNLOAD"] = "Загрузить";
+$MESS["DATE_ACTIVE_FROM"] = "Дата и время начала";
+$MESS["LEADING"] = "Ведущий";
+$MESS["CATEGORY"] = "Категория";
+$MESS["SELECT_CATEGORY"] = "Каталог продуктов";
+$MESS["DURATION"] = "Продолжительность, мин";
+$MESS["VEBINAR_INFO"] = "Общие данные";
+$MESS["NO_INVITE"] = "Открытый вебинар (регистрация без приглашения)";
+$MESS["TOP"] = "Топ-вебинар";
+$MESS["ACTIVE"] = "Опубликовать";
+$MESS["PARTICIPANT"] = "Участники вебинара";
+$MESS["SELECT_PARTNER"] = "Выберите партнера";
+$MESS["ALL_PARTNERS"] = "Все партнеры";
+$MESS["GROUP_BY"] = "По группе доступа";
+$MESS["DIRECTION_BY"] = "По направлению деятельности партнера";
+$MESS["UG_PP"] = "Простой партнер";
+$MESS["UG_PO"] = "Партнерский отдел";
+$MESS["UG_YC"] = "Учебный центр";
+$MESS["UG_TP"] = "Техподдержка";
+$MESS["SAVE"] = "Создать вебинар";
+$MESS["SUCCESS_SAVE"] = "Вебинар создан. Всем участникам разосланы приглашения.";
+$MESS["PARTNERS"] = "Партнеры";
+$MESS["ALL_USERS"] = "Все зарегистрированные пользователи";
+$MESS["CHOOSE_USER"] = "Укажите группы пользователей, для которых организован данный вебинар";
+$MESS["LIST_VEBINAR"] = "Вернуться в <a href='/partners_info/learning/webinars/' title='Список вебинаров'>список вебинаров</a>.";
+?>

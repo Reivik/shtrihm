@@ -1,0 +1,35 @@
+<?
+$MESS ['B_B_MS_SUBJECT'] = "Sujet&nbsp;:";
+$MESS ['BPC_IMAGE'] = "Couleur ";
+$MESS ['BPC_UNDER'] = "Souligné";
+$MESS ['B_B_MS_ADD_COMMENT'] = "Ajouter  un commentaire";
+$MESS ['BPC_MES_DELETE_POST_CONFIRM'] = "Sûr de supprimer ce commentaire&nbsp;?";
+$MESS ['BPC_BOLD'] = "Gras";
+$MESS ['BPC_CLOSE_OPENED_TAGS'] = "Fermer tous les libellés ouverts";
+$MESS ['BPC_CLOSE_ALL_TAGS'] = "Fermer tous les libellés";
+$MESS ['BPC_CODE'] = "Code";
+$MESS ['BPC_LIST'] = "Créer une liste";
+$MESS ['BPC_TEXT_ENTER_URL'] = "Saisissez une adresse complète (URL)";
+$MESS ['BPC_TEXT_ENTER_URL_NAME'] = "Saisissez le nom du site";
+$MESS ['BPC_TEXT_ENTER_IMAGE'] = "Saisissez l'adresse complète (URL) de l'image";
+$MESS ['BPC_LIST_PROMPT'] = "Saisissez un élément de liste. Cliquez 'Annuler' ou placez un espace pour clore la liste";
+$MESS ['BPC_FONT'] = "Police";
+$MESS ['B_B_MS_FROM'] = "de";
+$MESS ['BPC_HYPERLINK'] = "Hyperlien";
+$MESS ['BLOG_P_INSERT_IMAGE_LINK'] = "Insérer un lien vers l'image";
+$MESS ['BPC_ITALIC'] = "Italique";
+$MESS ['B_B_MS_LINK'] = "Lien";
+$MESS ['B_B_MS_NAME'] = "Nom&nbsp;:";
+$MESS ['BPC_PAGE_OF'] = "de";
+$MESS ['BPC_PAGE'] = "Page&nbsp;:";
+$MESS ['BPC_ERROR_NO_URL'] = "Veuillez indiquer l'adresse (URL)";
+$MESS ['BPC_ERROR_NO_TITLE'] = "Veuillez saisir le titre";
+$MESS ['B_B_MS_M_BODY'] = "Contribution&nbsp;:";
+$MESS ['B_B_MS_PREVIEW'] = "Aperçu";
+$MESS ['B_B_MS_PREVIEW_TITLE'] = "Aperçu";
+$MESS ['BPC_QUOTE'] = "Citation";
+$MESS ['B_B_MS_REPLY'] = "Réponse";
+$MESS ['B_B_MS_SEND'] = "Envoyer";
+$MESS ['B_B_MS_CAPTCHA_SYM'] = "Symbolique sur illustration&nbsp;:";
+$MESS ['BLOG_CATEGORY_NAME'] = "Nom de libellé";
+?>

@@ -1,0 +1,90 @@
+.row .bx-filter-parameters-box {
+    position: relative;
+}
+
+.row .bx-filter-parameters-box .bx-filter-parameters-box-title {
+    font-size: 13px;
+    padding-bottom: 7px;
+}
+
+.row .bx-filter-parameters-box .bx-filter-parameters-box-title .bx-filter-parameters-box-hint {
+    color: #039be5;
+    border-bottom: 1px solid transparent;
+    cursor: pointer;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block {
+    display: block;
+    transition: padding .3s ease;
+    box-sizing: content-box;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container {
+    padding-bottom: 20px;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container .col-xs-12 .bx-filter-select-container {
+    display: block;
+    box-sizing: border-box;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid #ccd5db;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container .col-xs-12 .bx-filter-select-container .bx-filter-select-block {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    height: 33px;
+    margin: 0;
+    padding: 0 33px 0 10px;
+    border: 0;
+    border-radius: 2px;
+    background: #ffffff;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container .col-xs-12 .bx-filter-select-container .bx-filter-select-block .bx-filter-select-text {
+    font-size: 15px;
+    line-height: 33px;
+    overflow: hidden;
+    max-width: 100%;
+    height: 33px;
+    cursor: pointer;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container .col-xs-12 .bx-filter-select-container .bx-filter-select-block .bx-filter-select-arrow {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 34px;
+    height: 33px;
+    cursor: pointer;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAECAYAAABCxiV9AAAAG0lEQVQY02OYOXPmf1yYAQRwSsAATglkBch8ADy7LKHqFrgoAAAAAElFTkSuQmCC) no-repeat center;
+}
+
+.row .bx-filter-parameters-box .bx-filter-block .bx-filter-parameters-box-container .col-xs-12 .bx-filter-select-container .bx-filter-select-block .bx-filter-select-popup {
+    background: #fff;
+    padding: 0;
+    min-width: 173px;
+}
+
+.bx-filter-select-popup .bx-filter-param-label {
+    min-height: 20px;
+    font-weight: normal;
+    cursor: pointer;
+    float: left;
+    display: block;
+    margin-right: 5px;
+}
+
+.bx-filter-select-popup .bx-filter-param-label:hover {
+    color: #f07825;
+}
+
+.popup-window-center-column {
+	
+}

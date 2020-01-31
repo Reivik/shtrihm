@@ -1,0 +1,1 @@
+<img src="/images/logo_new.png" alt="Логотип Штрих-М" height="80" title="Штрих-М" />

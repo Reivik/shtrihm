@@ -1,0 +1,35 @@
+<?
+$MESS["IBLOCK_PRICES"] = "Precios";
+$MESS["T_IBLOCK_DESC_ELEMENT_BOX"] = "Muestra lista de elemento";
+$MESS["IBLOCK_TYPE"] = "Tipo de Block de Información";
+$MESS["IBLOCK_IBLOCK"] = "Block de Información";
+$MESS["IBLOCK_PROPERTY"] = "Propiedades";
+$MESS["IBLOCK_SORT_SHOWS"] = "muestra promedios";
+$MESS["IBLOCK_SORT_SORT"] = "clasificación de índice";
+$MESS["IBLOCK_SORT_TIMESTAMP"] = "modificación de fecha";
+$MESS["IBLOCK_SORT_NAME"] = "nombre";
+$MESS["IBLOCK_SORT_ID"] = "ID";
+$MESS["IBLOCK_SORT_ACTIVE_FROM"] = "activo desde";
+$MESS["IBLOCK_SORT_ACTIVE_TO"] = "activo desde";
+$MESS["IBLOCK_SORT_ASC"] = "ascendente";
+$MESS["IBLOCK_SORT_DESC"] = "descendente";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD"] = "Campo para clasificar elementos";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER"] = "Clasificación de orden para elementos";
+$MESS["IBLOCK_PRICE_CODE"] = "Tipo de precio";
+$MESS["IBLOCK_BASKET_URL"] = "URL de la página con carrito de compras";
+$MESS["IBLOCK_ACTION_VARIABLE"] = "\"Acciones\" nombre del parámetro";
+$MESS["IBLOCK_PRODUCT_ID_VARIABLE"] = "\"Código del prducto\" nombre del parámetro";
+$MESS["IBLOCK_SECTION_ID_VARIABLE"] = "\"Código de la sección\" nombre del parámetro";
+$MESS["IBLOCK_USE_PRICE_COUNT"] = "Muestra cantidad para rango de precios";
+$MESS["IBLOCK_SHOW_PRICE_COUNT"] = "Muestra precio para cantidad";
+$MESS["IBLOCK_DETAIL_URL"] = "URL de la página con el detalle del contenido";
+$MESS["IBLOCK_ELEMENT_SORT_FIELD_BOX"] = "Campo para clasificar elementos en la caja seleccionada";
+$MESS["IBLOCK_ELEMENT_SORT_ORDER_BOX"] = "Clasificar orden para los elementos";
+$MESS["IBLOCK_COMPARE_NAME"] = "Nombre único para la lista de comparación";
+$MESS["IBLOCK_FIELD"] = "Campos";
+$MESS["IBLOCK_VAT_INCLUDE"] = "Incluír tasa de impuesto en el precio";
+$MESS["CP_BCCR_OFFERS_FIELD_CODE"] = "Campos del SKU";
+$MESS["CP_BCCR_OFFERS_PROPERTY_CODE"] = "Propidades del SKU";
+$MESS["CP_BCCR_CONVERT_CURRENCY"] = "Utilice sólo una moneda para mostrar precios";
+$MESS["CP_BCCR_CURRENCY_ID"] = "Convertir todos los precios en moneda";
+?>

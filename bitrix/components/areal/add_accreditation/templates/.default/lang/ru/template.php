@@ -1,0 +1,38 @@
+<?
+$MESS["STEP_1"] = "Шаг 1";
+$MESS["STEP_2"] = "Шаг 2";
+$MESS["STEP_3"] = "Шаг 3";
+$MESS["COMPANY_NAME"] = "Название компании";
+$MESS["COMPANY_INN"] = "ИНН";
+$MESS["COMPANY_KPP"] = "КПП";
+$MESS["REGION"] = "Регион";
+$MESS["TOWN"] = "Город";
+$MESS["CONTINUE"] = "Продолжить";
+$MESS["BACK"] = "Вернуться";
+$MESS["KKT"] = "Список ККТ";
+$MESS["SUCCESS_SAVE"] = "Спасибо! Ваша заявка отправлена ответственному сотруднику.";
+$MESS["NEW_APP"] = "Вы можете оставить <a href='/partners_info/service_centers/accreditation/' title='новую заявку'>новую заявку.</a>";
+$MESS["HEAD"] = "Руководитель организации";
+$MESS["HEAD_NAME"] = "ФИО";
+$MESS["HEAD_POSITION"] = "Должность";
+$MESS["HEAD_DOCUMENT"] = "Документ, на основании которого действует";
+$MESS["LEGAL_ADDRESS"] = "Юридический адрес";
+$MESS["POSTAL_ADDRESS"] = "Почтовый адрес";
+$MESS["ACTUAL_ADDRESS"] = "Фактический адрес";
+$MESS["INDEX"] = "Индекс";
+$MESS["ADDRESS"] = "Адрес";
+$MESS["BANK_DETAILS"] = "Банковские реквизиты";
+$MESS["RASCH_SCHET"] = "Расчетный счет";
+$MESS["KORR_SCHET"] = "Корреспондентский счет";
+$MESS["BIK"] = "БИК";
+$MESS["BANK_NAME"] = "Наименование банка";
+$MESS["CONTACT_DATA"] = "Контактные данные";
+$MESS["PHONE"] = "Телефон";
+$MESS["FAX"] = "Факс";
+$MESS["WWW"] = "WWW";
+$MESS["EMAIL"] = "Email";
+$MESS["CONTACT_PERSON"] = "Контактное лицо";
+$MESS["ADD"] = "Добавить";
+$MESS["STAFFS"] = "Просим подготовить и аттестовать следующих специалистов предприятия";
+$MESS["NAME"] = "ФИО мастера";
+?>

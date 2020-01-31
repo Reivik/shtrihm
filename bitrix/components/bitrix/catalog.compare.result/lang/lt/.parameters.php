@@ -1,0 +1,31 @@
+<?
+$MESS['IBLOCK_PRICES'] = 'Kainos';
+$MESS['T_IBLOCK_DESC_ELEMENT_BOX'] = 'Atvaizduoja elementų sąrašą';
+$MESS['IBLOCK_TYPE'] = 'Informacinio bloko tipas';
+$MESS['IBLOCK_IBLOCK'] = 'Informacinis blokas';
+$MESS['IBLOCK_PROPERTY'] = 'Savybės';
+$MESS['IBLOCK_SORT_SHOWS'] = 'peržiūrų skaičius vidutiniškai';
+$MESS['IBLOCK_SORT_SORT'] = 'rūšiavimo indeksas';
+$MESS['IBLOCK_SORT_TIMESTAMP'] = 'atnaujinta';
+$MESS['IBLOCK_SORT_NAME'] = 'pavadinimas';
+$MESS['IBLOCK_SORT_ID'] = 'ID';
+$MESS['IBLOCK_SORT_ACTIVE_FROM'] = 'aktyvumo pradžios data';
+$MESS['IBLOCK_SORT_ACTIVE_TO'] = 'aktyvumo pabaigos data';
+$MESS['IBLOCK_SORT_ASC'] = 'didėjančia';
+$MESS['IBLOCK_SORT_DESC'] = 'mažėjančia';
+$MESS['IBLOCK_ELEMENT_SORT_FIELD'] = 'Elementų rūšiavimas pagal laukas';
+$MESS['IBLOCK_ELEMENT_SORT_ORDER'] = 'Elementų rūšiavimo tvarka';
+$MESS['IBLOCK_PRICE_CODE'] = 'Kainos tipas';
+$MESS['IBLOCK_BASKET_URL'] = 'URL, vedantis į puslapį su pirkėjo krepšeliu';
+$MESS['IBLOCK_ACTION_VARIABLE'] = 'Kintamojo pavadinimas kuriame perduodamas veiksmas';
+$MESS['IBLOCK_PRODUCT_ID_VARIABLE'] = 'Kintamojo pavadinimas kuriame perduodamas pirkinio kodas';
+$MESS['IBLOCK_SECTION_ID_VARIABLE'] = 'Kintamojo pavadinimas kuriame perduodamas grupės kodas';
+$MESS['IBLOCK_USE_PRICE_COUNT'] = 'Atvaizduoti kainų diapazoną';
+$MESS['IBLOCK_SHOW_PRICE_COUNT'] = 'Atvaizduoti kiekio kainas';
+$MESS['IBLOCK_DETAIL_URL'] = 'URL, vedantis į puslapį su skyriaus elemento turiniu';
+$MESS['IBLOCK_ELEMENT_SORT_FIELD_BOX'] = 'Elementų sąrašo rūšiavimo laukas';
+$MESS['IBLOCK_ELEMENT_SORT_ORDER_BOX'] = 'Elementų sąrašo rūšiavimo eiliškumas';
+$MESS['IBLOCK_COMPARE_NAME'] = 'Palyginimo sąrašo unikalus pavadinimas';
+$MESS['IBLOCK_FIELD'] = 'Laukai';
+$MESS['IBLOCK_VAT_INCLUDE'] = 'Įtraukti į kainą PVM';
+?>

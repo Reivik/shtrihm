@@ -1,0 +1,30 @@
+<?
+$MESS["MYMS_PARAM_KEY"] = "Ключ за достъп";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE"] = "Стартов тип карта";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_MAP"] = "Схема";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_SATELLITE"] = "Сателит";
+$MESS["MYMS_PARAM_INIT_MAP_TYPE_HYBRID"] = "Хибрид";
+$MESS["MYMS_PARAM_OPTIONS"] = "Настройки";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_SCROLL_ZOOM"] = "прамяна на мащаба с колелото на мишката";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_DBLCLICK_ZOOM"] = "промяна на мащаба с двоен клик";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_DRAGGING"] = "преместване на картата";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_HOTKEYS"] = "горещи клавиши";
+$MESS["MYMS_PARAM_OPTIONS_ENABLE_RULER"] = "инструмент \"линийка\"";
+$MESS["MYMS_PARAM_CONTROLS"] = "Контрол";
+$MESS["MYMS_PARAM_CONTROLS_TOOLBAR"] = "Панел за инструменти";
+$MESS["MYMS_PARAM_CONTROLS_ZOOM"] = "Приплъзване на мащаба";
+$MESS["MYMS_PARAM_CONTROLS_SMALLZOOM"] = "Бутони на мащаба";
+$MESS["MYMS_PARAM_CONTROLS_MINIMAP"] = "Мини карта";
+$MESS["MYMS_PARAM_CONTROLS_TYPECONTROL"] = "Тип карта";
+$MESS["MYMS_PARAM_CONTROLS_SCALELINE"] = "Скала на мащаба";
+$MESS["MYMS_PARAM_DATA"] = "Данни на картата";
+$MESS["MYMS_PARAM_DATA_DEFAULT_LAT"] = "55.7383";
+$MESS["MYMS_PARAM_DATA_DEFAULT_LON"] = "37.5946";
+$MESS["MYMS_PARAM_DATA_SET"] = "промени";
+$MESS["MYMS_PARAM_DATA_NO_KEY"] = "Не е зададен ключ за картата!";
+$MESS["MYMS_PARAM_DATA_GET_KEY"] = "Получи ключ за достъп";
+$MESS["MYMS_PARAM_DATA_GET_KEY_URL"] = "http://api.yandex.ru/maps/form.xml";
+$MESS["MYMS_PARAM_MAP_HEIGHT"] = "Височина на картата";
+$MESS["MYMS_PARAM_MAP_WIDTH"] = "Ширина на картата";
+$MESS["MYMS_PARAM_MAP_ID"] = "Индефикатор на картата";
+?>

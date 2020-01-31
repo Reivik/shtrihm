@@ -1,0 +1,14 @@
+.pageCont .block {background:url(../images/shadow.png) 0 100% repeat-x; padding:0 0 10px}
+.pageCont .blockCont {padding:9px; border:1px solid #c6c6c6; position:relative; background: #FFF;}
+
+.pageCont .slider {width:710px; float:left; margin:0 0 19px; position:relative; z-index:1}
+
+.pageCont .sliderItems {width:690px; height:320px; overflow:hidden; position:relative; *zoom:1; padding: 0;}
+.pageCont .sliderItems li {position:absolute; background: none; padding: 0; }
+.pageCont .slideText {position:absolute; left:0; bottom:0; width:346px; background:url(../images/slideText.png) 0 0 no-repeat; padding:18px 0 22px 344px; overflow:hidden; *zoom:1; line-height:16px; font-size:13px}
+.pageCont .slideText h2 {font:24px/22px 'ArialBlack'; color:#353535; text-transform:uppercase; width:335px; margin:0 0 0 -344px; float:left; padding:0 0 0 9px}
+
+.pageCont .sliderNav {position:absolute; right:22px; top:22px; background: none; padding: 0; margin: 0;}
+.pageCont .sliderNav li {float:left; width:14px; height:14px; margin:0 0 0 3px; background: none; padding: 0;}
+.pageCont .sliderNav li a {float:left; width:14px; height:14px; background:url(../images/item.png) 0 -14px no-repeat; text-indent:-500px; overflow:hidden; position:relative; *zoom:1}
+.pageCont .sliderNav li a.current {background-position:0 0}

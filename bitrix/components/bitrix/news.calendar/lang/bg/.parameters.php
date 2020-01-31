@@ -1,0 +1,29 @@
+<?
+$MESS ['T_IBLOCK_DESC_LIST_ID'] = "Код на информационният блок";
+$MESS ['T_IBLOCK_DESC_LIST_TYPE'] = "Тип на информационният блок (използва се само за проверка)";
+$MESS ['T_IBLOCK_DESC_CAL_MVN'] = "Име на променливата за месеца";
+$MESS ['T_IBLOCK_DESC_CAL_YVN'] = "Име на променливата за годината";
+$MESS ['T_IBLOCK_DESC_CAL_WS'] = "Начало на седмицата";
+$MESS ['T_IBLOCK_DESC_CAL_WS_0'] = "Неделя";
+$MESS ['T_IBLOCK_DESC_CAL_WS_1'] = "Понеделник";
+$MESS ['T_IBLOCK_DESC_CAL_WS_2'] = "Вторник";
+$MESS ['T_IBLOCK_DESC_CAL_WS_3'] = "Сряда";
+$MESS ['T_IBLOCK_DESC_CAL_WS_4'] = "Четвъртък";
+$MESS ['T_IBLOCK_DESC_CAL_WS_5'] = "Петък";
+$MESS ['T_IBLOCK_DESC_CAL_WS_6'] = "Събота";
+$MESS ['T_IBLOCK_DESC_CAL_DATE_FIELD'] = "Поле за датата";
+$MESS ['T_IBLOCK_DESC_CAL_TYPE'] = "Тип на календара";
+$MESS ['T_IBLOCK_DESC_CAL_TYPE_EVENTS'] = "За събития";
+$MESS ['T_IBLOCK_DESC_CAL_TYPE_NEWS'] = "За новини";
+$MESS ['T_IBLOCK_DESC_CAL_SHOW_YEAR'] = "На прехода от година на година";
+$MESS ['T_IBLOCK_DESC_CAL_SHOW_TIME'] = "Показва часа на новините";
+$MESS ['T_IBLOCK_DESC_CAL_DATE_ACTIVE_FROM'] = "Активност дата (От)";
+$MESS ['T_IBLOCK_DESC_CAL_DATE_ACTIVE_TO'] = "Активност дата (до)";
+$MESS ['T_IBLOCK_DESC_CAL_TIMESTAMP_X'] = "Датата на последните промени";
+$MESS ['T_IBLOCK_DESC_CAL_DATE_CREATE'] = "Дата на създаване";
+$MESS ['T_IBLOCK_DESC_CAL_TITLE_LEN'] = "Дължина на заглавието (0 - не ограничава)";
+$MESS ['T_IBLOCK_DESC_CAL_SHOW_CURRENT_DATE'] = "Показва текущия месец и година";
+$MESS ['T_IBLOCK_DESC_CAL_SHOW_MONTH_LIST'] = "Показва падащ списък на месеца";
+$MESS ['T_IBLOCK_DESC_CAL_NEWS_COUNT'] = "Брой на новините в ден (0 - не ограничава)";
+$MESS ['IBLOCK_DETAIL_URL'] = "URL на страницата с подробно съдържание";
+?>

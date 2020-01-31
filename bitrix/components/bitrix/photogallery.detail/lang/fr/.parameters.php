@@ -1,0 +1,35 @@
+<?
+$MESS ['IBLOCK_SORT_ID'] = "ID";
+$MESS ['IBLOCK_SECTION_URL'] = "Album";
+$MESS ['IBLOCK_SORT_ASC'] = "ascendant";
+$MESS ['IBLOCK_SORT_SHOWS'] = "Moyenne des vues";
+$MESS ['P_COMMENTS_TYPE_BLOG'] = "Blog";
+$MESS ['IBLOCK_SORT_COMMENTS'] = "commentaires";
+$MESS ['P_COMMENTS_TYPE'] = "Brique de commentaire";
+$MESS ['T_DATE_TIME_FORMAT'] = "Format de date";
+$MESS ['IBLOCK_SORT_DESC'] = "descendant";
+$MESS ['T_IBLOCK_DESC_NEWS_PANEL'] = "Afficher pour ce composant les boutons du panneau ";
+$MESS ['IBLOCK_ELEMENT_CODE'] = "Code d'élement";
+$MESS ['IBLOCK_ELEMENT_ID'] = "ID de l'élement";
+$MESS ['IBLOCK_ELEMENT_SORT_FIELD'] = "Champs pour le tri des photos";
+$MESS ['P_COMMENTS_TYPE_FORUM'] = "Forum";
+$MESS ['IBLOCK_USER_ALIAS'] = "Code de galerie";
+$MESS ['IBLOCK_BEHAVIOUR'] = "Mode de la galerie";
+$MESS ['IBLOCK_IBLOCK'] = "Bloc d'information";
+$MESS ['IBLOCK_TYPE'] = "Type de bloc d'information";
+$MESS ['IBLOCK_SORT_TIMESTAMP'] = "date de modification";
+$MESS ['IBLOCK_BEHAVIOUR_USER'] = "multi-utilisateur";
+$MESS ['IBLOCK_SORT_NAME'] = "nom";
+$MESS ['IBLOCK_DETAIL_URL'] = "Photo";
+$MESS ['IBLOCK_DETAIL_EDIT_URL'] = "Photo (éditer)";
+$MESS ['IBLOCK_SORT_RATING'] = "Classement";
+$MESS ['IBLOCK_SEARCH_URL'] = "Page des recherches";
+$MESS ['IBLOCK_SECTION_CODE'] = "Code de bloc";
+$MESS ['IBLOCK_SECTION_ID'] = "ID de section";
+$MESS ['P_SHOW_TAGS'] = "Montrer les libellés";
+$MESS ['IBLOCK_BEHAVIOUR_SIMPLE'] = "simple";
+$MESS ['IBLOCK_ELEMENT_SORT_ORDER'] = "Ordre de tri des photos dans une section";
+$MESS ['IBLOCK_SORT_SORT'] = "index de tri";
+$MESS ['T_IBLOCK_DESC_USE_PERMISSIONS'] = "Utilisez une restriction d'accès supplémentaire";
+$MESS ['T_IBLOCK_DESC_GROUP_PERMISSIONS'] = "Groupes d'utilisateurs autorisés à voir la description détaillée";
+?>

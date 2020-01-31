@@ -1,0 +1,29 @@
+<?
+$MESS["ANKETA"] = "Анкета на заключение договора АСЦ";
+$MESS["SUCCESS_SAVE"] = "Спасибо! Ваша заявка отправлена ответственному сотруднику.";
+$MESS["THE_LIST_OF_REQUIRED_DOCUMENTS"] = "Перечень необходимых документов";
+$MESS["ABOUT_COMPANY"] = "О компании";
+$MESS["CONTACT_INFORMATION_HEAD_OF_THE"] = "Контактные данные руководителя";
+$MESS["DIRECTION_OF_THE_ACTIVITY"] = "Направления деятельности АСЦ";
+$MESS["REGIONS_OF_ACTIVITY"] = "Регионы осуществления деятельности";
+$MESS["CONTACTS_PERSON"] = "Контактное лицо, составившее заявку";
+$MESS["CONTRACT_CTO"] = "Договор ЦТО";
+$MESS["CONTRACT_HEAD"] = "Партнерский договор";
+$MESS["CONTRACT_NUMBER"] = "Номер договора";
+$MESS["CONTRACT_DATE"] = "Дата заключения договора";
+$MESS["COMPANY_NAME"] = "Название компании";
+$MESS["COMPANY_INN"] = "ИНН";
+$MESS["REGION"] = "Регион";
+$MESS["TOWN"] = "Город";
+$MESS["ADDRESS"] = "Адрес (без города)";
+$MESS["PHONE"] = "Телефон";
+$MESS["EMAIL"] = "E-mail";
+$MESS["SITE"] = "Веб-сайт";
+$MESS["POSITION"] = "Должность";
+$MESS["FIO"] = "ФИО";
+$MESS["ADD_CONTACTS_INFORMATION"] = "Добавить";
+$MESS["ADD"] = "Добавить";
+$MESS["DIRECTIONS"] = "Направление";
+$MESS["QUANTITY"] = "Количество";
+$MESS["OTHER"] = "Другое...";
+?>

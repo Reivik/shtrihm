@@ -1,0 +1,1 @@
+<?$arTemplate = array("NAME"=>"2018", "DESCRIPTION"=>"Шаблон для страницы 2018");?>
