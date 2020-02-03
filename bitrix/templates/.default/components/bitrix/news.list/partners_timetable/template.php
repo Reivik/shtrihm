@@ -20,19 +20,19 @@
 		<h2><?=$MONTH[$arDates[0]].' '.$arDates[1]?></h2>
 		<table width="100%">		
 			<tr>
-				<th width="144px"><?=GetMessage("REGION");?></th>
+				<!--<th width="144px"></?=GetMessage("REGION");?></th>-->
 				<th><?=GetMessage("INFORMATION");?></th>
 				<th></th>
 			</tr>		
 			<?foreach($keys as $key):?>
 				<?$arItem=$arResult["ITEM"][$key]?>				
 				<tr>
-					<td>
-						<?=$arItem["PROGRAMM"]["CITY"]?>
-						<?if(!empty($arItem["PROGRAMM"]["PICTURE"])):?>
-							<img src="<?=$arItem["PROGRAMM"]["PICTURE"]?>" width="100px" />
-						<?endif;?>
-					</td>
+					<!--<td>
+</?=$arItem["PROGRAMM"]["CITY"]?>
+</?if(!empty($arItem["PROGRAMM"]["PICTURE"])):?>
+<img src="</?=$arItem["PROGRAMM"]["PICTURE"]?>" width="100px" />
+</?endif;?>
+					</td>-->
 					<td>
 						<?if(!empty($arItem["PROGRAMM"]["NAME"])):?>
 							<b><?=GetMessage("THEME_OF_COURSE");?></b> <?=$arItem["PROGRAMM"]["NAME"]?><br />
